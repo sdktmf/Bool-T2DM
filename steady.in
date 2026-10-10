@@ -1,9 +1,0 @@
-rules = T2DM.txt
-turn_on = OS
-turn_off = ER,FasL,IL6,TNFalfa
-ini_on = 
-ini_off = 
-mode=Sync
-steps=100
-rounds=100
-initial_limit=0

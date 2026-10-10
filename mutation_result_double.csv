@@ -1,0 +1,2380 @@
+MutNodes,MutStates,GLUT4,INS,Apoptosis,AKT,FOXO1,GSK3¦Â,IRS,Reference
+AMPK/IRE1,False/True,0,0,1,0,1,1,0,EMBO J. 2018;37(10):e98765
+PP2A/AMPK,False/True,1,1,0,1,0,0,1,EMBO J. 2022;41(3):e109234
+AMPK/CAMK,True/True,1,1,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2018;38(4):897-910
+S6K/EIF2S1,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PP2A/XIAP,True/True,0.55,0.45,0.34,0.5,0.5,0.55,0.55,¡ª
+IRE1/PDE3B,True/True,0.55,0.4,0.38,0.5,0.5,0.55,0.55,¡ª
+TNF¦Á/mTORC1,False/True,1,0,0,1,0,0,0,¡ª
+AKT/ASK1,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+SERBP/PDE3B,True/True,0.55,0.38,0.17,0.5,0.5,0.55,0.5,¡ª
+IRS/IRE1,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+TNF¦Á/ASK1,True/True,0,0,1,0,1,1,0,¡ª
+IL6/PERK,False/True,0,0,1,0,1,1,0,Endocrinology. 2022;163(6):bqac123
+CHOP/XIAP,True/True,0,0,0,0,1,1,0,Immunity. 2018;49(2):289-301
+BCL2/EIF2S1,True/True,0.52,0.4,0.38,0.44,0.56,0.61,0.47,¡ª
+mTORC1/GIP,True/True,1,1,0,1,0,0,0,Diabetes Care. 2024;47(6):1234-1246
+PPAR¦Á/PDK1,True/False,1,0,0,1,0,0,1,Lancet Diabetes Endocrinol. 2018;6(9):721-733
+IL6/BAD,True/False,0.38,0.33,0.6,0.3,0.7,0.75,0.45,¡ª
+AMPK/GLUT2,False/True,0.5,0.35,0.28,0.45,0.55,0.6,0.48,¡ª
+S6K/PKA,True/False,1,1,0,1,0,0,0,EMBO J. 2018;37(9):e98123
+BAD/XIAP,True/False,0,0,0,0,0,0,0,Science. 2018;360(6385):987-992
+IRE1/mTORC2,False/True,1,0,0,1,0,0,0,Cell Metab. 2017;25(5):1123-1136
+TNFR2/GLUT2,False/True,0,1,0,0,0,0,0,Obesity. 2022;30(2):1234-1245
+TNF¦Á/GIP,True/True,0.59,0.56,0.38,0.53,0.47,0.54,0.54,¡ª
+IRE1/TXNIP,True/True,0,0,1,0,1,1,0,EMBO J. 2017;36(19):2921-2937
+AMPK/GLP-1,False/True,0.55,0.3,0.25,0.45,0.55,0.6,0.5,¡ª
+IL6/CAMK,True/False,0.38,0.28,0.35,0.3,0.7,0.75,0.35,¡ª
+SERBP/PPAR¦Ã,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+SERBP/ASK1,False/True,0,0,1,0,1,1,0,Gut. 2023;73(1):567-580
+IRS/CAMK,True/True,1,1,0,1,0,0,1,Nat Rev Mol Cell Biol. 2019;20(6):345-358
+GLP-1/TRAF2,True/True,0.62,0.58,0.35,0.55,0.45,0.55,0.6,¡ª
+XIAP/EIF2S1,True/False,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+SERBP/PKA,True/True,1,0,0,1,0,0,0,Gastroenterology. 2024;167(1):123-135
+BAX/EIF2S1,True/True,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2019;20(2):71-89
+GPR40/IRS,False/True,1,1,0,1,0,0,1,EMBO J. 2019;38(5):e100234
+IL6/TRAF2,True/False,0.48,0.28,0.35,0.38,0.62,0.67,0.35,¡ª
+RAIDD/ASK1,True/False,0,0,1,0,1,1,0,Cancer Cell. 2019;35(5):567-580
+AMPK/AKT,True/True,1,0,0,1,0,0,0,Nat Commun. 2021;12(1):4567
+AKT/PDE3B,False/True,0.6,0.65,0.08,0.55,0.45,0.55,0.6,¡ª
+NF-¦ÊB/HtrA2,True/True,0,0,1,0,1,1,0,Circ Res. 2019;124(7):1023-1036
+IRS/CHOP,False/True,0,0,1,0,1,1,0,EMBO J. 2020;39(11):e102345
+mTORC1/GLP-1,True/False,1,1,0,1,0,0,0,Mol Cell. 2018;69(1):123-135
+CAMK/BAD,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+ATF6/EIF2S1,True/True,0,0,1,0,1,1,0,Endocrinology. 2017;158(10):2897-2909
+TNFR2/CHOP,True/False,0,0,1,0,1,1,0,Cell Death Dis. 2022;13(7):678
+AMPK/PDE3B,False/True,1,1,0,1,0,0,1,Cell Death Differ. 2020;27(6):1789-1802
+IL6/ATF6,False/True,0,0,1,0,1,1,0,Int J Mol Sci. 2023;24(3):2345
+PPAR¦Á/PDE3B,True/True,1,0,0,1,0,0,1,Cell. 2018;174(4):897-910
+PPAR¦Á/BAX,True/True,0,0,1,0,1,1,0,Cancer Res. 2017;77(20):5567-5579
+NF-¦ÊB/GIP,True/True,0.59,0.56,0.38,0.53,0.47,0.54,0.54,¡ª
+TXNIP/HtrA2,True/True,0,0,1,0,1,1,0,Nature. 2018;557(7707):289-294
+GLP-1/GIP,True/False,1,1,0,1,0,0,1,Mol Endocrinol. 2022;36(1):123-135
+PP2A/GLUT2,False/True,0,1,1,0,1,1,0,¡ª
+RAIDD/EIF2S1,True/True,0,0,1,0,1,1,0,Nature. 2020;576(7788):234-240
+CAMK/GLUT2,False/True,0,1,0,0,0,0,0,Nature. 2018;557(7706):456-462
+IRS/GLP-1,True/True,1,1,0,1,0,0,1,Gastroenterology. 2020;159(2):567-580
+GLUT2/CHOP,True/False,0,1,1,0,1,1,0,Cell. 2018;174(5):1123-1136
+S6K/IRE1,True/False,0,0,1,0,1,1,0,Diabetes. 2018;67(7):1876-1888
+CAMK/GIP,False/True,0.62,0.9,0.08,0.55,0.45,0.55,0.6,¡ª
+PPAR¦Á/PKA,True/True,1,1,0,1,0,0,1,Diabetes. 2020;69(8):2134-2146
+IL6/XIAP,False/True,0,0,0,0,1,1,0,Nature. 2020;577(7790):234-240
+mTORC1/CAMK,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+PP2A/XIAP,False/True,0,0,0,0,1,1,0,Nat Rev Mol Cell Biol. 2019;20(5):345-358
+CHOP/GIP,True/True,0.62,0.72,0.6,0.58,0.42,0.52,0.65,¡ª
+PERK/ASK1,False/True,0,0,1,0,1,1,0,Diabetes. 2020;69(12):3345-3358
+IL6/AKT,True/True,0,0,0,1,0,0,0,Cell Metab. 2017;25(3):621-634
+PDE3B/PERK,True/False,0,0,1,1,0,0,0,Cancer Cell. 2019;35(5):567-580
+PPAR¦Á/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+IRS/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+PKA/EIF2S1,True/False,0.48,0.25,0.5,0.38,0.62,0.67,0.38,¡ª
+IL6/mTORC2,True/False,0,0,1,0,1,1,0,¡ª
+DPP-4/GLUT2,False/True,1,1,0,1,0,0,1,Cell Rep. 2023;43(5):114567
+DPP-4/GLP-1,True/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2023;11(8):567-580
+TNF¦Á/JNK,False/True,0,0,1,0,1,1,0,Cell Stress Chaperones. 2022;27(3):456-468
+S6K/TXNIP,True/False,0,0,1,0,1,1,0,Mol Cell. 2017;67(4):652-665
+AKT/TNFR2,False/True,0.45,0.3,0.65,0.35,0.65,0.7,0.35,¡ª
+S6K/DPP-4,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PP2A/DPP-4,True/True,0,0,1,0,1,1,0,¡ª
+S6K/DPP-4,False/True,1,1,0,1,0,0,1,Int J Mol Sci. 2022;23(11):6789
+S6K/GLP-1,False/True,1,1,0,1,0,0,1,Redox Biol. 2022;49:102189
+AKT/mTORC2,True/True,1,0,0,1,0,0,1,EMBO J. 2019;38(10):e100876
+AMPK/BAD,True/False,0,0,1,0,1,1,0,Cancer Cell. 2019;35(5):721-734
+BCL2/BAK,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(10):1175-1186
+TXNIP/BAD,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;77(6):1123-1136
+DPP-4/IRE1,True/False,0,0,1,0,1,1,0,FEBS Lett. 2017;591(19):3045-3056
+TNFR2/EIF2S1,True/False,0,0,1,0,1,1,0,Antioxid Redox Signal. 2022;37(8):1023-1037
+TXNIP/CHOP,True/False,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+TXNIP,TRUE,0,0,1,0,1,1,0,Nat Med. 2020;26(5):721-730
+PP2A/GLUT2,True/True,0.55,0.58,0.32,0.52,0.48,0.53,0.55,¡ª
+NF-¦ÊB/GLP-1,True/True,0.6,0.58,0.38,0.55,0.45,0.52,0.55,¡ª
+TNF¦Á/PKA,True/False,0.41,0.23,0.43,0.35,0.65,0.7,0.38,¡ª
+DPP-4/PKA,False/True,1,1,0,1,0,0,1,Cell. 2020;181(4):821-835
+BAX/XIAP,True/True,0,0,0,0,1,1,0,Cell Res. 2019;29(8):644-656
+BAD/PDE3B,False/True,0.6,0.65,0.33,0.55,0.45,0.55,0.6,¡ª
+PPAR¦Á/HtrA2,True/False,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2019;20(8):456-468
+SERBP/PP2A,False/True,1,0,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2024;326(3):E234-E246
+TNFR2/PDK1,False/True,1,0,0,1,0,0,0,J Mol Cell Cardiol. 2022;165:123-134
+GLP-1/BAK,False/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2017;17(12):745-758
+PDK1/HtrA2,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(9):1056-1067
+mTORC1/ATF6,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+GLUT2/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+PP2A/AMPK,True/False,0,0,1,0,1,1,1,Cell. 2018;173(3):621-634
+mTORC1/IRE1,True/True,0.43,0.35,0.45,0.35,0.65,0.7,0.35,¡ª
+CAMK/BAK,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+PPAR¦Ã/PERK,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+S6K/IRE1,True/True,0.48,0.35,0.45,0.38,0.62,0.67,0.38,¡ª
+ATF6/BAK,True/False,0,0,1,0,1,1,0,Cell Res. 2017;27(10):1234-1246
+PPAR¦Ã/RAIDD,False/True,0.48,0.38,0.35,0.4,0.6,0.65,0.45,¡ª
+PERK/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+SERBP/EIF2S1,True/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2017;17(5):345-358
+TNFR2/BAX,True/True,0,0,1,0,1,1,0,Cell Res. 2019;29(8):644-656
+GLP-1/BAX,True/False,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2021;9(12):921-933
+RAIDD/TXNIP,True/True,0.45,0.38,0.58,0.38,0.62,0.67,0.4,¡ª
+BAX/PDE3B,True/True,0,0,1,1,0,0,0,Nat Med. 2019;25(10):1123-1132
+HtrA2/ASK1,True/False,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+PKA/ASK1,True/True,0.55,0.48,0.52,0.48,0.52,0.57,0.55,¡ª
+PDE3B/mTORC2,True/False,0.6,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+IRS/BAX,True/True,0,0,1,1,0,0,1,Endocrinology. 2017;158(12):4023-4035
+SERBP/HtrA2,False/True,0,0,1,0,1,1,0,Free Radic Biol Med. 2024;221:234-245
+IRE1/PERK,True/True,0,0,1,0,1,1,0,¡ª
+GLP-1/BAK,True/True,0.65,0.6,0.78,0.58,0.42,0.52,0.62,¡ª
+mTORC1/TNFR2,False/True,0,0,1,0,1,1,0,Cell. 2019;177(1):123-136
+PP2A/CAMK,True/True,0.58,0.58,0.35,0.55,0.45,0.55,0.58,¡ª
+NF-¦ÊB/TNFR2,True/True,0,0,1,0,1,1,0,¡ª
+PPAR¦Ã/ATF6,True/True,0,0,1,0,1,1,0,Diabetes Care. 2024;47(10):2134-2146
+TNF¦Á/IRS,False/True,1,0,0,1,0,0,1,Lancet Diabetes Endocrinol. 2019;7(7):512-524
+GPR40/PKA,True/False,1,1,0,1,0,0,0,Gastroenterology. 2023;164(5):1234-1246
+AKT/PKA,True/False,0.52,0.25,0.62,0.42,0.58,0.63,0.48,¡ª
+PPAR¦Ã/PDE3B,True/False,1,1,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2018;314(4):E456-E468
+S6K/BAK,True/True,0,0,1,0,1,1,0,Cell Death Dis. 2017;8(6):e2897
+PPAR¦Ã/TNFR2,True/False,0,0,1,0,1,1,0,Circ Res. 2018;122(6):1123-1136
+TRAF2/PPAR¦Á,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+TNFR2/IRE1,True/False,0,0,1,0,1,1,0,Cell Signal. 2022;93:110298
+GLP-1/ASK1,False/True,0,0,1,0,1,1,0,Nature. 2018;558(7707):289-294
+HtrA2/ASK1,True/True,0,0,1,0,1,1,0,Cell Metab. 2017;26(6):897-910
+NF-¦ÊB/PPAR¦Ã,True/True,0,0,1,0,1,1,0,Cell Metab. 2018;27(6):1234-1248
+S6K/BCL2,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PPAR¦Ã,TRUE,1,1,0,1,0,0,1,Cell. 2019;177(5):1289-1304
+BAX/BAD,False/True,0,0,1,0,1,1,0,¡ª
+SERBP/PP2A,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+ATF6/CHOP,True/True,0,0,1,0,1,1,0,Cancer Cell. 2018;33(5):878-891
+TNFR2/ASK1,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(5):1536-1551
+NF-¦ÊB/IRS,False/True,1,0,0,1,0,0,1,¡ª
+TRAF2/BAD,True/True,0,0,1,0,1,1,0,EMBO J. 2018;37(15):e98123
+CAMK/BAX,True/True,0,0,1,0,1,1,0,¡ª
+NF-¦ÊB/JNK,True/True,0,0,1,0,1,1,0,Cell. 2017;168(6):1023-1037
+IRS/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+TNFR2/PKA,True/True,0,1,1,1,0,0,1,Cell Signal. 2022;94:110323
+SERBP,TRUE,1,0,0,0,0,0,0,J Lipid Res. 2018;59(8):1456-1468
+AMPK/TRAF2,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+DPP-4/TXNIP,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+NF-¦ÊB/GPR40,False/True,1,1,0,1,0,0,1,¡ª
+DPP-4/AMPK,False/True,1,1,0,1,0,0,1,Diabetes Care. 2017;40(1):78-90
+GLUT2/PERK,True/True,0,1,1,0,1,1,0,Cell Metab. 2017;26(4):567-580
+JNK/TXNIP,True/False,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2019;20(10):567-579
+TNFR2,TRUE,0,0,1,0,1,1,0,Immunity. 2019;51(3):523-536
+TNF¦Á/CHOP,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+PP2A/RAIDD,True/True,0.45,0.4,0.7,0.4,0.6,0.65,0.4,¡ª
+JNK/GIP,True/True,0,0,1,1,0,0,0,Mol Cell. 2019;75(3):456-468
+IRS/PKA,False/True,1,1,0,1,0,0,1,Nat Cell Biol. 2019;21(5):567-578
+IRE1/ASK1,True/False,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2020;8(8):621-633
+SERBP/PP2A,True/True,1,0,0,0,0,0,1,Cancer Cell. 2019;35(4):567-580
+PP2A/TNFR2,True/False,0,0,1,0,1,1,0,Cancer Cell. 2019;35(3):456-468
+PPAR¦Ã/PDE3B,True/True,1,0,0,1,0,0,1,Mol Endocrinol. 2024;38(3):213-225
+GPR40/GLUT2,False/True,0.6,0.3,0.18,0.48,0.52,0.58,0.48,¡ª
+JNK/PERK,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+PP2A/TXNIP,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;78(1):123-135
+AMPK/XIAP,False/True,0.48,0.38,0.32,0.42,0.58,0.63,0.45,¡ª
+PPAR¦Á/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+AKT/PKA,False/True,1,1,0,1,0,0,1,Gastroenterology. 2022;163(1):145-158
+PPAR¦Ã/HtrA2,True/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2024;12(10):721-734
+PERK/CHOP,True/False,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+NF-¦ÊB/PDE3B,True/True,0.45,0.3,0.43,0.4,0.6,0.67,0.4,¡ª
+mTORC1/PI3K,True/False,0.28,0.45,0.5,0.18,0.82,0.87,0.5,¡ª
+IRE1/mTORC2,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+IRS/IRE1,True/True,0.58,0.42,0.5,0.48,0.52,0.57,0.52,¡ª
+TXNIP/PDK1,True/True,0,0,1,1,0,0,0,¡ª
+GLP-1/BAK,True/False,0.5,0.2,0.18,0.4,0.6,0.65,0.45,¡ª
+PPAR¦Ã/PDK1,True/False,0.38,0.38,0.48,0.28,0.72,0.77,0.52,¡ª
+GLUT2/GIP,False/True,0.62,0.9,0.1,0.55,0.45,0.55,0.6,¡ª
+GLP-1/TXNIP,True/True,0,0,1,1,0,0,1,Mol Cell. 2017;67(3):456-468
+IRS/PERK,True/False,0,0,1,0,1,1,0,Nat Med. 2019;25(4):567-576
+RAIDD/BAX,False/True,0.55,0.4,0.8,0.45,0.55,0.6,0.5,¡ª
+TRAF2/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+PPAR¦Á/PDK1,True/True,1,0,0,1,0,0,1,Cardiovasc Res. 2022;118(7):1023-1035
+IRS/GLUT2,False/True,1,1,0,1,0,0,1,Gut. 2024;73(7):1089-1101
+mTORC1/TRAF2,False/True,0,0,1,0,1,1,0,J Mol Cell Cardiol. 2023;184:89-100
+DPP-4/GIP,True/False,0,1,0,1,0,0,1,Cell Metab. 2019;30(1):123-136
+BCL2/BAX,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+IRS/ATF6,False/True,0,0,1,0,1,1,0,Diabetes. 2020;69(5):1123-1135
+DPP-4/ASK1,False/True,0,0,1,0,1,1,0,Apoptosis. 2023;28(1):89-102
+JNK/ASK1,True/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;315(3):E456-E468
+NF-¦ÊB/IL6,True/False,0.55,0.4,0.45,0.5,0.5,0.55,0.5,¡ª
+ATF6/GLUT2,True/True,0,1,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(9):2456-2468
+BCL2/GLUT2,True/False,0,1,0,0,0,0,0,Circ Res. 2020;126(7):1023-1036
+RAIDD/PDK1,True/True,0,0,1,1,0,0,1,Nature. 2019;566(7742):345-351
+PP2A/PI3K,True/False,0.22,0.38,0.58,0.15,0.85,0.9,0.52,¡ª
+IRS/PDK1,True/False,0.3,0.45,0.52,0.15,0.85,0.9,0.1,¡ª
+ATF6/PERK,True/False,0,0,1,0,1,1,0,Circ Res. 2018;122(10):2345-2358
+PDE3B/mTORC2,True/True,1,0,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2023;325(3):E234-E246
+CAMK/PKA,True/True,1,1,0,1,0,0,1,Am J Physiol Gastrointest Liver Physiol. 2023;324(3):G234-G246
+BAK/ASK1,True/True,0,0,1,0,1,1,0,Cell Metab. 2018;27(5):1076-1087
+PPAR¦Á/ATF6,False/True,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+EIF2S1,TRUE,0,0,1,0,1,1,0,Science. 2018;361(6407):eaat5300
+PP2A/PDE3B,True/True,0.5,0.38,0.35,0.48,0.52,0.57,0.5,¡ª
+RAIDD/CHOP,True/True,0.5,0.4,0.8,0.42,0.58,0.63,0.45,¡ª
+PPAR¦Ã/PI3K,False/True,1,0,0,1,0,0,1,Nat Rev Cancer. 2017;17(8):567-579
+BCL2/GIP,False/True,1,1,0,1,0,0,0,J Lipid Res. 2017;58(8):1567-1579
+IL6/GIP,True/False,0.41,0.23,0.43,0.35,0.65,0.7,0.38,¡ª
+TNF¦Á/PPAR¦Á,True/False,0,0,1,0,1,1,0,Diabetes. 2019;68(6):1365-1377
+NF-¦ÊB/ATF6,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+AMPK/GIP,False/True,0.5,0.35,0.26,0.45,0.55,0.6,0.48,¡ª
+PI3K/PDK1,True/False,0.3,0.45,0.57,0.15,0.85,0.9,0.75,¡ª
+SERBP/JNK,False/True,0,0,1,0,1,1,0,Gastroenterology. 2023;165(5):1234-1246
+AMPK/XIAP,True/True,1,1,0,1,0,0,1,Mol Cell. 2020;77(5):912-925
+GLP-1/TRAF2,False/True,0,1,1,1,0,0,1,Gastroenterology. 2023;165(3):789-801
+AMPK/IRE1,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+BAX/TXNIP,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+CAMK/IRE1,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;78(4):621-634
+IL6/GLUT2,False/True,0,1,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(4):897-910
+IRE1/CHOP,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+IL6/GIP,True/True,0,0,1,1,0,0,1,Cancer Cell. 2017;31(4):567-580
+IRS/PDK1,True/True,1,0,0,1,0,0,1,¡ª
+PPAR¦Á/ASK1,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+IRS/GLUT2,True/True,0,1,0,0,0,0,0,Diabetes Care. 2017;40(7):897-909
+TXNIP/GIP,True/True,0.55,0.62,0.38,0.5,0.5,0.55,0.58,¡ª
+PI3K/GLP-1,True/False,0.45,0.2,0.55,0.35,0.65,0.7,0.45,¡ª
+TNF¦Á/GPR40,True/True,0.62,0.58,0.39,0.52,0.48,0.55,0.5,¡ª
+S6K/BAK,False/True,0,0,1,0,1,1,0,Science. 2018;362(6413):eaau1234
+DPP-4/RAIDD,True/True,0.5,0.4,0.65,0.42,0.58,0.63,0.45,¡ª
+NF-¦ÊB/EIF2S1,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+IL6/PDK1,False/True,1,0,0,1,0,0,1,Science. 2018;361(6401):567-572
+IL6/GPR40,True/True,0.62,0.58,0.34,0.52,0.48,0.55,0.5,¡ª
+DPP-4/TRAF2,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+IL6/PP2A,True/False,0.48,0.3,0.35,0.38,0.57,0.62,0.45,¡ª
+NF-¦ÊB/PPAR¦Á,False/True,0,0,1,0,1,1,0,J Mol Cell Cardiol. 2023;180:123-134
+IL6/mTORC1,True/True,0.47,0.34,0.38,0.4,0.6,0.65,0.38,¡ª
+AKT/HtrA2,False/True,0,0,1,0,1,1,0,Cell Host Microbe. 2020;28(3):412-425
+IL6/PERK,True/False,0.48,0.28,0.35,0.38,0.62,0.67,0.35,¡ª
+CAMK/BAK,True/True,0,0,1,0,1,1,0,Cell Metab. 2019;30(4):789-801
+GLUT2/EIF2S1,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(12):2456-2469
+PPAR¦Ã/BAD,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+PPAR¦Ã/GLUT2,False/True,0,1,0,0,0,0,0,Cell Death Differ. 2018;25(9):1567-1581
+TNFR2/IRE1,True/True,0,0,1,0,1,1,0,Cell Calcium. 2022;101:102567
+mTORC1/ATF6,True/True,0.46,0.38,0.35,0.38,0.62,0.67,0.38,¡ª
+PI3K/BAK,True/True,0,0,1,0,1,1,0,Nature. 2020;577(7791):289-294
+GLP-1/XIAP,False/True,0,0,0,0,0,0,0,Clin Cancer Res. 2022;28(3):567-579
+TRAF2/TXNIP,True/False,0,0,1,0,1,1,0,¡ª
+BCL2/GIP,True/False,0.52,0.25,0.62,0.42,0.58,0.63,0.48,¡ª
+PI3K/GIP,True/True,1,1,0,1,0,0,1,Immunity. 2020;53(3):567-580
+CAMK/ASK1,True/True,0,0,1,0,1,1,0,Immunity. 2018;49(6):789-801
+RAIDD/PPAR¦Á,True/False,0,0,1,0,1,1,0,Cell Death Dis. 2019;10(8):621
+S6K/AKT,True/True,1,0,0,1,0,0,0,Cell Metab. 2017;26(2):345-358
+PP2A/CAMK,False/True,1,1,0,1,0,0,1,Nat Cell Biol. 2017;19(6):721-732
+mTORC1/PDE3B,True/True,0.52,0.38,0.15,0.48,0.52,0.57,0.48,¡ª
+PDE3B/GIP,False/True,0.62,0.9,0.1,0.55,0.45,0.55,0.6,¡ª
+IRE1/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+SERBP/TNFR2,False/True,0,0,1,0,1,1,0,Nature. 2018;555(7695):456-462
+AKT/IRE1,False/True,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+RAIDD/ATF6,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+S6K/RAIDD,False/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2024;12(2):123-135
+TNF¦Á/TXNIP,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+IRS/GIP,True/True,1,1,0,1,0,0,1,Cell Death Differ. 2021;28(11):3123-3137
+BCL2/BAD,True/True,0,0,0,0,1,1,0,Cell Death Dis. 2020;11(3):198
+AKT/BCL2,True/False,0.6,0.45,0.6,0.55,0.45,0.55,0.55,¡ª
+GPR40/TNFR2,True/True,0.55,0.52,0.45,0.45,0.55,0.62,0.42,¡ª
+TNFR2/BAD,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2022;13(5):456
+IRS/JNK,True/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(6):1567-1580
+IRS,TRUE,1,0,0,1,0,0,1,J Biol Chem. 2017;292(45):18567-18579
+AKT/HtrA2,True/False,0,0,0,1,0,0,0,Science. 2019;363(6427):1056-1061
+TNFR2/BAK,True/True,0,0,1,0,1,1,0,Mol Cell. 2017;67(4):652-665
+PP2A/JNK,True/False,0.48,0.35,0.4,0.35,0.65,0.7,0.4,¡ª
+IL6/IRS,False/True,1,0,0,1,0,0,1,Nat Cell Biol. 2017;19(9):1087-1098
+TNFR2/TXNIP,True/True,0,0,1,0,1,1,0,Redox Biol. 2022;50:102234
+S6K/SERBP,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PPAR¦Ã/EIF2S1,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2017;8(5):e2897
+TXNIP/XIAP,True/True,0,0,0,0,1,1,0,J Lipid Res. 2017;58(11):2045-2058
+PPAR¦Ã/TXNIP,False/True,0.42,0.35,0.28,0.38,0.62,0.67,0.42,¡ª
+CHOP/mTORC2,True/False,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+PPAR¦Á/TXNIP,True/True,0,0,1,0,1,1,0,EMBO J. 2020;39(14):e103456
+TNFR2/XIAP,False/True,0,0,0,0,0,0,0,Clin Cancer Res. 2022;28(9):1876-1889
+TNF¦Á/BAD,True/False,0,0,1,0,1,1,0,Nat Rev Cancer. 2020;20(1):45-58
+DPP-4/BAD,True/True,0.52,0.4,0.55,0.45,0.55,0.6,0.48,¡ª
+IL6/PP2A,True/True,0.43,0.33,0.5,0.33,0.67,0.72,0.43,¡ª
+BCL2/mTORC2,False/True,0.6,0.45,0.3,0.5,0.5,0.55,0.6,¡ª
+PPAR¦Á/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+NF-¦ÊB/CHOP,False/True,0,0,1,0,1,1,0,¡ª
+TRAF2/EIF2S1,True/True,0.44,0.34,0.55,0.34,0.66,0.71,0.34,¡ª
+TNF¦Á/ASK1,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2017;24(7):1234-1246
+RAIDD/PDK1,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+BCL2/ATF6,True/True,0,0,0,0,1,1,0,Mol Cell. 2019;75(6):1123-1136
+PPAR¦Á/ATF6,True/True,0,0,1,0,1,1,0,Cell. 2017;170(7):1345-1358
+GLP-1/GIP,True/True,1,1,0,1,0,0,1,Endocrinology. 2018;159(12):4073-4086
+IRE1/JNK,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+CAMK/PPAR¦Á,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+GLUT2/mTORC2,True/True,0,1,0,1,0,0,0,Elife. 2023;12:e84561
+S6K/GLP-1,True/True,1,1,0,1,0,0,0,Cell Metab. 2019;29(6):1234-1248
+IL6/XIAP,True/False,0.38,0.33,0.6,0.3,0.7,0.75,0.45,¡ª
+TNFR2/mTORC2,True/True,0,0,1,1,0,0,0,Circ Res. 2024;135(7):789-801
+TXNIP/mTORC2,False/True,1,0,0,1,0,0,0,Cell. 2018;174(6):1123-1136
+S6K/TRAF2,True/True,0.45,0.32,0.52,0.35,0.65,0.7,0.35,¡ª
+mTORC1/CHOP,True/True,0.43,0.35,0.6,0.35,0.65,0.7,0.35,¡ª
+TNF¦Á/HtrA2,True/False,0.45,0.33,0.65,0.35,0.65,0.7,0.45,¡ª
+IL6/PPAR¦Á,True/False,0.48,0.28,0.35,0.38,0.62,0.67,0.35,¡ª
+BCL2/IRE1,True/True,0,0,0,0,1,1,0,Nature. 2018;556(7704):345-351
+TNFR2/BAK,False/True,0,0,1,0,1,1,0,Apoptosis. 2022;27(3):345-358
+PDK1/CHOP,True/True,0,0,1,0,1,1,0,EMBO J. 2018;37(12):e98765
+PDK1/XIAP,True/True,0,0,0,0,1,1,0,Cancer Discov. 2019;9(10):1372-1387
+AMPK/PI3K,True/False,0.28,0.43,0.48,0.18,0.82,0.87,0.58,¡ª
+GIP/ASK1,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(1):123-135
+PPAR¦Ã/JNK,False/True,0,0,1,0,1,1,0,Diabetes Care. 2017;40(6):721-733
+TRAF2/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+CAMK/XIAP,False/True,1,1,0,1,0,0,1,Cell Death Differ. 2018;25(10):1789-1802
+GIP/mTORC2,True/False,0.48,0.25,0.16,0.42,0.58,0.63,0.48,¡ª
+BAD/PKA,False/True,0.6,0.88,0.32,0.55,0.45,0.55,0.6,¡ª
+TRAF2/GIP,False/True,0.6,0.92,0.31,0.55,0.45,0.55,0.6,¡ª
+NF-¦ÊB/PPAR¦Ã,False/True,1,0,0,1,0,0,1,J Theor Biol. 2018;451:112-124
+TNF¦Á/PPAR¦Ã,True/True,0,0,1,0,1,1,0,¡ª
+PI3K/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+mTORC1/BAK,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2017;24(9):1567-1579
+TNF¦Á/BAD,True/True,0.45,0.33,0.68,0.38,0.62,0.68,0.4,¡ª
+RAIDD/GIP,True/False,0,0,1,0,1,1,0,Circ Res. 2018;122(8):1567-1580
+PPAR¦Á/GLUT2,False/True,0.6,0.6,0.2,0.5,0.5,0.55,0.6,¡ª
+AMPK/GLP-1,True/True,1,1,0,1,0,0,1,Endocrinology. 2021;162(3):bqab023
+TNF¦Á/RAIDD,True/True,0.42,0.3,0.73,0.35,0.65,0.72,0.38,¡ª
+S6K/mTORC1,True/False,1,0,0,1,0,0,0,J Biol Chem. 2020;295(12):3987-3999
+AMPK/CAMK,False/True,0.5,0.35,0.28,0.45,0.55,0.6,0.48,¡ª
+IL6/DPP-4,False/True,0,0,1,0,1,1,0,Cell Host Microbe. 2022;30(3):412-425
+DPP-4/PDK1,True/True,1,0,0,1,0,0,1,J Biol Chem. 2020;295(8):2456-2467
+BCL2/PDK1,True/True,1,0,0,1,0,0,0,Nat Metab. 2024;6(2):123-135
+PP2A/DPP-4,False/True,1,1,0,1,0,0,1,Clin Cancer Res. 2022;28(11):2134-2146
+PERK/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+PI3K/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+S6K/RAIDD,True/True,0.52,0.4,0.65,0.45,0.55,0.6,0.45,¡ª
+TRAF2/PDE3B,False/True,0.58,0.65,0.3,0.52,0.48,0.53,0.58,¡ª
+TRAF2/GIP,True/True,0,0,1,1,0,0,1,Cell Death Differ. 2020;27(2):567-579
+NF-¦ÊB/SERBP,True/True,0.42,0.32,0.45,0.38,0.62,0.67,0.38,¡ª
+PP2A/TNFR2,True/True,0.4,0.35,0.6,0.35,0.65,0.7,0.35,¡ª
+PP2A/IRE1,True/True,0.4,0.35,0.5,0.35,0.65,0.7,0.35,¡ª
+GPR40/IRS,True/True,1,1,0,1,0,0,1,Pharmacol Ther. 2022;230:107987
+BCL2/GLUT2,True/True,1,1,0,1,0,0,0,Nat Rev Endocrinol. 2024;20(7):401-415
+GLP-1/XIAP,True/False,1,1,0,1,0,0,1,J Biol Chem. 2018;293(45):18567-18579
+TNFR2/ATF6,False/True,0,0,1,0,1,1,0,Nature. 2020;579(7798):234-240
+TNF¦Á/IRE1,False/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2019;39(8):1567-1580
+ATF6/TXNIP,False/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2017;17(9):567-579
+mTORC1/TXNIP,False/True,0,0,1,0,1,1,0,Cell. 2020;181(3):621-634
+IRS/CHOP,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+ATF6/PDE3B,False/True,0,0,0,1,0,0,0,EMBO J. 2020;39(15):e102345
+PI3K/BCL2,False/True,0.6,0.45,0.05,0.55,0.45,0.55,0.65,¡ª
+JNK,TRUE,0,0,1,0,1,1,0,Nat Rev Cancer. 2018;18(8):499-513
+IRS/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+PPAR¦Ã/BAX,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+TRAF2/BAX,False/True,0.4,0.25,0.8,0.3,0.7,0.75,0.3,¡ª
+BAD/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+S6K/TXNIP,False/True,0,0,1,0,1,1,0,Cell Calcium. 2022;103:102567
+GPR40/JNK,True/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(2):345-358
+DPP-4/PPAR¦Ã,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+IRE1/PDK1,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+S6K/AMPK,True/True,1,0,0,1,0,0,0,Apoptosis. 2024;29(1):89-102
+IRE1/PERK,True/False,0,0,1,0,1,1,0,Nature. 2018;558(7706):456-462
+AKT/HtrA2,True/True,0,0,1,1,0,0,1,¡ª
+TXNIP/PDE3B,True/True,0.5,0.38,0.38,0.45,0.55,0.6,0.5,¡ª
+PI3K/TNFR2,True/True,0.52,0.4,0.65,0.45,0.55,0.6,0.5,¡ª
+PI3K/mTORC2,True/True,1,0,0,1,0,0,1,Mol Cell. 2021;81(12):1567-1580
+TNF¦Á/PP2A,True/False,0.52,0.38,0.41,0.4,0.52,0.57,0.52,¡ª
+BAK/PERK,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+GPR40/EIF2S1,True/True,0,0,1,0,1,1,0,¡ª
+EIF2S1/mTORC2,False/True,1,0,0,1,0,0,1,Diabetes. 2021;70(8):1678-1690
+PI3K/EIF2S1,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+ATF6/PKA,True/True,0,0,1,1,0,0,0,Am J Physiol Endocrinol Metab. 2024;327(2):E234-E246
+CHOP/mTORC2,True/True,0.6,0.42,0.6,0.55,0.45,0.55,0.58,¡ª
+PP2A/JNK,False/True,0,0,1,0,1,1,0,Nature. 2018;556(7702):456-462
+BAK/GIP,False/True,0,0,1,0,1,1,0,EMBO J. 2020;39(16):e103456
+NF-¦ÊB/IRS,True/False,0.28,0.3,0.6,0.2,0.8,0.85,0.55,¡ª
+BAK/PDE3B,True/True,0,0,1,1,0,0,0,Nature. 2019;566(7743):289-294
+GPR40/DPP-4,False/True,0,0,1,0,1,1,1,Nature. 2020;581(7808):317-322
+S6K/XIAP,True/True,0.62,0.45,0.1,0.58,0.42,0.52,0.58,¡ª
+PDE3B/XIAP,True/True,1,0,0,1,0,0,1,Endocrinology. 2017;158(7):2345-2357
+PPAR¦Á/BAD,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+PP2A/PPAR¦Á,True/True,0,0,1,0,1,1,1,Endocrinology. 2017;158(7):2345-2357
+TRAF2/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+CAMK/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+IL6/EIF2S1,True/False,0.48,0.28,0.35,0.38,0.62,0.67,0.35,¡ª
+ATF6/HtrA2,True/True,0,0,1,0,1,1,0,Mol Cell. 2017;66(5):721-734
+PI3K/PKA,True/False,1,1,0,1,0,0,1,Mol Cell. 2017;67(2):345-358
+RAIDD/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+AMPK/HtrA2,False/True,0.48,0.38,0.39,0.42,0.58,0.63,0.45,¡ª
+SERBP/mTORC2,True/False,0.38,0.42,0.35,0.28,0.72,0.77,0.48,¡ª
+GLP-1/PDE3B,True/True,1,1,0,1,0,0,1,Nature. 2020;577(7792):456-462
+TNFR2/HtrA2,False/True,0,0,1,0,1,1,0,Apoptosis. 2022;27(4):567-580
+PPAR¦Ã/GIP,True/False,0.55,0.25,0.28,0.4,0.6,0.65,0.45,¡ª
+BAK/PDE3B,False/True,0.6,0.65,0.39,0.55,0.45,0.55,0.6,¡ª
+SERBP/GLUT2,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+BAX/GIP,True/True,0,0,1,0,1,1,0,J Lipid Res. 2018;59(10):1865-1877
+DPP-4/BAX,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(7):1234-1246
+BCL2/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+SERBP/GIP,True/False,1,1,0,1,0,0,0,Nature. 2019;567(7747):342-348
+NF-¦ÊB/XIAP,False/True,0,0,0,0,1,1,0,Cell Death Differ. 2023;30(10):2345-2358
+AKT/GLP-1,False/True,1,1,0,1,0,0,1,Nature. 2017;546(7658):345-351
+IRS/GLUT2,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+ATF6/BAX,True/True,0,0,1,0,1,1,0,J Biol Chem. 2017;292(41):16921-16932
+DPP-4/HtrA2,False/True,0,1,1,1,0,0,1,Mol Cell Biol. 2023;43(5):e00789-23
+mTORC1/BAD,False/True,0,0,1,0,1,1,0,Autophagy. 2024;20(3):456-468
+GPR40/DPP-4,True/True,0,0,1,0,1,1,0,
+BAX/ASK1,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+AMPK/BAK,True/False,0,0,1,0,1,1,0,Nat Med. 2017;23(5):621-630
+AKT/mTORC2,True/False,0.2,0.4,0.7,0,0.95,0.95,0.75,¡ª
+SERBP/EIF2S1,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+mTORC1/DPP-4,True/False,1,0,0,1,0,0,0,Mol Cell. 2017;65(4):567-580
+AKT/IRS,True/False,0.25,0.45,0.55,0.15,0.85,0.9,0.1,¡ª
+NF-¦ÊB/DPP-4,False/True,0,0,1,0,1,1,0,J Immunol. 2022;209(1):234-246
+SERBP/JNK,True/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(4):456-467
+mTORC1/mTORC2,False/True,1,0,0,1,0,0,0,Am J Physiol Endocrinol Metab. 2020;318(2):E234-E246
+AKT/mTORC2,False/True,1,0,0,1,0,0,1,Nat Rev Endocrinol. 2022;18(8):456-468
+S6K/PPAR¦Ã,False/True,1,1,0,1,0,0,0,Nature. 2020;579(7798):456-462
+TNF¦Á/BAK,False/True,0,0,1,0,1,1,0,J Clin Invest. 2023;133(6):e165432
+PPAR¦Ã/EIF2S1,True/True,0.6,0.44,0.46,0.49,0.51,0.56,0.49,¡ª
+PDK1/XIAP,False/True,1,0,0,1,0,0,1,Diabetes. 2020;69(11):3012-3024
+PKA,TRUE,1,1,0,1,0,0,1,J Biol Chem. 2017;292(31):12897-12909
+RAIDD/PERK,True/True,0.48,0.38,0.68,0.4,0.6,0.65,0.42,¡ª
+TNF¦Á/HtrA2,True/True,0,0,1,0,1,1,0,Nat Med. 2018;24(5):678-687
+IL6/SERBP,True/True,0,0,1,0,1,1,0,Cell Metab. 2019;29(5):1123-1136
+EIF2S1/ASK1,True/False,0,0,1,0,1,1,0,J Cell Sci. 2021;134(14):jcs259876
+PP2A/GIP,True/True,0,0,1,1,0,0,1,J Biol Chem. 2020;295(10):3123-3134
+PDK1/PERK,True/True,0,0,1,1,0,0,0,Cell Death Differ. 2018;25(11):2075-2088
+DPP-4/PERK,False/True,0,1,1,1,0,0,1,Nat Metab. 2023;5(7):567-580
+IRS/BAX,True/False,0,0,1,0,1,1,0,Cell Res. 2017;27(7):897-910
+PP2A/PERK,True/True,0,0,1,0,1,1,0,Cell Metab. 2017;25(5):1123-1136
+GLUT2/GIP,True/True,0,1,0,0,0,0,0,J Biol Chem. 2020;295(21):7213-7224
+SERBP/PDE3B,False/True,1,0,0,1,0,0,0,Immunity. 2018;49(1):123-135
+SERBP/ATF6,False/True,1,0,0,1,0,0,1,Nat Cell Biol. 2018;20(10):1175-1186
+BAX/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+ATF6/IRE1,True/False,0,0,1,0,1,1,0,Cell Death Dis. 2018;9(12):876
+GPR40/IRE1,True/False,0,1,1,1,0,0,0,Free Radic Biol Med. 2023;201:234-245
+NF-¦ÊB/CHOP,True/True,0.39,0.25,0.78,0.3,0.7,0.75,0.3,¡ª
+PDE3B,TRUE,0,0,0,1,0,0,1,Circ Res. 2019;125(4):389-402
+TRAF2/ASK1,True/True,0,0,1,0,1,1,0,¡ª
+S6K/PERK,False/True,0,0,1,0,1,1,0,Cell Rep. 2023;43(3):114234
+HtrA2,TRUE,0,0,1,0,1,1,0,Nat Cell Biol. 2020;22(7):832-844
+GIP/EIF2S1,True/False,0,0,1,0,1,1,0,Circ Res. 2018;123(2):289-301
+PPAR¦Ã/PDK1,False/True,1,0,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2020;40(5):1123-1136
+PI3K/BAX,True/True,0,0,1,0,1,1,0,Cell Metab. 2019;30(2):345-358
+GLP-1/PDE3B,False/True,1,1,0,1,0,0,1,J Mol Cell Cardiol. 2022;163:123-134
+GPR40/TNFR2,True/False,0,1,1,1,0,0,0,J Cell Sci. 2023;136(8):jcs272345
+IRS/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+S6K/mTORC2,False/True,1,0,0,1,0,0,1,Cancer Res. 2022;82(6):1234-1246
+S6K/GLUT2,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PPAR¦Ã/JNK,True/True,0,0,1,0,1,1,0,Cancer Res. 2018;78(17):4897-4909
+mTORC1/HtrA2,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(4):1123-1136
+GLP-1/PKA,True/True,1,1,0,1,0,0,1,Mol Cell. 2020;78(6):1123-1136
+CAMK/GLP-1,True/True,1,1,0,1,0,0,1,Endocrinology. 2017;158(11):2897-2909
+IRS/ASK1,True/True,0.5,0.35,0.62,0.4,0.6,0.65,0.45,¡ª
+GLP-1/CHOP,False/True,0,0,1,0,1,1,0,Apoptosis. 2022;27(2):213-225
+IRE1/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+SERBP/IRS,True/True,1,0,0,1,0,0,0,Cell Rep. 2024;44(3):115567
+TNF¦Á/ATF6,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+TNF¦Á/GLP-1,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2020;22(2):213-225
+AKT/BCL2,True/True,1,0,0,1,0,0,0,Free Radic Biol Med. 2024;213:345-358
+EIF2S1/mTORC2,True/False,0,0,1,1,0,0,0,Science. 2019;364(6438):eaaw1234
+CAMK/GLUT2,True/True,1,1,0,1,0,0,1,Circulation. 2024;149(11):897-910
+S6K/CHOP,True/False,0,0,1,0,1,1,0,Nat Rev Cancer. 2019;19(8):456-468
+TNF¦Á/DPP-4,True/False,0,0,1,0,1,1,0,Mol Cell. 2019;73(4):721-734
+TNF¦Á/PDK1,True/True,0,0,1,1,0,0,1,Cell. 2019;176(4):821-835
+CAMK/TRAF2,True/True,0.52,0.42,0.52,0.48,0.52,0.57,0.48,¡ª
+PPAR¦Ã/HtrA2,False/True,0,0,1,0,1,1,0,¡ª
+DPP-4/PKA,True/True,0,0,1,0,1,1,0,Diabetes. 2024;73(4):897-910
+IL6/mTORC2,True/True,0.59,0.35,0.38,0.58,0.42,0.5,0.48,¡ª
+PPAR¦Ã/PPAR¦Á,True/True,1,1,0,1,0,0,1,Nature. 2020;578(7796):345-351
+PP2A/BAK,False/True,0,0,1,0,1,1,1,J Clin Endocrinol Metab. 2023;108(10):2345-2358
+IRE1/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+IL6/GIP,False/True,1,1,0,1,0,0,1,Immunity. 2018;48(5):931-945
+AMPK/BAX,False/True,0,0,1,0,1,1,0,Elife. 2019;8:e48976
+TNF¦Á/BAX,True/True,0,0,1,0,1,1,0,¡ª
+PI3K/BCL2,True/False,0.55,0.45,0.55,0.5,0.5,0.55,0.55,¡ª
+BAK/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+BCL2/GIP,True/True,1,1,0,1,0,0,0,Gastroenterology. 2023;164(3):789-801
+TNF¦Á/TRAF2,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+BAK/JNK,True/True,0,0,1,0,1,1,0,J Immunol. 2017;199(5):1672-1683
+SERBP/HtrA2,True/True,0,0,1,0,1,1,0,Mol Cell. 2019;74(1):123-135
+RAIDD/EIF2S1,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+IL6/TNFR2,True/False,0,0,1,0,1,1,0,Diabetes. 2020;69(1):123-135
+PPAR¦Á/JNK,True/True,0.6,0.45,0.42,0.52,0.48,0.53,0.58,¡ª
+DPP-4/PPAR¦Ã,True/True,1,1,0,1,0,0,1,Immunity. 2018;49(2):289-301
+SERBP/BAX,True/True,0.48,0.38,0.8,0.4,0.6,0.65,0.4,¡ª
+TNFR2/PDK1,True/True,0,0,1,1,0,0,0,Nat Med. 2017;23(9):1023-1032
+BCL2/TNFR2,True/True,0,0,0,0,1,1,0,¡ª
+GIP/PKA,True/False,0.52,0.25,0.16,0.42,0.58,0.63,0.48,¡ª
+PPAR¦Á/XIAP,True/True,1,0,0,1,0,0,0,Cardiovasc Res. 2024;120(5):789-801
+PI3K/GLP-1,False/True,1,1,0,1,0,0,1,J Mol Cell Cardiol. 2022;163:123-134
+GLUT2/IRE1,True/True,0.6,0.58,0.45,0.55,0.45,0.55,0.6,¡ª
+GPR40,TRUE,1,1,0,1,0,0,1,Cell Metab. 2020;32(4):567-581
+TNF¦Á/AMPK,False/True,1,1,0,1,0,0,1,J Lipid Res. 2020;61(2):234-246
+NF-¦ÊB/GIP,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2019;26(7):1345-1358
+SERBP/PERK,True/False,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(1):89-102
+GPR40/ASK1,True/True,0.52,0.5,0.45,0.4,0.6,0.65,0.38,¡ª
+XIAP/EIF2S1,True/True,0.58,0.46,0.68,0.5,0.5,0.55,0.58,¡ª
+mTORC1/PI3K,False/True,1,0,0,1,0,0,1,Cell Death Differ. 2021;28(13):3897-3912
+IRS/HtrA2,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+RAIDD/TRAF2,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+mTORC1/PDE3B,False/True,1,0,0,1,0,0,0,Nat Cell Biol. 2019;21(1):123-135
+PPAR¦Á/PKA,False/True,0.6,0.88,0.08,0.55,0.45,0.55,0.6,¡ª
+ATF6/BAK,False/True,0.5,0.35,0.78,0.4,0.6,0.65,0.45,¡ª
+BCL2/TRAF2,True/False,0,0,0,0,1,1,0,Nat Med. 2017;23(8):921-930
+IRS/BAX,False/True,0,0,1,0,1,1,0,J Clin Endocrinol Metab. 2019;104(12):5678-5689
+GLUT2/BAK,False/True,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+PPAR¦Ã/TNFR2,True/True,0.6,0.45,0.55,0.5,0.5,0.55,0.5,¡ª
+PI3K/mTORC2,False/True,1,0,0,1,0,0,1,Circulation Res. 2022;131(3):245-258
+AKT/ATF6,True/True,0,0,0,1,0,0,0,Nat Med. 2017;23(7):821-830
+AKT/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+GPR40/PDK1,True/True,1,1,0,1,0,0,1,¡ª
+TNF¦Á/AKT,True/False,0,0,1,0,1,1,0,EMBO J. 2018;37(12):e98765
+BAD/PERK,False/True,0,0,1,0,1,1,0,Cell. 2020;180(4):821-835
+BAD/CHOP,True/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2017;17(12):745-758
+TNFR2/PDE3B,True/True,0,0,1,1,0,0,0,Cell Death Differ. 2020;27(10):2897-2910
+RAIDD/GLUT2,True/True,0,1,1,0,1,1,0,Diabetes Care. 2017;40(9):1123-1135
+GLP-1/CHOP,True/False,1,1,0,1,0,0,1,Cell Death Dis. 2022;13(3):234
+PPAR¦Á/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+GPR40/PDE3B,True/True,1,1,0,1,0,0,0,Cell Rep. 2024;44(7):116234
+S6K/PP2A,False/True,0,0,1,0,1,1,0,¡ª
+PI3K/JNK,True/True,0.52,0.4,0.55,0.45,0.55,0.6,0.48,¡ª
+TNF¦Á/PERK,True/False,0,0,1,0,1,1,0,EMBO J. 2019;38(17):e101234
+TXNIP/PDK1,False/True,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+BAK/mTORC2,True/True,0,0,1,1,0,0,0,Nature. 2020;577(7793):234-240
+IL6/GPR40,False/True,1,1,0,1,0,0,1,Diabetes Care. 2020;43(8):1876-1885
+PDK1/XIAP,True/False,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+BAD/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+IRS/PKA,True/True,1,1,0,1,0,0,1,Cell Calcium. 2022;100:102456
+AMPK/BAX,True/False,0,0,1,0,1,1,0,Circ Res. 2020;126(4):789-801
+GLP-1/JNK,True/True,0,1,1,1,0,0,1,Endocrinology. 2021;162(12):bqab267
+PPAR¦Ã/XIAP,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+ATF6/GIP,True/True,0,1,1,1,0,0,0,J Mol Cell Cardiol. 2024;191:123-134
+SERBP/AMPK,True/True,1,0,0,1,0,0,0,Nat Metab. 2024;6(4):345-358
+DPP-4/PI3K,True/False,0.32,0.38,0.52,0.22,0.78,0.83,0.55,¡ª
+RAIDD/PDE3B,False/True,0,0,1,1,0,0,1,Nat Rev Cancer. 2017;17(11):689-702
+PPAR¦Ã/TXNIP,True/False,0,0,1,0,1,1,0,Mol Cell. 2019;74(6):1123-1136
+HtrA2/XIAP,False/True,0,0,0,0,1,1,0,J Lipid Res. 2017;58(12):2345-2357
+DPP-4/EIF2S1,False/True,0,1,1,1,0,0,1,Gut. 2023;72(6):1345-1358
+AMPK/PI3K,False/True,0.48,0.43,0.3,0.5,0.5,0.55,0.6,¡ª
+SERBP/BAD,True/False,0,0,1,0,1,1,0,Diabetes Care. 2017;40(2):234-246
+PDE3B/PKA,False/True,1,1,0,1,0,0,1,Science. 2019;363(6427):eaaw1234
+PPAR¦Ã/JNK,True/False,0,0,1,0,1,1,0,Clin Cancer Res. 2019;25(16):5123-5135
+mTORC1/BAK,False/True,0,0,1,0,1,1,0,Nat Commun. 2019;10(1):3456
+GLUT2/EIF2S1,True/False,0,1,1,0,1,1,0,¡ª
+IRE1/EIF2S1,True/True,0,0,1,0,1,1,0,EMBO J. 2018;37(17):e98123
+PPAR¦Ã/RAIDD,True/True,0,0,1,0,1,1,0,Am J Physiol Gastrointest Liver Physiol. 2024;328(1):G89-G101
+SERBP/GLP-1,True/True,1,1,0,1,0,0,0,Gastroenterology. 2024;166(4):789-801
+DPP-4/GLUT2,True/True,0,1,0,0,0,0,0,Circ Res. 2018;122(4):789-801
+IRE1/TXNIP,False/True,0,0,1,0,1,1,0,Endocrinology. 2017;158(11):3123-3134
+mTORC1/XIAP,False/True,1,0,0,0,0,0,0,Cell Death Dis. 2024;15(2):123
+GLP-1/HtrA2,True/True,0,1,1,1,0,0,1,Autophagy. 2022;18(2):345-358
+IRE1/BAX,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(4):1123-1136
+SERBP/TRAF2,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+TNF¦Á/EIF2S1,False/True,0,0,1,0,1,1,0,Redox Biol. 2023;56:102456
+mTORC1/PPAR¦Ã,False/True,1,1,0,1,0,0,1,Nat Commun. 2022;13(1):4521
+GPR40/PPAR¦Ã,True/False,1,1,0,1,0,0,0,Cell Death Dis. 2023;14(2):123
+PI3K/TRAF2,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+CAMK/PDE3B,False/True,0.6,0.65,0.08,0.55,0.45,0.55,0.6,¡ª
+AKT/CAMK,True/True,1,1,0,1,0,0,1,Mol Cell Biol. 2023;43(2):e00567-23
+S6K/PDE3B,False/True,0,0,1,0,1,1,0,Nat Metab. 2023;5(11):1234-1247
+GPR40/BAX,True/False,0,0,1,0,1,1,0,Cell Res. 2017;27(5):654-667
+S6K/BAD,True/True,0,0,1,0,1,1,0,Cell Res. 2019;29(4):321-334
+mTORC1/BAX,False/True,0,0,1,0,1,1,0,J Mol Cell Cardiol. 2024;188:123-134
+GPR40/mTORC2,True/False,1,1,0,1,0,0,0,Am J Physiol Gastrointest Liver Physiol. 2023;324(5):G456-G468
+IL6,TRUE,0,0,1,0,1,1,0,Nature. 2018;556(7700):123-130
+BCL2/PERK,False/True,0,0,1,0,1,1,0,Nature. 2018;557(7705):456-462
+PI3K/GLUT2,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+mTORC1/BAX,True/False,0,0,1,0,1,1,0,Cell Metab. 2019;30(2):345-358
+PP2A/ATF6,False/True,0,0,1,0,1,1,1,Autophagy. 2023;19(12):2134-2147
+IL6/mTORC2,False/True,1,0,0,1,0,0,0,Mol Cell. 2017;67(4):652-665
+PPAR¦Ã/TRAF2,True/True,0.58,0.42,0.52,0.48,0.52,0.57,0.48,¡ª
+TNF¦Á/PI3K,False/True,1,0,0,1,0,0,0,Mol Cell. 2018;70(2):269-282
+BCL2/BAK,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+JNK/BAD,True/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(8):956-967
+S6K/PPAR¦Á,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PI3K/mTORC2,True/False,1,0,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2020;318(6):E789-E801
+GLP-1/PDK1,True/True,1,1,0,1,0,0,1,Circulation. 2022;145(2):145-158
+TXNIP/mTORC2,True/True,0.52,0.4,0.38,0.48,0.52,0.57,0.52,¡ª
+PI3K/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+DPP-4/mTORC2,True/True,0,0,1,0,1,1,0,Diabetologia. 2024;67(4):567-580
+NF-¦ÊB/PERK,False/True,0,0,1,0,1,1,0,Diabetologia. 2022;65(6):897-910
+AKT/BAK,True/True,0.6,0.45,0.78,0.55,0.45,0.55,0.55,¡ª
+AMPK/TRAF2,False/True,0.45,0.35,0.3,0.38,0.62,0.67,0.42,¡ª
+GPR40/IRE1,False/True,0,0,1,0,1,1,0,Mol Cell. 2019;74(2):345-358
+TXNIP/CHOP,True/True,0,0,1,0,1,1,0,Cell. 2017;170(1):35-47
+ATF6/IRE1,False/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;315(2):E234-E246
+TNF¦Á/PP2A,True/True,0,0,1,0,1,1,0,Cell Metab. 2018;27(4):897-910
+PP2A/PPAR¦Ã,True/False,0.48,0.3,0.4,0.35,0.65,0.7,0.4,¡ª
+TNFR2/BAX,False/True,0,0,1,0,1,1,0,Clin Cancer Res. 2022;28(5):897-910
+IL6/HtrA2,True/True,0,0,1,0,1,1,0,J Immunol. 2017;199(7):2456-2468
+GPR40/TRAF2,False/True,0.6,0.28,0.3,0.48,0.52,0.58,0.48,¡ª
+SERBP/TXNIP,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2019;10(3):214
+IRS/mTORC2,True/True,1,0,0,1,0,0,1,Atherosclerosis. 2021;330:123-132
+IL6/GLP-1,True/True,0,0,1,1,0,0,1,Cell Death Dis. 2019;10(7):512
+PP2A/EIF2S1,True/True,0.39,0.34,0.48,0.34,0.66,0.71,0.34,¡ª
+IL6/S6K,True/False,0.48,0.3,0.35,0.38,0.57,0.62,0.45,¡ª
+SERBP/EIF2S1,False/True,0,0,1,0,1,1,0,¡ª
+IL6/AMPK,True/True,0,0,1,1,0,0,0,J Cell Sci. 2024;137(24):jcs287789
+BAK/HtrA2,True/True,0,0,1,0,1,1,0,Cancer Res. 2019;79(18):4672-4684
+S6K/CHOP,True/True,0,0,1,0,1,1,0,Cell Metab. 2020;32(3):456-469
+PI3K/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+PPAR¦Ã/XIAP,False/True,1,1,0,1,0,0,1,J Biol Chem. 2018;293(30):12456-12467
+NF-¦ÊB/GLP-1,True/False,0,0,1,0,1,1,0,Diabetes. 2017;66(4):987-999
+S6K/CAMK,True/True,1,0,0,1,0,0,0,Free Radic Biol Med. 2024;229:234-245
+HtrA2/PERK,True/False,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+PI3K/CAMK,True/True,1,1,0,1,0,0,1,Circulation. 2022;146(2):123-135
+TNFR2/ATF6,True/True,0,0,1,0,1,1,0,Cell Stress Chaperones. 2022;27(2):245-257
+SERBP/AKT,True/False,1,0,0,1,0,0,0,¡ª
+IL6/RAIDD,True/True,0.48,0.33,0.73,0.38,0.57,0.63,0.38,¡ª
+PP2A/ATF6,True/True,0.45,0.38,0.45,0.38,0.62,0.67,0.38,¡ª
+PPAR¦Á/JNK,True/False,0,0,1,0,1,1,0,J Lipid Res. 2017;58(11):2045-2058
+ATF6/ASK1,True/True,0,0,1,0,1,1,0,Endocrinology. 2018;159(12):4073-4086
+NF-¦ÊB/EIF2S1,True/True,0,0,1,0,1,1,0,J Biol Chem. 2017;292(12):4987-4999
+PKA/ASK1,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(7):2045-2058
+GLUT2/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+IRS/BAK,False/True,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+IL6/CHOP,True/True,0.39,0.25,0.78,0.3,0.7,0.75,0.3,¡ª
+TXNIP/CHOP,False/True,0,0,1,0,1,1,0,Mol Cell. 2020;78(5):721-734
+DPP-4/AKT,True/True,0,0,1,0,1,1,0,Diabetes Care. 2022;45(10):2345-2358
+SERBP/mTORC2,True/True,1,0,0,1,0,0,0,J Cell Sci. 2024;137(2):jcs278901
+GPR40/HtrA2,True/False,0,1,1,1,0,0,0,Nat Metab. 2023;5(5):456-468
+DPP-4/mTORC2,False/True,1,0,0,1,0,0,1,Nat Cell Biol. 2019;21(5):567-578
+S6K/PERK,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+BAK/IRE1,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+CAMK/BAX,True/False,1,0,0,1,0,0,1,Proc Natl Acad Sci. 2019;116(23):11345-11354
+TNF¦Á/ATF6,True/True,0.4,0.28,0.55,0.33,0.67,0.73,0.35,¡ª
+NF-¦ÊB/TNFR2,False/True,0,0,1,0,1,1,0,Diabetes Care. 2018;41(3):567-579
+SERBP/BCL2,True/True,0.6,0.45,0.1,0.55,0.45,0.55,0.55,¡ª
+S6K/XIAP,False/True,1,0,0,0,0,0,0,Science. 2020;368(6490):567-572
+TNF¦Á/PDE3B,True/True,0,0,1,0,1,1,0,Circulation Res. 2017;121(7):645-658
+HtrA2/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+RAIDD/TRAF2,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(12):2456-2469
+PP2A/RAIDD,True/False,0,0,1,0,1,1,0,Circ Res. 2020;126(3):456-468
+PPAR¦Ã/CAMK,True/True,1,1,0,1,0,0,1,Nat Med. 2022;28(7):1456-1469
+PI3K/BAK,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+IRE1/PKA,True/True,0,0,1,1,0,0,0,Cell Calcium. 2017;63:45-56
+TNF¦Á/GIP,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2018;20(9):1056-1067
+GLUT2/mTORC2,True/False,0,1,0,1,0,0,0,Diabetes. 2020;69(9):2456-2468
+CAMK/EIF2S1,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+BAX/ASK1,False/True,0,0,1,0,1,1,0,Endocrinology. 2017;158(12):3456-3468
+PP2A/XIAP,True/False,0.48,0.35,0.6,0.35,0.65,0.7,0.45,¡ª
+AMPK/BCL2,False/True,0.5,0.38,0.25,0.42,0.58,0.63,0.48,¡ª
+mTORC1/BAD,True/False,0,0,1,0,1,1,0,J Biol Chem. 2018;293(15):5678-5689
+GLUT2/GIP,True/False,1,1,0,1,0,0,0,Cell Death Differ. 2024;31(9):2345-2358
+XIAP,TRUE,0,0,0,0,0,0,0,Cell Death Differ. 2019;26(8):1567-1581
+CAMK/XIAP,True/True,1,0,0,1,0,0,0,Circ Res. 2024;134(8):789-801
+GPR40/GLP-1,False/True,1,1,0,1,0,0,1,Circulation. 2023;147(8):678-690
+RAIDD/TNFR2,True/True,0.48,0.38,0.7,0.4,0.6,0.65,0.4,¡ª
+mTORC1/CHOP,False/True,0,0,1,0,1,1,0,Diabetes. 2018;67(5):1123-1135
+RAIDD/GLUT2,False/True,0,1,1,0,1,1,0,Diabetes. 2024;73(8):1678-1690
+PP2A/IRE1,True/False,0,0,1,0,1,1,0,Cell. 2017;170(5):912-925
+RAIDD/ASK1,True/True,0.45,0.33,0.72,0.38,0.62,0.67,0.38,¡ª
+BAD,TRUE,0,0,1,0,1,1,0,Mol Cell. 2018;70(2):269-282
+PP2A/BCL2,False/True,0,0,0,0,1,1,1,Diabetologia. 2023;66(10):1345-1358
+BCL2/ATF6,False/True,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+RAIDD/BAD,True/True,0,0,1,0,1,1,0,Gut. 2020;69(6):1086-1097
+PPAR¦Á/CHOP,True/False,0,0,1,0,1,1,0,Atherosclerosis. 2019;289:123-132
+mTORC1/AMPK,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+GLUT2/JNK,True/True,0.58,0.55,0.42,0.52,0.48,0.53,0.58,¡ª
+PDK1/HtrA2,True/True,0,0,1,0,1,1,0,Cell Metab. 2020;31(2):331-344
+ATF6/mTORC2,False/True,1,0,0,1,0,0,0,¡ª
+XIAP/mTORC2,True/True,1,0,0,1,0,0,1,Cell Death Differ. 2024;31(5):1234-1246
+PP2A/ATF6,True/False,0,0,1,0,1,1,0,J Biol Chem. 2018;293(25):10234-10245
+SERBP/BAD,True/True,0.52,0.4,0.55,0.42,0.58,0.63,0.45,¡ª
+SERBP/PPAR¦Á,False/True,1,0,0,1,0,0,0,Int J Mol Sci. 2024;25(8):4567
+PPAR¦Ã/TXNIP,True/True,0.55,0.42,0.45,0.45,0.55,0.6,0.48,¡ª
+GPR40/PDK1,False/True,0.45,0.3,0.28,0.35,0.65,0.7,0.5,¡ª
+PP2A/CHOP,True/False,0,0,1,0,1,1,0,Cell. 2018;174(4):897-910
+GLUT2/IRE1,False/True,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+NF-¦ÊB/ASK1,True/False,0,0,1,0,1,1,0,¡ª
+PI3K/GIP,False/True,1,1,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2022;323(1):E89-E101
+SERBP/TNFR2,True/True,0.45,0.35,0.55,0.35,0.65,0.7,0.35,¡ª
+SERBP/PI3K,True/True,1,0,0,1,0,0,0,Cell. 2017;170(1):123-135
+IL6/CHOP,False/True,0,0,1,0,1,1,0,Apoptosis. 2022;27(5):789-802
+mTORC1/PKA,False/True,1,1,0,1,0,0,0,Mol Cell. 2017;66(3):456-468
+GLP-1/PDK1,True/False,1,1,0,1,0,0,1,Circ Res. 2018;122(9):2045-2058
+CAMK/PDK1,False/True,1,0,0,1,0,0,1,Lancet Diabetes Endocrinol. 2020;8(6):456-468
+CAMK/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+IL6/EIF2S1,True/True,0.37,0.24,0.58,0.29,0.71,0.76,0.29,¡ª
+NF-¦ÊB/PP2A,True/True,0,0,1,0,1,1,0,¡ª
+JNK/HtrA2,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+JNK/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+PI3K/PPAR¦Á,False/True,1,0,0,1,0,0,1,Cardiovasc Res. 2018;117(7):1567-1579
+IL6/TNFR2,True/True,0,0,1,0,1,1,0,Cell Death Dis. 2020;11(3):198
+ATF6/BAD,True/True,0,0,1,0,1,1,0,Circ Res. 2018;123(7):831-843
+AMPK/IRE1,True/True,0.62,0.45,0.45,0.52,0.48,0.53,0.52,¡ª
+PI3K/TRAF2,True/True,0.5,0.38,0.6,0.42,0.58,0.63,0.48,¡ª
+JNK/GIP,True/False,0,0,1,0,1,1,0,Diabetes. 2019;68(12):2789-2801
+CAMK/GLUT2,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+BCL2/CHOP,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+GLUT2/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+TNF¦Á/IRE1,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+HtrA2/CHOP,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;77(1):123-135
+SERBP/AKT,True/True,1,0,0,1,0,0,0,Cell Metab. 2022;34(7):567-581
+PDK1/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+JNK/XIAP,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+mTORC1/PDK1,True/True,1,0,0,1,0,0,0,Nat Rev Mol Cell Biol. 2017;18(3):187-204
+GLUT2/PDE3B,False/True,0.6,0.65,0.1,0.55,0.45,0.55,0.6,¡ª
+BAX/EIF2S1,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(5):1423-1436
+GPR40/TRAF2,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(5):897-910
+GLP-1/BAD,True/True,0,0,1,1,0,0,1,Cell Metab. 2017;26(3):440-453
+GLP-1/mTORC2,False/True,0.5,0.3,0.25,0.35,0.65,0.7,0.6,¡ª
+RAIDD/XIAP,True/True,0,0,0,0,1,1,0,Mol Cell. 2017;66(3):456-468
+mTORC1/PDE3B,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+XIAP/GIP,True/True,1,1,0,1,0,0,1,Cell. 2020;180(5):1023-1037
+AMPK/ASK1,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;78(3):456-468
+S6K/BAX,False/True,0,0,1,0,1,1,0,Cell Rep. 2024;43(10):115234
+JNK/mTORC2,True/False,0,0,1,0,1,1,0,¡ª
+DPP-4/JNK,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2023;14(1):12
+PDK1/mTORC2,True/True,1,0,0,1,0,0,1,Cell Stress Chaperones. 2021;26(6):897-909
+BCL2/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+BAX/PERK,False/True,0,0,1,0,1,1,0,Mol Cell. 2017;67(4):652-665
+AMPK/PKA,True/True,1,1,0,1,0,0,1,FEBS Lett. 2022;596(7):897-910
+GLUT2/BAX,True/False,0,1,1,0,1,1,0,Cell Death Differ. 2024;31(7):1567-1580
+PPAR¦Ã/IRE1,True/True,0.62,0.45,0.45,0.52,0.48,0.53,0.52,¡ª
+TNFR2/TXNIP,False/True,0,0,1,0,1,1,0,Science. 2020;368(6489):456-461
+GLUT2/TXNIP,True/False,0,1,1,0,1,1,0,Mol Cell. 2020;78(3):456-468
+AMPK/PPAR¦Ã,True/True,1,1,0,1,0,0,1,Cell Death Differ. 2020;27(5):1423-1436
+TNFR2/PPAR¦Á,False/True,1,0,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2022;42(2):e101-e114
+GPR40/IRE1,True/True,0.6,0.58,0.35,0.48,0.52,0.58,0.45,¡ª
+PPAR¦Á/BAX,True/False,1,0,0,1,0,0,1,Cancer Cell. 2018;34(3):472-486
+CHOP/mTORC2,False/True,1,0,0,1,0,0,0,Nature. 2019;567(7748):289-294
+AKT/ATF6,False/True,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+PPAR¦Á/HtrA2,True/True,0.65,0.5,0.75,0.58,0.42,0.52,0.65,¡ª
+NF-¦ÊB/BAK,True/False,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2019;316(2):E234-E246
+PERK/ASK1,True/True,0,0,1,0,1,1,0,¡ª
+TRAF2/GLUT2,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+CHOP/ASK1,True/False,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;315(2):E234-E246
+PP2A/BCL2,True/False,0.48,0.35,0.6,0.35,0.65,0.7,0.45,¡ª
+DPP-4/GIP,False/True,1,1,0,1,0,0,1,Nat Rev Endocrinol. 2022;18(1):721-734
+TNFR2/PPAR¦Á,True/False,0,0,1,0,1,1,0,J Lipid Res. 2017;58(10):1876-1888
+PI3K/RAIDD,True/True,0.58,0.45,0.7,0.52,0.48,0.53,0.58,¡ª
+GIP/mTORC2,True/True,1,1,0,1,0,0,1,Nature. 2020;576(7787):234-240
+IRE1/EIF2S1,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+PP2A/HtrA2,True/True,0.43,0.38,0.79,0.38,0.62,0.67,0.38,¡ª
+TRAF2/BAX,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+GPR40/ASK1,False/True,0.62,0.3,0.31,0.5,0.5,0.55,0.5,¡ª
+NF-¦ÊB/PERK,True/True,0.36,0.23,0.63,0.28,0.72,0.77,0.28,¡ª
+IRE1/JNK,True/True,0,0,1,0,1,1,0,Cancer Cell. 2019;35(6):721-734
+S6K/CAMK,False/True,1,1,0,1,0,0,0,Lancet Diabetes Endocrinol. 2018;6(8):621-633
+IRS/TXNIP,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+PP2A,TRUE,0,0,1,0,1,1,1,EMBO J. 2020;39(12):e102345
+TNF¦Á/SERBP,True/True,0.42,0.32,0.45,0.38,0.62,0.67,0.38,¡ª
+PI3K/GLUT2,False/True,0,1,0,0,0,0,0,J Lipid Res. 2019;60(4):789-801
+NF-¦ÊB/TNFR2,True/False,0.43,0.25,0.43,0.35,0.65,0.7,0.38,¡ª
+DPP-4/JNK,True/True,0,0,1,0,1,1,0,Cancer Cell. 2017;31(5):678-690
+BCL2/RAIDD,False/True,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+DPP-4/GLP-1,True/False,0,0,0,1,0,0,1,Nat Rev Cancer. 2017;17(6):421-434
+PP2A/PDE3B,False/True,0,0,1,0,1,1,1,Apoptosis. 2023;28(5):789-802
+JNK/CHOP,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(12):2075-2088
+SERBP/XIAP,False/True,1,0,0,0,0,0,0,EMBO J. 2024;43(7):e116234
+NF-¦ÊB/ASK1,False/True,0,0,1,0,1,1,0,Mol Immunol. 2022;147:89-100
+CHOP/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+AMPK/RAIDD,False/True,0,0,1,0,1,1,0,Mol Cell. 2017;66(4):567-580
+S6K/mTORC1,True/True,0.52,0.42,0.18,0.5,0.5,0.55,0.38,¡ª
+TRAF2/HtrA2,False/True,0,0,1,0,1,1,0,Circ Res. 2020;126(9):2134-2146
+GLP-1/GLUT2,True/False,0,1,0,0,0,0,0,Cell. 2020;180(7):1423-1436
+mTORC1/BCL2,True/True,0.58,0.45,0.1,0.55,0.45,0.55,0.55,¡ª
+BAK/ASK1,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+mTORC1/EIF2S1,False/True,0,0,1,0,1,1,0,Circ Res. 2023;133(8):789-801
+NF-¦ÊB/GPR40,True/True,0,0,1,1,0,0,0,Cell Stress Chaperones. 2024;29(5):567-580
+PDK1/mTORC2,True/False,1,0,0,1,0,0,1,Cell Res. 2017;27(1):123-135
+AKT/IRE1,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+AKT/JNK,True/True,0.55,0.4,0.55,0.45,0.55,0.6,0.45,¡ª
+TNF¦Á/IRS,True/True,0.6,0.35,0.38,0.58,0.42,0.5,0.6,¡ª
+GLP-1/HtrA2,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2022;13(2):123
+TNF¦Á/IRS,True/False,0.28,0.3,0.6,0.2,0.8,0.85,0.55,¡ª
+RAIDD/IRE1,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+PDE3B/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+AMPK/BAD,True/True,0,0,1,0,1,1,1,J Clin Invest. 2024;134(14):e180123
+GLP-1/TNFR2,True/True,0,0,1,1,0,0,1,Arterioscler Thromb Vasc Biol. 2020;40(8):2134-2146
+SERBP/DPP-4,True/True,0.55,0.35,0.18,0.45,0.55,0.6,0.45,¡ª
+mTORC1/RAIDD,False/True,0,0,1,0,1,1,0,J Biol Chem. 2020;295(3):789-801
+TXNIP/EIF2S1,True/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2020;8(9):721-733
+CHOP/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+BAD/HtrA2,True/False,0,0,1,0,1,1,0,Nature. 2019;566(7742):345-351
+mTORC1/ATF6,False/True,0,0,1,0,1,1,0,Mol Cell. 2018;70(1):234-246
+S6K/IRE1,False/True,0,0,1,0,1,1,0,Mol Cell Biol. 2023;43(6):e00890-23
+TNF¦Á/GPR40,True/False,0.48,0.23,0.42,0.38,0.62,0.67,0.35,¡ª
+AKT/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+TNF¦Á/JNK,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+DPP-4/CAMK,False/True,1,1,0,1,0,0,1,Int J Mol Sci. 2023;24(10):7890
+XIAP/PKA,True/True,1,0,0,1,0,0,0,Cardiovasc Res. 2024;120(7):1023-1035
+PPAR¦Ã/PPAR¦Á,False/True,0.5,0.38,0.28,0.45,0.55,0.6,0.48,¡ª
+PI3K/BCL2,True/True,1,0,0,1,0,0,1,Endocrinology. 2019;160(5):1123-1136
+CAMK/ATF6,True/False,0,0,1,0,1,1,0,Cell. 2017;170(5):912-925
+DPP-4/HtrA2,True/True,0,0,1,0,1,1,0,Cell. 2019;177(4):912-925
+IRS/CAMK,False/True,0.65,0.6,0.15,0.55,0.45,0.55,0.6,¡ª
+CAMK/TRAF2,False/True,0,0,1,0,1,1,0,¡ª
+TXNIP/GIP,False/True,0.62,0.92,0.29,0.58,0.42,0.52,0.62,¡ª
+AKT/PKA,True/True,1,1,0,1,0,0,1,Mol Cell. 2020;77(6):1123-1136
+AMPK/PPAR¦Á,True/True,1,0,0,1,0,0,1,Cell Rep. 2022;40(3):111098
+GIP/PKA,False/True,1,1,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2022;323(2):E234-E246
+PI3K/TNFR2,True/False,0,0,1,0,1,1,0,Cell. 2019;177(2):345-358
+BCL2/PKA,True/True,1,1,0,1,0,0,0,Nature. 2019;567(7749):289-294
+PPAR¦Á/PKA,True/False,0.62,0.25,0.2,0.52,0.48,0.53,0.52,¡ª
+BAK/GIP,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+PI3K/BAD,True/True,0,0,1,0,1,1,0,J Biol Chem. 2018;293(22):8567-8579
+IL6/GPR40,True/False,0,0,1,0,1,1,0,Nature. 2017;549(7671):287-292
+AMPK/PPAR¦Á,True/False,1,0,0,1,0,0,1,Cell. 2018;173(4):821-835
+NF-¦ÊB/BAX,True/True,0,0,1,0,1,1,0,Proc Natl Acad Sci. 2018;115(23):E5280-E5289
+DPP-4/PI3K,False/True,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2021;9(12):921-933
+PPAR¦Á/ASK1,True/True,0.58,0.42,0.55,0.5,0.5,0.55,0.55,¡ª
+CHOP/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+S6K/mTORC1,False/True,1,0,0,1,0,0,1,Circ Res. 2023;132(8):789-801
+IRE1/GIP,True/False,0,0,1,0,1,1,0,J Lipid Res. 2017;58(10):1876-1888
+CHOP/EIF2S1,True/False,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+mTORC1,TRUE,1,0,0,1,0,0,0,¡ª
+CAMK/CHOP,True/True,0,0,1,1,0,0,1,J Biol Chem. 2017;292(41):16879-16890
+mTORC1/XIAP,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+TRAF2/XIAP,True/True,0,0,0,0,1,1,0,Cell Metab. 2020;31(2):331-344
+NF-¦ÊB/BAD,False/True,0,0,1,0,1,1,0,Autophagy. 2023;19(10):1567-1580
+S6K/mTORC2,True/False,1,0,0,1,0,0,0,Nat Cell Biol. 2017;19(7):821-832
+BAK/BAX,False/True,0,0,1,0,1,1,0,Mol Cell. 2019;74(5):912-925
+PDK1,TRUE,1,0,0,1,0,0,1,EMBO J. 2017;36(19):2921-2937
+PP2A/TXNIP,False/True,0,0,1,0,1,1,0,Free Radic Biol Med. 2019;141:234-245
+GLP-1/BAX,False/True,0,0,1,0,1,1,0,EMBO J. 2020;39(13):e102345
+AKT/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+GLUT2/JNK,True/False,0,1,1,0,1,1,0,Autophagy. 2024;20(7):1023-1035
+TNFR2/PKA,True/False,0,0,1,0,1,1,0,FEBS Lett. 2022;596(7):897-910
+PERK/GIP,True/True,0.58,0.65,0.48,0.55,0.45,0.55,0.62,¡ª
+TRAF2/GLUT2,False/True,0,1,1,0,1,1,0,Cell Res. 2019;29(7):567-580
+SERBP/CHOP,True/True,0.45,0.35,0.6,0.35,0.65,0.7,0.35,¡ª
+PDK1/PDE3B,True/True,1,0,0,1,0,0,1,Elife. 2023;12:e87654
+SERBP/RAIDD,True/True,0.5,0.4,0.65,0.42,0.58,0.63,0.42,¡ª
+S6K/IRS,True/True,1,0,0,1,0,0,0,Cell Stress Chaperones. 2024;29(1):123-135
+IRE1/PDK1,False/True,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+BAK/PDK1,True/False,0,0,1,1,0,0,0,Cell Res. 2017;27(11):1345-1358
+PDK1/PDE3B,True/False,1,0,0,1,0,0,1,J Biol Chem. 2020;295(26):9123-9134
+NF-¦ÊB/AMPK,True/True,0.6,0.4,0.39,0.48,0.52,0.59,0.55,¡ª
+BCL2/BAX,True/True,0,0,0,0,1,1,0,Apoptosis. 2019;24(9-10):789-802
+IL6/TNF¦Á,True/True,0,0,1,0,1,1,0,Cell. 2020;180(4):765-779
+AMPK/AKT,False/True,0.5,0.4,0.3,0.55,0.45,0.55,0.55,¡ª
+DPP-4/AKT,False/True,1,1,0,1,0,0,1,Diabetes Care. 2021;44(8):1876-1889
+IL6/AKT,True/False,0.3,0.33,0.65,0.3,0.7,0.75,0.5,¡ª
+PDK1/EIF2S1,True/False,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+ASK1/mTORC2,True/False,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+AKT/IRS,True/True,1,0,0,1,0,0,1,Immunity. 2020;53(2):345-358
+mTORC1/mTORC2,True/False,0.35,0.42,0.35,0.25,0.75,0.8,0.48,¡ª
+GLUT2/BAD,True/False,0,1,1,0,1,1,0,Apoptosis. 2024;29(4):567-580
+IL6/PERK,True/True,0,0,1,0,1,1,0,Circ Res. 2018;122(8):1123-1136
+PPAR¦Ã/GLP-1,True/False,0.52,0.22,0.28,0.38,0.62,0.67,0.42,¡ª
+BAX/PERK,True/True,0,0,1,0,1,1,0,Nat Immunol. 2021;22(4):478-490
+S6K/AKT,True/False,0.4,0.42,0.55,0.3,0.7,0.75,0.5,¡ª
+NF-¦ÊB/EIF2S1,False/True,0,0,1,0,1,1,0,J Cell Sci. 2023;136(2):jcs270123
+S6K/PP2A,True/True,0.48,0.38,0.35,0.4,0.6,0.65,0.48,¡ª
+TNFR2/BAK,True/False,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2018;6(7):512-524
+DPP-4/EIF2S1,True/True,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2017;18(4):245-258
+IL6/EIF2S1,False/True,0,0,1,0,1,1,0,Endocrinology. 2019;160(7):1567-1580
+DPP-4/PDK1,False/True,1,1,0,1,0,0,1,Diabetes Care. 2022;45(7):1678-1690
+IL6/IRE1,True/False,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;314(5):E567-E579
+PPAR¦Á/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+AKT/PDE3B,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+JNK/PKA,True/False,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(11):3012-3024
+IL6/JNK,True/True,0.36,0.23,0.58,0.28,0.72,0.77,0.28,¡ª
+S6K/JNK,True/True,0.45,0.32,0.42,0.35,0.65,0.7,0.35,¡ª
+TNF¦Á/TNFR2,True/True,0,0,1,0,1,1,0,¡ª
+AKT/RAIDD,True/True,1,0,0,1,0,0,1,Cell Res. 2019;29(5):421-434
+AKT/TXNIP,True/True,0,0,0,1,0,0,0,Cancer Cell. 2019;35(6):897-910
+IL6/GLUT2,True/True,0.5,0.5,0.4,0.45,0.55,0.62,0.45,¡ª
+PERK,TRUE,0,0,1,0,1,1,0,Nature. 2017;547(7663):352-356
+BCL2/PDE3B,True/True,1,0,0,1,0,0,0,Mol Cell. 2020;77(6):897-910
+PP2A/ASK1,True/False,0.48,0.35,0.4,0.35,0.65,0.7,0.4,¡ª
+PP2A/IRS,False/True,1,0,0,1,0,0,1,J Lipid Res. 2022;63:100278
+PPAR¦Ã/AKT,False/True,0.52,0.4,0.3,0.55,0.45,0.55,0.55,¡ª
+AKT/BAD,False/True,0,0,1,0,1,1,0,Endocrinology. 2017;158(8):2567-2579
+NF-¦ÊB/AMPK,True/False,0.35,0.28,0.5,0.3,0.7,0.75,0.3,¡ª
+PI3K/GLUT2,True/True,1,1,0,1,0,0,1,Nat Rev Endocrinol. 2023;19(9):512-524
+TNFR2/PPAR¦Á,True/True,0,0,1,0,1,1,0,J Lipid Res. 2022;63:100278
+RAIDD/GLUT2,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+PERK/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+AMPK/ATF6,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+PPAR¦Á/GIP,True/True,1,1,0,1,0,0,1,J Mol Cell Cardiol. 2022;169:123-134
+TNF¦Á/PDK1,True/False,0.3,0.3,0.62,0.25,0.75,0.8,0.5,¡ª
+NF-¦ÊB/RAIDD,True/False,0.45,0.33,0.65,0.35,0.65,0.7,0.45,¡ª
+NF-¦ÊB/ATF6,False/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2017;37(6):1123-1135
+PDK1/GIP,True/True,1,1,0,1,0,0,1,Diabetes Care. 2017;40(1):78-90
+PP2A/PDE3B,True/False,0,0,1,0,1,1,1,EMBO J. 2019;38(8):e101234
+CHOP/PKA,False/True,1,1,0,1,0,0,0,Arterioscler Thromb Vasc Biol. 2020;40(1):89-102
+AMPK/ASK1,False/True,0.42,0.32,0.31,0.38,0.62,0.67,0.42,¡ª
+NF-¦ÊB/TRAF2,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+AKT/GLP-1,True/False,0.5,0.2,0.62,0.4,0.6,0.65,0.45,¡ª
+mTORC1/EIF2S1,True/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2018;38(5):1123-1136
+GPR40/PPAR¦Á,False/True,0.6,0.28,0.18,0.48,0.52,0.58,0.48,¡ª
+PP2A/BAD,True/True,0,0,1,0,1,1,0,Nature. 2018;557(7705):289-294
+SERBP/ASK1,True/False,0,0,1,0,1,1,0,¡ª
+DPP-4/BAD,True/False,0,0,1,0,1,1,0,¡ª
+BAK/XIAP,True/True,0,0,0,0,1,1,0,¡ª
+DPP-4/PDE3B,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+IRS/TXNIP,True/True,0.5,0.4,0.5,0.4,0.6,0.65,0.48,¡ª
+PPAR¦Ã/ASK1,False/True,0.42,0.32,0.31,0.38,0.62,0.67,0.42,¡ª
+NF-¦ÊB/SERBP,True/False,0,0,1,0,1,1,0,Mol Cell. 2017;65(3):456-468
+PDK1/ASK1,True/True,0,0,1,1,0,0,0,Arterioscler Thromb Vasc Biol. 2020;40(12):3345-3358
+AMPK/PPAR¦Á,False/True,0.5,0.38,0.28,0.45,0.55,0.6,0.48,¡ª
+NF-¦ÊB/AKT,False/True,1,0,0,1,0,0,0,Diabetes. 2017;66(5):1234-1245
+PPAR¦Ã/CHOP,True/True,0.6,0.45,0.6,0.5,0.5,0.55,0.5,¡ª
+NF-¦ÊB/TXNIP,True/True,0.33,0.25,0.6,0.28,0.72,0.78,0.3,¡ª
+IRS/GIP,False/True,1,1,0,1,0,0,1,Elife. 2022;11:e73456
+TRAF2/ATF6,True/False,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2018;38(9):2134-2146
+ATF6/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+PI3K/HtrA2,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+S6K/BCL2,True/True,1,0,0,0,0,0,0,Nature. 2020;577(7791):234-240
+BCL2/PKA,False/True,0.6,0.88,0.07,0.55,0.45,0.55,0.6,¡ª
+GLP-1/EIF2S1,True/False,0,0,1,0,1,1,0,Cell. 2017;170(6):1123-1136
+XIAP/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+GLUT2/BAK,True/True,0,1,1,0,1,1,0,Mol Cell. 2020;77(4):567-580
+TNF¦Á/TXNIP,True/True,0.33,0.25,0.6,0.28,0.72,0.78,0.3,¡ª
+AMPK/IRS,False/True,1,0,0,1,0,0,1,Diabetes. 2018;67(4):897-909
+BCL2/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+DPP-4/ASK1,True/False,0,0,1,0,1,1,0,J Biol Chem. 2018;293(20):7897-7909
+PI3K/BAD,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+IRS/EIF2S1,True/True,0,0,1,0,1,1,0,¡ª
+SERBP/TNFR2,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+TRAF2/TXNIP,False/True,0.35,0.3,0.5,0.28,0.72,0.78,0.32,¡ª
+ATF6/PDE3B,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+GPR40/mTORC2,False/True,1,1,0,1,0,0,1,Cell Death Differ. 2018;25(3):567-579
+RAIDD/PDK1,False/True,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+IL6/ASK1,True/True,0,0,1,0,1,1,0,J Biol Chem. 2020;295(16):5345-5356
+DPP-4/IRS,True/True,0,0,1,0,1,1,0,Redox Biol. 2024;70:102901
+PPAR¦Á/ASK1,False/True,0,0,1,0,1,1,0,Immunity. 2018;49(6):789-801
+TRAF2/HtrA2,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+GPR40/ATF6,True/False,0,1,1,1,0,0,0,Redox Biol. 2023;59:102567
+PERK/XIAP,True/True,0,0,0,0,1,1,0,J Clin Invest. 2021;131(12):e148762
+mTORC1/TRAF2,True/True,0,0,1,0,1,1,0,Nature. 2020;580(7803):456-462
+AKT/TRAF2,True/False,0,0,0,1,0,0,0,Nat Rev Cancer. 2019;19(9):567-580
+TXNIP/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+GLUT2/TXNIP,True/True,0.52,0.55,0.45,0.48,0.52,0.57,0.55,¡ª
+GLUT2/CHOP,True/True,0.6,0.58,0.6,0.55,0.45,0.55,0.6,¡ª
+PPAR¦Ã/mTORC2,True/True,1,0,0,1,0,0,1,Cancer Res. 2021;81(18):4123-4135
+NF-¦ÊB/TXNIP,False/True,0,0,1,0,1,1,0,Science. 2019;363(6422):289-294
+IRE1/PKA,False/True,1,1,0,1,0,0,0,¡ª
+BAK/XIAP,True/False,0,0,0,0,0,0,0,Nat Med. 2019;25(9):1023-1032
+RAIDD/BAX,True/True,0,0,1,0,1,1,0,Physiol Rev. 2019;99(2):865-915
+ATF6/XIAP,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+BAX/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+PERK/EIF2S1,True/True,0,0,1,0,1,1,0,Cell Metab. 2018;27(5):1076-1087
+AMPK/TNFR2,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+TRAF2/TXNIP,True/True,0.38,0.3,0.53,0.3,0.7,0.75,0.3,¡ª
+IRS/ASK1,True/False,0,0,1,0,1,1,0,Cancer Cell. 2017;31(4):567-580
+BCL2/CAMK,True/True,1,0,0,1,0,0,0,J Clin Invest. 2024;134(7):e175432
+PERK/mTORC2,True/False,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+PPAR¦Ã/PKA,True/False,1,1,0,1,0,0,1,Cell Death Differ. 2020;27(7):2045-2058
+mTORC1/PERK,True/True,0.4,0.32,0.48,0.32,0.68,0.73,0.32,¡ª
+DPP-4/TXNIP,False/True,0,0,1,0,1,1,0,Endocrinology. 2019;160(4):897-909
+PI3K/TXNIP,True/True,0,0,1,1,0,0,1,Cell Metab. 2018;28(4):586-599
+DPP-4/RAIDD,False/True,0,0,1,0,1,1,0,Nature. 2019;566(7743):345-351
+SERBP/BAD,False/True,0,0,1,0,1,1,0,Antioxid Redox Signal. 2024;44(7):567-580
+PERK/CHOP,True/True,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2019;20(12):721-734
+IRS/PPAR¦Á,True/False,1,0,0,1,0,0,1,Cell Death Dis. 2019;10(7):512
+GPR40/PPAR¦Ã,False/True,0.6,0.28,0.17,0.4,0.6,0.65,0.4,¡ª
+GPR40/SERBP,True/False,1,1,0,1,0,0,1,Science. 2020;369(6501):656-661
+DPP-4/ATF6,True/True,0.48,0.38,0.35,0.4,0.6,0.65,0.42,¡ª
+PPAR¦Ã/EIF2S1,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+CHOP/PKA,True/False,0.48,0.25,0.75,0.38,0.62,0.67,0.38,¡ª
+mTORC1/RAIDD,True/True,0.48,0.4,0.65,0.4,0.6,0.65,0.4,¡ª
+TNF¦Á/mTORC1,True/False,0.52,0.38,0.42,0.4,0.52,0.57,0.52,¡ª
+TNFR2/TRAF2,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.3,¡ª
+AKT/BAX,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+PP2A/GLP-1,False/True,1,1,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2019;316(4):E567-E579
+TNF¦Á/AKT,True/True,0,0,0,1,0,0,0,Nat Rev Mol Cell Biol. 2019;20(2):71-89
+PPAR¦Ã/BAX,True/True,0,0,1,0,1,1,0,Immunity. 2018;49(5):621-634
+PPAR¦Ã/mTORC2,False/True,0.48,0.4,0.3,0.38,0.62,0.67,0.55,¡ª
+TNF¦Á/GLUT2,True/True,0,1,1,0,1,1,0,Immunity. 2017;47(2):321-334
+JNK/PDK1,True/True,0.55,0.38,0.38,0.52,0.48,0.53,0.55,¡ª
+S6K/PDE3B,True/False,1,0,0,1,0,0,0,Am J Physiol Endocrinol Metab. 2020;318(4):E567-E579
+TNFR2/BAD,True/True,0,0,1,0,1,1,0,J Lipid Res. 2018;59(10):1865-1877
+DPP-4/TNFR2,False/True,0,0,1,0,1,1,0,¡ª
+BCL2/PERK,True/True,0,0,0,0,0,0,0,EMBO J. 2019;38(19):e101234
+RAIDD/TNFR2,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+BAX/PKA,False/True,1,1,0,1,0,0,1,Nat Commun. 2019;10(1):3456
+NF-¦ÊB/TNF¦Á,False/True,0.6,0.45,0.5,0.55,0.45,0.5,0.55,¡ª
+IL6/ATF6,True/False,0,0,1,0,1,1,0,Mol Cell. 2019;74(6):1123-1136
+AKT/IRE1,True/True,0,0,0,1,0,0,0,Circ Res. 2020;126(6):1345-1358
+BCL2/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+GPR40/TXNIP,True/True,0,0,1,1,0,0,1,Diabetes. 2021;70(1):123-135
+GLP-1/PDE3B,True/False,1,1,0,1,0,0,1,Cell Calcium. 2022;100:102456
+BAX/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+IRS/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+mTORC1/AKT,True/True,1,0,0,1,0,0,0,Free Radic Biol Med. 2023;195:567-580
+GLUT2/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+DPP-4/TXNIP,True/True,0.4,0.32,0.45,0.32,0.68,0.73,0.35,¡ª
+PPAR¦Ã/IRE1,True/False,0,0,1,0,1,1,0,Diabetes. 2020;69(4):789-801
+mTORC1/IRS,True/True,1,0,0,1,0,0,0,Am J Physiol Gastrointest Liver Physiol. 2024;327(1):G89-G101
+PDE3B/HtrA2,True/False,0.6,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+ATF6/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+NF-¦ÊB/GPR40,True/False,0.32,0.22,0.62,0.28,0.72,0.78,0.38,¡ª
+PERK/PKA,True/False,0.42,0.25,0.6,0.35,0.65,0.7,0.38,¡ª
+CAMK/CHOP,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(5):567-578
+AKT/TRAF2,True/True,0,0,0,1,0,0,0,Immunity. 2018;49(4):678-691
+BCL2/BAK,True/True,0,0,0,0,1,1,0,Cell Death Differ. 2018;25(12):2075-2088
+SERBP/BAK,False/True,0,0,1,0,1,1,0,Circulation. 2018;138(1):78-90
+DPP-4/CHOP,True/True,0.45,0.35,0.6,0.38,0.62,0.67,0.38,¡ª
+mTORC1/ASK1,True/True,0.38,0.3,0.55,0.3,0.7,0.75,0.3,¡ª
+IRE1/PKA,True/False,0,0,1,0,1,1,0,Cell Signal. 2018;45:1-9
+BAK/PDE3B,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+SERBP/CAMK,False/True,1,0,0,1,0,0,0,J Cell Sci. 2024;137(14):jcs283345
+PDE3B/PKA,True/True,1,0,0,1,0,0,1,Autophagy. 2024;20(5):789-802
+AMPK/mTORC2,True/False,0.35,0.4,0.35,0.25,0.75,0.8,0.55,¡ª
+S6K/PP2A,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+GLP-1/TRAF2,True/False,0,0,1,0,1,1,0,Cell Res. 2017;27(9):1123-1136
+JNK/CHOP,True/False,0,0,1,0,1,1,0,Diabetes Care. 2017;40(12):1876-1888
+S6K/TNFR2,True/False,0,0,1,0,1,1,0,Cell. 2020;181(1):123-135
+ATF6/PERK,True/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2019;19(2):87-102
+GLUT2/PKA,True/True,0,1,0,1,0,0,0,Cell Rep. 2023;42(5):112456
+RAIDD/XIAP,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+JNK/mTORC2,True/True,0.55,0.38,0.38,0.52,0.48,0.53,0.55,¡ª
+TNF¦Á/BCL2,True/False,0,0,1,0,1,1,0,Cell. 2017;169(5):897-910
+IRS/PDE3B,False/True,1,0,0,1,0,0,1,Nat Rev Cancer. 2017;17(10):621-634
+TNFR2/PERK,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(11):1234-1245
+GPR40/HtrA2,False/True,0.6,0.28,0.39,0.48,0.52,0.58,0.48,¡ª
+PDK1/GIP,True/False,0.32,0.42,0.55,0.18,0.88,0.88,0.72,¡ª
+BAK/EIF2S1,True/True,0,0,1,0,1,1,0,J Clin Invest. 2021;131(12):e148762
+IRS/GIP,True/False,1,1,0,1,0,0,1,Circ Res. 2018;122(7):1234-1246
+PPAR¦Ã/PI3K,True/False,0.3,0.4,0.45,0.2,0.8,0.85,0.55,¡ª
+TRAF2/mTORC2,False/True,0.48,0.4,0.3,0.35,0.65,0.7,0.58,¡ª
+TRAF2/PERK,True/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(10):1175-1186
+mTORC1/PPAR¦Á,True/True,0.6,0.48,0.12,0.58,0.42,0.52,0.62,¡ª
+BAD/GIP,True/False,0.62,0.25,0.65,0.52,0.48,0.53,0.52,¡ª
+AKT/GLUT2,True/False,1,1,0,1,0,0,1,EMBO J. 2018;37(11):e98123
+BAK/CHOP,True/False,0,0,1,0,1,1,0,EMBO J. 2019;38(11):e100876
+BCL2/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+AKT/PERK,False/True,0,0,1,0,1,1,0,Mol Cell. 2020;78(5):721-734
+IRS/BCL2,True/True,1,0,0,1,0,0,0,Mol Cell Biol. 2024;44(1):e00901-24
+BAX/PDK1,True/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;315(3):E412-E423
+CAMK/BAX,False/True,0,0,1,0,1,1,0,eLife. 2020;9:e58976
+HtrA2/GIP,False/True,0.62,0.92,0.39,0.58,0.42,0.52,0.62,¡ª
+PDE3B/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+SERBP/GLP-1,True/False,1,1,0,1,0,0,0,J Lipid Res. 2017;58(1):123-135
+TRAF2/PDK1,False/True,1,0,0,1,0,0,0,Nat Med. 2017;23(10):1123-1132
+PP2A/EIF2S1,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(6):1023-1036
+GLP-1/XIAP,True/True,1,1,0,1,0,0,1,Oncogene. 2022;41(5):721-734
+NF-¦ÊB/TXNIP,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+ATF6/mTORC2,True/True,0,0,1,1,0,0,0,Gastroenterology. 2024;166(2):345-358
+GLP-1/PDK1,False/True,1,1,0,1,0,0,1,Cardiovasc Res. 2022;118(2):345-358
+PP2A/AKT,True/True,0,0,1,0,1,1,1,Science. 2020;367(6482):1056-1061
+PPAR¦Ã/PPAR¦Á,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+PP2A/IRS,True/True,0,0,1,0,1,1,1,J Cell Sci. 2024;138(1):jcs288890
+PI3K/XIAP,False/True,1,0,0,1,0,0,1,Diabetes Care. 2019;42(7):1123-1135
+S6K/GLUT2,False/True,0,1,0,0,0,0,0,Cell Death Differ. 2020;27(1):245-258
+BAD/GIP,True/True,0,1,1,1,0,0,0,Autophagy. 2024;20(9):1345-1358
+PDE3B/CHOP,True/False,0.6,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+NF-¦ÊB/PPAR¦Ã,True/False,0.35,0.25,0.48,0.3,0.7,0.75,0.3,¡ª
+DPP-4/PERK,True/True,0.42,0.32,0.48,0.35,0.65,0.7,0.35,¡ª
+ATF6/EIF2S1,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+S6K/XIAP,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PP2A/PDK1,False/True,1,0,0,1,0,0,1,J Lipid Res. 2017;58(5):897-909
+PDE3B/ASK1,True/True,0,0,1,0,1,1,0,Immunity. 2020;52(3):476-489
+TNFR2/TRAF2,True/True,0,0,1,0,1,1,0,Mol Cell. 2018;70(5):721-734
+AMPK/mTORC2,True/True,1,0,0,1,0,0,1,Circulation. 2021;144(1):78-90
+PPAR¦Ã/AKT,True/True,1,1,0,1,0,0,1,Nature. 2019;567(7748):289-294
+PP2A/PKA,True/True,0,0,1,1,0,0,1,Nat Metab. 2024;6(10):897-910
+TRAF2/PKA,True/True,0.62,0.65,0.39,0.58,0.42,0.52,0.62,¡ª
+mTORC1/TRAF2,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+ATF6/CHOP,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+PPAR¦Á/BAK,True/True,0.65,0.5,0.78,0.58,0.42,0.52,0.65,¡ª
+IL6/XIAP,True/True,0.5,0.35,0.39,0.45,0.55,0.62,0.45,¡ª
+TNFR2/GLUT2,True/False,0,0,1,0,1,1,0,Diabetes Obes Metab. 2022;24(3):245-256
+SERBP/RAIDD,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+SERBP/AMPK,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+TNF¦Á/RAIDD,False/True,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2018;19(6):367-381
+NF-¦ÊB/IRE1,False/True,0,0,1,0,1,1,0,Nature. 2020;578(7794):456-462
+PI3K/IRE1,True/True,0.55,0.42,0.5,0.48,0.52,0.57,0.52,¡ª
+GLP-1/JNK,True/False,0,0,1,0,1,1,0,Nat Med. 2019;25(7):821-830
+AKT/TRAF2,False/True,0,0,1,0,1,1,0,Cell Host Microbe. 2020;28(2):245-258
+NF-¦ÊB/TNF¦Á,True/False,0,0,1,0,1,1,0,Nature. 2018;559(7712):121-127
+SERBP/CHOP,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+SERBP/PPAR¦Ã,False/True,1,1,0,1,0,0,1,Proc Natl Acad Sci. 2022;119(18):e2112345119
+DPP-4/ATF6,False/True,0,0,1,0,1,1,0,Mol Cell. 2017;65(5):721-734
+mTORC1/CAMK,False/True,1,0,0,1,0,0,0,J Cell Sci. 2024;137(17):jcs284456
+mTORC1/CAMK,True/True,1,1,0,1,0,0,0,¡ª
+NF-¦ÊB/CAMK,True/True,0,0,1,1,0,0,1,Cell Death Dis. 2020;11(2):145
+TRAF2/PERK,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+BCL2/CHOP,True/True,0,0,0,0,1,1,0,Cell Metab. 2019;30(3):567-580
+PI3K/PERK,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+BCL2/mTORC2,True/True,1,0,0,1,0,0,0,J Biol Chem. 2018;293(25):10234-10245
+JNK/XIAP,True/True,0,0,0,0,1,1,0,Apoptosis. 2019;24(9-10):789-802
+TXNIP/ASK1,True/False,0,0,1,0,1,1,0,Cell Metab. 2017;26(5):789-801
+PI3K/TXNIP,True/False,0,0,1,0,1,1,0,Cell. 2020;181(4):821-835
+TNFR2/TRAF2,True/False,0.45,0.3,0.65,0.35,0.65,0.7,0.35,¡ª
+GPR40/GLUT2,True/False,1,1,0,1,0,0,0,Antioxid Redox Signal. 2023;39(1):89-102
+TRAF2/ATF6,False/True,0,0,1,0,1,1,0,Free Radic Biol Med. 2024;217:123-135
+GLUT2/PERK,True/False,0,1,1,0,1,1,0,J Cell Sci. 2024;137(20):jcs285567
+AKT/GLUT2,False/True,1,1,0,1,0,0,1,Cell Rep. 2024;44(11):116890
+IL6/ASK1,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2022;29(8):2045-2058
+GLUT2,TRUE,0,1,0,0,0,0,0,Am J Physiol Endocrinol Metab. 2019;317(3):E567-E579
+BCL2/JNK,True/True,0.52,0.4,0.32,0.45,0.55,0.6,0.48,¡ª
+mTORC1/PDK1,False/True,1,0,0,1,0,0,1,Gastroenterology. 2022;162(3):789-801
+CAMK/BAD,True/True,0,0,1,0,1,1,0,Cell Metab. 2017;26(4):567-580
+PDK1/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+TXNIP/HtrA2,True/False,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+BAD/PERK,True/False,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+TNF¦Á/GLUT2,False/True,0,1,0,0,0,0,0,Am J Physiol Gastrointest Liver Physiol. 2017;313(4):G345-G356
+IRE1/HtrA2,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+TXNIP/EIF2S1,True/False,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+PPAR¦Á/PERK,True/True,0.6,0.45,0.48,0.52,0.48,0.53,0.58,¡ª
+IL6/TNF¦Á,False/True,0.59,0.4,0.68,0.52,0.62,0.67,0.52,¡ª
+S6K/HtrA2,True/True,0.5,0.38,0.75,0.42,0.58,0.63,0.42,¡ª
+AMPK/RAIDD,True/True,0,0,1,1,0,0,1,Cell Death Differ. 2021;28(4):1234-1248
+IRE1/XIAP,True/True,0,0,0,0,1,1,0,Mol Cell. 2020;77(5):912-925
+ATF6/XIAP,True/True,0,0,0,0,1,1,0,Nature. 2020;576(7789):345-351
+IL6/DPP-4,True/False,0.48,0.23,0.35,0.38,0.62,0.67,0.35,¡ª
+TRAF2/PDK1,True/True,0,0,1,1,0,0,0,J Biol Chem. 2019;294(36):13456-13467
+PERK/EIF2S1,True/False,0,0,1,0,1,1,0,Cell Death Dis. 2019;10(2):145
+TNF¦Á/TRAF2,True/True,0,0,1,0,1,1,0,Cell Death Dis. 2018;9(5):389
+GPR40/BAD,True/False,0,0,1,0,1,1,0,Cell. 2020;180(5):945-958
+GPR40/PPAR¦Á,True/True,1,1,0,1,0,0,1,Antioxid Redox Signal. 2023;38(4):345-358
+BCL2/XIAP,True/False,0,0,0,0,0,0,0,Mol Cell. 2020;78(2):345-358
+GPR40/AMPK,False/True,1,1,0,1,0,0,1,Mol Cell. 2020;77(1):123-135
+AKT/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+PP2A/GIP,False/True,1,1,0,1,0,0,1,Gut. 2022;71(4):876-888
+TNF¦Á/SERBP,False/True,0,0,1,0,1,1,0,Apoptosis. 2024;29(5):789-802
+SERBP/PERK,False/True,0,0,1,0,1,1,0,Circulation Res. 2024;134(4):567-580
+NF-¦ÊB/PI3K,True/True,0,0,1,1,0,0,1,J Biol Chem. 2017;292(18):7456-7468
+TNFR2/CHOP,False/True,0,0,1,0,1,1,0,Nature. 2018;559(7713):345-351
+IRS/BAD,True/True,0.65,0.48,0.65,0.58,0.42,0.52,0.65,¡ª
+AMPK/BAX,True/True,0,0,1,1,0,0,1,Cell Metab. 2017;26(2):319-333
+BAX/mTORC2,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+NF-¦ÊB/mTORC2,True/True,0.59,0.35,0.38,0.58,0.42,0.5,0.48,¡ª
+TNFR2/IRE1,False/True,0,0,1,0,1,1,0,Cell Metab. 2017;26(5):789-801
+PP2A/PPAR¦Á,True/False,0.48,0.35,0.4,0.35,0.65,0.7,0.4,¡ª
+PDK1/PKA,True/False,1,1,0,1,0,0,1,Immunity. 2018;49(1):123-135
+PI3K/GLP-1,True/True,1,1,0,1,0,0,1,Mol Cell. 2018;69(3):456-468
+GPR40/AKT,True/False,1,1,0,1,0,0,1,Nature. 2018;556(7701):123-130
+PPAR¦Ã/IRE1,False/True,0.48,0.38,0.28,0.42,0.58,0.63,0.45,¡ª
+S6K/RAIDD,True/False,0,0,1,0,1,1,0,EMBO J. 2017;36(10):1456-1469
+IRS/TRAF2,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(10):1876-1888
+DPP-4/PDE3B,False/True,1,0,0,1,0,0,1,Mol Cell. 2018;69(5):721-734
+PDK1/GIP,False/True,0.62,0.92,0.09,0.58,0.42,0.52,0.62,¡ª
+ATF6/TXNIP,True/True,0.48,0.38,0.5,0.38,0.62,0.67,0.42,¡ª
+AKT/CAMK,True/False,1,1,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2020;318(5):E567-E579
+mTORC1/ASK1,False/True,0,0,1,0,1,1,0,Autophagy. 2023;19(7):1234-1247
+GPR40/CHOP,False/True,0,0,1,0,1,1,0,EMBO J. 2020;39(7):e102345
+NF-¦ÊB,TRUE,0,0,1,0,1,1,0,Cell. 2017;169(3):456-472
+PI3K/PDE3B,True/False,1,0,0,1,0,0,1,Nat Cell Biol. 2019;21(4):456-467
+GLUT2/PDK1,True/False,1,1,0,1,0,0,0,Cell Death Dis. 2024;15(4):321
+GPR40/ATF6,False/True,0,0,1,0,1,1,0,Diabetes. 2020;69(3):567-579
+S6K/TNFR2,False/True,0,0,1,0,1,1,0,J Cell Sci. 2023;136(23):jcs277890
+IRS/PPAR¦Á,True/True,1,0,0,1,0,0,1,Cell Rep. 2023;42(2):112098
+SERBP/CAMK,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+mTORC1/PPAR¦Á,False/True,1,0,0,1,0,0,0,Mol Cell Biol. 2024;44(4):e01123-24
+EIF2S1/ASK1,False/True,0,0,1,0,1,1,0,Mol Cell Biol. 2021;41(8):e00034-21
+IL6/S6K,False/True,1,0,1,1,0,0,0,Science. 2018;360(6389):eaao1234
+IRS/BAD,True/False,0,0,1,0,1,1,0,Cell. 2020;180(3):567-580
+BAK/PKA,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+BAD/EIF2S1,True/True,0.58,0.46,0.63,0.5,0.5,0.55,0.58,¡ª
+GPR40/CHOP,True/False,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2018;6(7):545-556
+HtrA2/XIAP,True/False,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+TNFR2/ATF6,True/False,0,0,1,0,1,1,0,J Cell Sci. 2022;135(5):jcs268901
+IRE1/BAX,False/True,0.45,0.3,0.8,0.35,0.65,0.7,0.4,¡ª
+SERBP/BAK,True/True,0,0,1,0,1,1,0,J Lipid Res. 2018;59(7):1234-1246
+PP2A/GLP-1,True/True,0,0,1,1,0,0,1,Nature. 2018;555(7694):345-351
+TNF¦Á/BAK,True/False,0,0,1,0,1,1,0,Mol Cell. 2018;70(5):897-910
+GLP-1/PKA,False/True,1,1,0,1,0,0,1,J Cell Physiol. 2022;237(2):2134-2146
+IL6/IRE1,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2022;29(10):2897-2912
+RAIDD/CHOP,False/True,0,0,1,0,1,1,0,EMBO J. 2020;39(12):e103456
+AMPK/EIF2S1,True/True,0,0,1,0,1,1,0,Cell Metab. 2019;30(3):456-468
+PPAR¦Ã/BAD,True/True,0,0,1,0,1,1,0,Cell Res. 2017;27(6):789-801
+GLUT2/BAD,True/True,0,1,1,0,1,1,0,¡ª
+PPAR¦Ã/RAIDD,True/False,0,0,1,0,1,1,0,Nat Med. 2019;25(6):897-906
+AMPK/PPAR¦Ã,False/True,0.55,0.35,0.25,0.45,0.55,0.6,0.45,¡ª
+ATF6/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+CAMK/GLP-1,True/False,0.65,0.3,0.15,0.55,0.45,0.55,0.55,¡ª
+AKT/XIAP,True/False,1,0,0,1,0,0,1,Nature. 2018;557(7704):456-462
+BCL2/IRE1,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+NF-¦ÊB/SERBP,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2024;15(5):421
+JNK/PDK1,False/True,1,0,0,1,0,0,0,J Biol Chem. 2020;295(24):8213-8224
+NF-¦ÊB/PDK1,True/True,0,0,1,1,0,0,1,Nat Med. 2020;26(3):412-421
+AKT/XIAP,False/True,1,0,0,1,0,0,1,Gastroenterology. 2024;167(3):789-801
+BAK/ASK1,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(10):1175-1186
+AMPK/mTORC2,False/True,1,1,0,1,0,0,1,J Lipid Res. 2017;58(6):1123-1135
+NF-¦ÊB/HtrA2,True/False,0,0,1,0,1,1,0,¡ª
+AKT/EIF2S1,True/False,0,0,0,1,0,0,0,J Lipid Res. 2017;58(7):1345-1357
+RAIDD/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+S6K/ATF6,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(3):345-356
+mTORC1/GLUT2,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+BCL2/PERK,True/False,0,0,0,0,1,1,0,J Cell Biol. 2020;219(7):e202003089
+TRAF2/JNK,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+IL6/JNK,False/True,0,0,1,0,1,1,0,¡ª
+BAD/XIAP,True/True,0,0,0,0,1,1,0,Nat Rev Cancer. 2019;19(2):87-102
+IRS/CAMK,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+S6K/BAK,True/False,1,0,0,0,0,0,0,Nature. 2020;582(7811):123-129
+IL6/TRAF2,False/True,0,0,1,0,1,1,0,Diabetes Care. 2017;40(8):1023-1035
+mTORC1/GLUT2,True/True,0,1,0,0,0,0,0,J Lipid Res. 2019;60(3):567-579
+AKT/ASK1,False/True,0,0,1,0,1,1,0,Nature. 2018;558(7708):123-130
+IL6/RAIDD,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(8):956-967
+S6K/PPAR¦Ã,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+TNF¦Á/HtrA2,False/True,0,0,1,0,1,1,0,Cell Rep. 2023;42(10):113210
+GPR40/EIF2S1,False/True,0.62,0.3,0.28,0.5,0.5,0.55,0.5,¡ª
+IRE1/BAX,True/True,0,0,1,0,1,1,0,Proc Natl Acad Sci. 2018;115(23):E5280-E5289
+IRS/mTORC2,True/False,0.25,0.4,0.5,0.15,0.85,0.9,0.6,¡ª
+RAIDD/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+NF-¦ÊB/BCL2,True/True,0.5,0.35,0.38,0.45,0.55,0.62,0.45,¡ª
+PI3K/IRE1,False/True,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+PDE3B/PERK,True/True,0.55,0.42,0.48,0.5,0.5,0.55,0.55,¡ª
+TNF¦Á/mTORC2,True/False,0.35,0.3,0.5,0.25,0.75,0.8,0.5,¡ª
+PI3K/ATF6,False/True,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+GPR40/GIP,True/True,1,1,0,1,0,0,1,Endocrinology. 2018;159(12):4073-4086
+TXNIP/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+ATF6/JNK,True/True,0,0,1,0,1,1,0,Nature. 2019;567(7748):289-294
+IL6/PPAR¦Á,True/True,0,0,1,0,1,1,0,Immunity. 2018;49(3):456-469
+DPP-4/CHOP,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+TNFR2/PERK,False/True,0,0,1,0,1,1,0,Int J Mol Sci. 2022;23(8):9876
+TNF¦Á/BCL2,True/True,0.5,0.35,0.38,0.45,0.55,0.62,0.45,¡ª
+BAX/ASK1,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(5):1536-1551
+CAMK/TXNIP,True/False,0,0,1,0,1,1,0,EMBO J. 2018;37(13):e98123
+GPR40/PP2A,True/True,0,0,1,0,1,1,1,Nature. 2018;555(7696):456-462
+NF-¦ÊB/IL6,False/True,0.58,0.42,0.48,0.52,0.48,0.53,0.52,¡ª
+GPR40/RAIDD,True/False,0,1,1,1,0,0,0,Apoptosis. 2023;28(3):345-358
+RAIDD/ATF6,False/True,0,0,1,0,1,1,0,Diabetes. 2020;69(6):1456-1468
+DPP-4/AMPK,True/True,0,0,1,0,1,1,0,Int J Mol Sci. 2024;25(2):1234
+IL6/SERBP,True/False,0.48,0.3,0.35,0.38,0.57,0.62,0.45,¡ª
+IL6/PDK1,True/True,0,0,1,1,0,0,0,Immunity. 2017;47(5):821-833
+SERBP/PKA,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+DPP-4/BAX,False/True,0,1,1,1,0,0,1,EMBO J. 2023;42(10):e112234
+IL6/GLP-1,True/False,0.35,0.2,0.37,0.3,0.7,0.75,0.35,¡ª
+GPR40/PPAR¦Ã,True/True,1,1,0,1,0,0,1,J Lipid Res. 2017;58(4):678-690
+NF-¦ÊB/CHOP,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+PPAR¦Ã/BCL2,True/True,1,1,0,1,0,0,1,Science. 2018;360(6385):987-992
+CAMK/JNK,False/True,0,0,1,0,1,1,0,J Lipid Res. 2017;58(9):1678-1690
+DPP-4/PI3K,True/True,1,0,0,1,0,0,1,Cell Res. 2017;27(4):567-580
+GPR40/PP2A,True/False,1,1,0,1,0,0,0,Autophagy. 2023;19(4):789-802
+SERBP/IRE1,True/True,0.45,0.35,0.45,0.35,0.65,0.7,0.35,¡ª
+GLUT2/HtrA2,True/False,0,1,1,0,1,1,0,Cell Stress Chaperones. 2024;29(4):456-468
+AKT/BAK,False/True,0,0,1,0,1,1,0,Mol Cell. 2019;75(5):912-925
+BAX/TXNIP,True/True,0,0,1,0,1,1,0,Cell. 2020;180(3):567-580
+AKT/PDK1,False/True,1,0,0,1,0,0,1,Lancet Diabetes Endocrinol. 2022;10(7):512-524
+AKT/BAX,True/True,0.6,0.45,0.8,0.55,0.45,0.55,0.55,¡ª
+TRAF2/CHOP,True/True,0,0,1,0,1,1,0,Nat Med. 2018;24(8):1186-1196
+PI3K/PDK1,True/True,1,0,0,1,0,0,1,Circ Res. 2021;128(11):1678-1690
+PP2A/BAD,True/False,0.48,0.35,0.6,0.35,0.65,0.7,0.45,¡ª
+HtrA2/PKA,False/True,0.6,0.88,0.38,0.55,0.45,0.55,0.6,¡ª
+AMPK/PPAR¦Ã,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+TRAF2/GLUT2,True/True,0.6,0.55,0.4,0.52,0.48,0.53,0.55,¡ª
+AKT/PDK1,True/True,1,0,0,1,0,0,1,Neuron. 2021;109(14):2345-2358
+AMPK/PERK,False/True,0.45,0.35,0.27,0.4,0.6,0.65,0.42,¡ª
+RAIDD/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+NF-¦ÊB/XIAP,True/True,0,0,0,0,1,1,0,Cancer Cell. 2018;33(3):456-469
+PKA/mTORC2,True/True,1,0,0,1,0,0,1,Circulation Res. 2023;132(5):456-468
+BAD/PKA,True/True,0,0,1,1,0,0,0,EMBO J. 2020;39(19):e103456
+mTORC1/PP2A,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+AMPK/RAIDD,True/False,1,0,0,1,0,0,1,Cell Death Dis. 2020;11(6):456
+NF-¦ÊB/XIAP,True/False,0.45,0.33,0.65,0.35,0.65,0.7,0.45,¡ª
+S6K/TRAF2,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+CAMK,TRUE,1,1,0,1,0,0,1,Diabetes. 2017;66(9):2345-2357
+PDE3B/CHOP,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(6):1789-1802
+TNFR2/ASK1,True/False,0,0,1,0,1,1,0,Diabetes Care. 2019;42(8):1456-1468
+NF-¦ÊB/GLP-1,False/True,1,1,0,1,0,0,1,Nucleic Acids Res. 2019;47(15):7890-7904
+NF-¦ÊB/IL6,True/True,0,0,1,0,1,1,0,Cell. 2017;170(4):721-735
+NF-¦ÊB/PP2A,False/True,0,0,1,0,1,1,1,Autophagy. 2022;18(8):1567-1580
+S6K/IRS,False/True,1,0,0,1,0,0,1,J Biol Chem. 2020;295(23):7925-7936
+PI3K/RAIDD,True/False,0,0,1,0,1,1,0,J Biol Chem. 2020;295(15):5123-5134
+PI3K/PDE3B,False/True,0.6,0.65,0.08,0.55,0.45,0.55,0.6,¡ª
+BAX/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+RAIDD/BAK,True/False,0,0,1,0,1,1,0,Immunity. 2018;49(5):621-634
+PPAR¦Á/CHOP,False/True,1,0,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2018;38(9):2134-2146
+TXNIP/PERK,True/True,0,0,1,0,1,1,0,J Cell Biol. 2019;218(10):3298-3314
+GPR40/PPAR¦Á,True/False,1,1,0,1,0,0,1,Cell Death Dis. 2019;10(4):289
+S6K/BAX,True/True,0,0,1,0,1,1,0,Immunity. 2020;52(2):345-358
+DPP-4/PDE3B,True/True,0.55,0.38,0.15,0.5,0.5,0.55,0.52,¡ª
+BAX/PDK1,True/False,0,0,1,1,0,0,0,Nat Rev Cancer. 2017;17(11):689-702
+mTORC1/IRE1,False/True,0,0,1,0,1,1,0,EMBO J. 2017;36(7):987-1001
+PPAR¦Á/ATF6,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+PP2A/CHOP,True/True,0.4,0.35,0.65,0.35,0.65,0.7,0.35,¡ª
+BAD/mTORC2,False/True,0.5,0.4,0.65,0.35,0.65,0.7,0.6,¡ª
+JNK/XIAP,False/True,0,0,0,0,1,1,0,Immunity. 2018;49(6):789-801
+GLP-1/PPAR¦Á,True/False,0.5,0.2,0.18,0.4,0.6,0.65,0.45,¡ª
+S6K/PPAR¦Ã,True/True,1,0,0,1,0,0,0,J Cell Sci. 2024;137(11):jcs282234
+JNK/EIF2S1,False/True,0,0,1,0,1,1,0,Cell Res. 2017;27(12):1456-1468
+GPR40/BAD,True/True,0.62,0.6,0.42,0.52,0.48,0.53,0.5,¡ª
+NF-¦ÊB/GLUT2,True/False,0.43,0.2,0.42,0.35,0.65,0.7,0.38,¡ª
+RAIDD/JNK,True/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(7):1876-1888
+BAX/XIAP,True/False,0,0,0,0,0,0,0,Nat Cell Biol. 2019;21(11):1234-1245
+S6K/BAD,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+TNFR2/EIF2S1,False/True,0,0,1,0,1,1,0,Free Radic Biol Med. 2022;185:789-801
+PI3K/CAMK,False/True,1,1,0,1,0,0,1,¡ª
+ATF6/IRE1,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2017;24(11):1876-1888
+XIAP/GIP,True/False,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+DPP-4/AMPK,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+PP2A/BAX,True/False,0.48,0.35,0.6,0.35,0.65,0.7,0.45,¡ª
+GLP-1/GLUT2,False/True,1,1,0,1,0,0,1,Int J Mol Sci. 2024;25(5):2345
+BAK/IRE1,True/True,0,0,1,0,1,1,0,Diabetes Care. 2017;40(12):1876-1888
+IRE1/TXNIP,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+TNF¦Á/PPAR¦Á,True/True,0.52,0.35,0.4,0.45,0.55,0.62,0.48,¡ª
+TRAF2/PPAR¦Á,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2024;31(1):213-227
+AKT/XIAP,True/True,1,0,0,1,0,0,0,J Cell Sci. 2024;137(5):jcs280012
+ATF6/ASK1,True/False,0,0,1,0,1,1,0,J Biol Chem. 2018;293(37):14234-14245
+GLUT2/XIAP,True/False,1,1,0,1,0,0,0,Int J Mol Sci. 2024;25(11):6789
+GLP-1/IRE1,True/False,1,1,0,1,0,0,1,Diabetes. 2021;70(12):3345-3358
+RAIDD/mTORC2,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+IRS/TXNIP,False/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;314(5):E678-E690
+TRAF2/JNK,False/True,0,0,1,0,1,1,0,Cell. 2018;173(6):1345-1358
+AKT/PDK1,True/False,1,0,0,1,0,0,1,Cell Death Differ. 2020;27(8):2345-2358
+IL6/ATF6,True/True,0.4,0.28,0.55,0.33,0.67,0.73,0.35,¡ª
+PPAR¦Á/BAK,False/True,0,0,1,0,1,1,0,Cell Metab. 2019;29(1):123-136
+TXNIP/ASK1,True/True,0,0,1,0,1,1,0,Nat Med. 2018;24(8):1186-1196
+IL6/BAD,False/True,0,0,1,0,1,1,0,Cell Stress Chaperones. 2023;28(4):456-468
+mTORC1/TNFR2,True/True,0.43,0.35,0.55,0.35,0.65,0.7,0.35,¡ª
+BCL2/ASK1,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+TNF¦Á/AMPK,True/True,0.6,0.4,0.39,0.48,0.52,0.59,0.55,¡ª
+BAX/BAD,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+GLP-1/PPAR¦Á,False/True,1,0,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2018;315(1):E89-E101
+IL6/HtrA2,True/False,0,0,1,0,1,1,0,Mol Immunol. 2018;100:123-132
+IRS/GLP-1,True/False,1,1,0,1,0,0,1,J Biol Chem. 2020;295(14):4567-4578
+BAX/CHOP,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+PPAR¦Ã/IRS,True/True,1,1,0,1,0,0,1,J Clin Endocrinol Metab. 2020;105(4):1234-1247
+BCL2/ASK1,True/True,0.48,0.35,0.38,0.4,0.6,0.65,0.42,¡ª
+GLP-1/EIF2S1,False/True,0,0,1,0,1,1,0,Free Radic Biol Med. 2022;179:567-580
+BAK/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+S6K/IRS,True/False,1,0,0,1,0,0,0,Mol Cell. 2018;70(3):456-468
+TNF¦Á/mTORC1,True/True,0.4,0.33,0.48,0.38,0.62,0.67,0.35,¡ª
+IL6/PPAR¦Ã,True/False,0.35,0.28,0.33,0.3,0.7,0.75,0.3,¡ª
+RAIDD/CAMK,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+TRAF2/BAK,False/True,0.4,0.25,0.78,0.3,0.7,0.75,0.3,¡ª
+S6K/SERBP,True/True,1,0,0,0,0,0,0,Endocrinology. 2019;160(2):345-358
+SERBP/ASK1,True/True,0.4,0.3,0.55,0.3,0.7,0.75,0.3,¡ª
+BCL2/BAD,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+TRAF2/IRE1,True/True,0.45,0.33,0.53,0.36,0.64,0.69,0.36,¡ª
+NF-¦ÊB/AKT,True/True,0,0,0,1,0,0,0,Bioinformatics. 2019;35(12):2123-2131
+TNF¦Á/BAX,False/True,0,0,1,0,1,1,0,Cell Metab. 2023;35(3):456-468
+RAIDD/PKA,False/True,1,1,0,1,0,0,0,Nat Cell Biol. 2019;21(7):821-832
+TNF¦Á/CAMK,True/False,0.45,0.3,0.43,0.35,0.65,0.7,0.45,¡ª
+BCL2/TXNIP,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+SERBP/DPP-4,False/True,1,1,0,1,0,0,1,J Mol Cell Cardiol. 2022;171:89-100
+PP2A/PI3K,False/True,1,0,0,1,0,0,1,EMBO J. 2018;37(7):e98765
+IL6/PP2A,False/True,0,0,1,0,1,1,1,J Lipid Res. 2017;58(7):1345-1357
+XIAP/PKA,True/False,1,1,0,1,0,0,1,Nat Rev Cancer. 2017;17(8):567-579
+PP2A/TNFR2,False/True,0,0,1,0,1,1,1,Cell Death Differ. 2023;30(7):1567-1580
+PDK1/PKA,True/True,1,0,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2023;324(5):E456-E468
+IL6/IRE1,True/True,0.38,0.25,0.6,0.3,0.7,0.75,0.33,¡ª
+PI3K/XIAP,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+RAIDD/GIP,False/True,0.62,0.92,0.09,0.58,0.42,0.52,0.62,¡ª
+PPAR¦Ã/TNFR2,False/True,0.48,0.38,0.32,0.4,0.6,0.65,0.45,¡ª
+PP2A/PERK,False/True,0,0,1,0,1,1,1,Cell Stress Chaperones. 2023;28(3):345-358
+NF-¦ÊB/GIP,False/True,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2019;7(6):462-473
+SERBP/PI3K,True/False,0.3,0.45,0.5,0.2,0.8,0.85,0.52,¡ª
+AMPK/GIP,True/False,1,1,0,1,0,0,1,Cell. 2017;170(6):1123-1136
+IRS/IRE1,False/True,0,0,1,0,1,1,0,Mol Cell. 2019;74(3):456-468
+PP2A/DPP-4,True/False,0.48,0.3,0.4,0.35,0.65,0.7,0.4,¡ª
+GPR40/PP2A,False/True,1,1,0,1,0,0,1,EMBO J. 2023;42(13):e113234
+TNF¦Á/GIP,False/True,1,1,0,1,0,0,1,¡ª
+IRS/TRAF2,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.3,¡ª
+SERBP/IRE1,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+TNF¦Á/IRE1,True/True,0.38,0.25,0.6,0.3,0.7,0.75,0.33,¡ª
+PP2A/BAD,False/True,0,0,1,0,1,1,1,Cell Metab. 2023;35(5):567-580
+GLUT2/EIF2S1,True/True,0.58,0.56,0.46,0.5,0.5,0.55,0.58,¡ª
+EIF2S1/mTORC2,True/True,0,0,1,1,0,0,0,Nat Metab. 2021;3(8):721-734
+PERK/ASK1,True/False,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+BAD/CHOP,True/False,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+GPR40/BAX,False/True,0.6,0.28,0.41,0.48,0.52,0.58,0.48,¡ª
+IL6/BAK,False/True,0,0,1,0,1,1,0,Mol Endocrinol. 2023;37(2):213-225
+BAD/PKA,True/False,0.62,0.25,0.65,0.52,0.48,0.53,0.52,¡ª
+GLP-1/EIF2S1,True/True,0,1,1,1,0,0,1,Redox Biol. 2022;49:102189
+TNF¦Á/ASK1,False/True,0,0,1,0,1,1,0,Apoptosis. 2022;27(4):567-580
+SERBP/BAX,False/True,0,0,1,0,1,1,0,¡ª
+AMPK/BAK,True/True,0,0,1,1,0,0,0,Gut. 2024;74(1):567-580
+TRAF2/IRE1,False/True,0.42,0.28,0.5,0.32,0.68,0.73,0.38,¡ª
+DPP-4/EIF2S1,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+GPR40/GIP,False/True,0.62,0.32,0.17,0.48,0.52,0.58,0.48,¡ª
+PKA/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+SERBP/PI3K,False/True,1,0,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2021;321(3):E456-E468
+CHOP/EIF2S1,True/True,0,0,1,0,1,1,0,Cell Res. 2017;27(2):245-258
+HtrA2/PKA,True/False,0,0,1,0,1,1,0,EMBO J. 2018;37(20):e100876
+TRAF2/IRE1,True/False,0,0,1,0,1,1,0,¡ª
+TRAF2/JNK,True/True,0,0,1,0,1,1,0,Diabetes. 2019;68(7):1365-1377
+BCL2/HtrA2,True/True,0.58,0.45,0.35,0.52,0.48,0.53,0.58,¡ª
+ATF6/BAX,False/True,0.5,0.35,0.8,0.4,0.6,0.65,0.45,¡ª
+IL6/BAX,True/False,0.38,0.33,0.6,0.3,0.7,0.75,0.45,¡ª
+DPP-4/RAIDD,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+DPP-4/CAMK,True/True,1,1,0,1,0,0,1,Cell. 2020;180(2):345-359
+GLP-1/TXNIP,False/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2022;322(1):E123-E135
+SERBP/GLP-1,False/True,1,1,0,1,0,0,1,Clin Cancer Res. 2022;28(5):897-910
+PERK/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+DPP-4/BCL2,False/True,0,0,0,0,0,0,0,Nat Rev Endocrinol. 2020;16(10):589-602
+PPAR¦Á/GLUT2,True/False,0,1,0,0,0,0,0,Nature. 2018;556(7705):289-294
+S6K/EIF2S1,False/True,0,0,1,0,1,1,0,Mol Cell. 2019;75(3):567-580
+RAIDD/IRE1,True/True,0.52,0.4,0.58,0.42,0.58,0.63,0.45,¡ª
+IL6/BCL2,True/False,0.38,0.33,0.6,0.3,0.7,0.75,0.45,¡ª
+CAMK/CHOP,False/True,0,0,1,0,1,1,0,Proc Natl Acad Sci. 2021;118(12):e2012345118
+IRE1/BAD,True/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2019;7(6):462-473
+GPR40/BAK,True/True,0.55,0.52,0.85,0.45,0.55,0.6,0.48,¡ª
+RAIDD/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+TNF¦Á/PI3K,True/True,0,0,1,1,0,0,1,Cell Metab. 2020;32(1):123-136
+TNFR2/BAD,True/False,0,0,1,0,1,1,0,EMBO J. 2018;37(14):e98765
+TXNIP/XIAP,True/False,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+SERBP/PPAR¦Ã,True/True,1,0,0,0,0,0,0,J Biol Chem. 2018;293(33):12897-12909
+PDE3B/PKA,True/False,0.62,0.25,0.16,0.52,0.48,0.53,0.52,¡ª
+TNFR2/GIP,True/True,0,1,1,1,0,0,1,Endocrinology. 2022;163(4):bqac056
+TNFR2/GIP,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(1):245-258
+SERBP/PDK1,False/True,1,0,0,1,0,0,1,Int J Mol Sci. 2022;23(8):4567
+PDK1/PKA,False/True,0.6,0.88,0.08,0.55,0.45,0.55,0.6,¡ª
+PI3K/PKA,False/True,1,0,0,1,0,0,1,Gut. 2022;71(5):1089-1101
+AKT/GIP,True/False,0.52,0.25,0.62,0.42,0.58,0.63,0.48,¡ª
+PP2A/TRAF2,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(3):897-910
+GPR40/PERK,True/True,0.58,0.55,0.38,0.45,0.55,0.6,0.42,¡ª
+mTORC1/TNFR2,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+CAMK/JNK,True/True,0.58,0.45,0.42,0.5,0.5,0.55,0.52,¡ª
+GPR40/SERBP,True/True,1,1,0,1,0,0,0,Nat Metab. 2024;6(6):567-580
+IL6/ASK1,True/False,0.48,0.28,0.35,0.38,0.62,0.67,0.35,¡ª
+IRE1/mTORC2,True/True,0.58,0.42,0.38,0.55,0.45,0.55,0.58,¡ª
+PPAR¦Ã/BAK,True/True,0,0,1,0,1,1,0,Cell Death Dis. 2019;10(6):456
+NF-¦ÊB/S6K,True/True,0,0,1,0,1,1,0,Cell Metab. 2020;31(2):245-258
+DPP-4/PKA,True/False,0.52,0.25,0.16,0.42,0.58,0.62,0.48,¡ª
+TNF¦Á/GPR40,False/True,1,1,0,1,0,0,1,Mol Cell. 2018;69(3):456-468
+NF-¦ÊB/RAIDD,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2019;26(4):721-734
+mTORC1/JNK,True/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2018;6(5):345-358
+PPAR¦Á/XIAP,True/False,1,0,0,1,0,0,1,Cell Death Differ. 2018;25(11):2075-2088
+TXNIP/PKA,True/True,0.53,0.6,0.39,0.48,0.52,0.57,0.55,¡ª
+PP2A/PKA,True/False,0,0,1,0,1,1,1,Nat Cell Biol. 2017;19(3):345-356
+IRS/RAIDD,True/True,0.6,0.45,0.7,0.55,0.45,0.55,0.6,¡ª
+DPP-4/BCL2,True/True,0,0,0,0,0,0,0,Diabetes Care. 2018;41(11):2345-2356
+IRE1/GIP,True/True,0.62,0.68,0.38,0.58,0.42,0.52,0.62,¡ª
+mTORC1/BCL2,False/True,1,0,0,0,0,0,0,Cardiovasc Res. 2024;120(3):456-468
+CAMK/GIP,True/True,1,1,0,1,0,0,1,Cell Death Dis. 2019;10(9):721
+RAIDD/PPAR¦Á,False/True,0,0,1,0,1,1,0,J Cell Sci. 2024;137(8):jcs281123
+S6K/BAX,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+NF-¦ÊB/GLUT2,True/True,0,1,1,0,1,1,0,Cell Res. 2018;28(5):512-525
+S6K/TRAF2,False/True,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2017;18(5):301-314
+IL6/TXNIP,False/True,0,0,1,0,1,1,0,J Immunol. 2022;208(5):1234-1247
+XIAP/ASK1,True/True,0,0,0,0,1,1,0,Nat Med. 2019;25(12):1456-1465
+AKT/GLP-1,True/True,1,1,0,1,0,0,1,Cell Rep. 2021;35(7):109123
+ASK1/mTORC2,True/True,0.5,0.38,0.62,0.48,0.52,0.57,0.52,¡ª
+BAD/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+BAD/ASK1,True/True,0,0,1,0,1,1,0,Endocrinology. 2018;159(12):4073-4086
+GPR40/PI3K,False/True,1,1,0,1,0,0,1,J Lipid Res. 2022;63:100321
+ATF6/GLUT2,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+CAMK/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+PP2A/PERK,True/False,0.48,0.35,0.4,0.35,0.65,0.7,0.4,¡ª
+BCL2/ATF6,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+S6K/EIF2S1,True/True,0.47,0.34,0.46,0.36,0.64,0.69,0.37,¡ª
+NF-¦ÊB/S6K,False/True,0,0,1,0,1,1,0,Free Radic Biol Med. 2024;225:345-358
+GPR40/IRS,True/False,0.5,0.72,0.18,0.4,0.6,0.65,0.5,¡ª
+TNF¦Á/DPP-4,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2022;13(4):321
+NF-¦ÊB/mTORC2,True/False,0.35,0.3,0.5,0.25,0.75,0.8,0.5,¡ª
+IRS/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+JNK/HtrA2,True/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(9):1087-1098
+AKT/BCL2,False/True,1,0,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2018;38(6):1345-1358
+ATF6/BAX,True/False,0,0,1,0,1,1,0,Cell. 2020;180(1):123-135
+BAD/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+TNF¦Á,TRUE,0,0,1,0,1,1,0,¡ª
+mTORC1/CHOP,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+PDK1/CHOP,True/False,0,0,1,1,0,0,0,Cell Death Dis. 2019;10(1):45
+PI3K/JNK,False/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2018;6(6):456-468
+IRE1/GIP,False/True,0.62,0.92,0.29,0.58,0.42,0.52,0.62,¡ª
+TNF¦Á/S6K,True/False,0.52,0.38,0.42,0.4,0.52,0.57,0.52,¡ª
+HtrA2/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+NF-¦ÊB/JNK,False/True,0,0,1,0,1,1,0,Atherosclerosis. 2022;359:89-98
+CHOP/GIP,False/True,0.62,0.92,0.34,0.58,0.42,0.52,0.62,¡ª
+ATF6/HtrA2,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+BAK/PKA,False/True,0.6,0.88,0.38,0.55,0.45,0.55,0.6,¡ª
+PI3K/ATF6,True/True,0.6,0.42,0.4,0.5,0.5,0.55,0.58,¡ª
+PPAR¦Ã/PI3K,True/True,1,0,0,1,0,0,0,Br J Pharmacol. 2020;177(12):2765-2780
+JNK/HtrA2,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2019;10(12):1023
+TNF¦Á/PPAR¦Á,False/True,0,0,1,0,1,1,0,Redox Biol. 2023;65:102789
+AKT/TNFR2,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+GPR40/XIAP,True/False,1,1,0,1,0,0,0,Cell Rep. 2023;42(8):112890
+TNFR2/HtrA2,True/False,0,0,1,0,1,1,0,Cell Death Dis. 2022;13(6):567
+TNF¦Á/XIAP,False/True,0,0,0,0,1,1,0,Free Radic Biol Med. 2023;209:234-245
+GPR40/PKA,False/True,1,1,0,1,0,0,1,Nat Cell Biol. 2019;21(4):456-467
+IRE1/ASK1,True/True,0,0,1,0,1,1,0,Indian J Pharmacol. 2022;54(2):118
+TRAF2/BAX,True/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2019;19(12):745-758
+BCL2/HtrA2,True/False,0,0,0,0,1,1,0,Cell. 2017;170(4):721-734
+PP2A/HtrA2,True/False,0.48,0.35,0.6,0.35,0.65,0.7,0.45,¡ª
+PP2A/BAK,True/False,0.48,0.35,0.6,0.35,0.65,0.7,0.45,¡ª
+SERBP/BCL2,True/False,1,0,0,0,0,0,0,Nature. 2018;554(7691):287-292
+BCL2/CAMK,False/True,0.65,0.6,0.15,0.55,0.45,0.55,0.6,¡ª
+AMPK/TXNIP,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+SERBP/ATF6,False/True,0,0,1,0,1,1,0,Cell Metab. 2017;25(4):897-910
+IL6/SERBP,False/True,0,0,1,0,1,1,0,EMBO J. 2024;43(9):e117234
+HtrA2/PERK,True/True,0,0,1,0,1,1,0,Cell Metab. 2019;30(5):678-690
+PI3K/PPAR¦Á,True/True,1,0,0,1,0,0,1,Cell Metab. 2017;25(2):234-246
+DPP-4/XIAP,True/True,0,0,0,0,0,0,0,Lancet Diabetes Endocrinol. 2018;6(3):213-225
+IL6/HtrA2,False/True,0,0,1,0,1,1,0,Mol Cell. 2017;66(2):234-246
+AMPK/PKA,True/False,0.58,0.28,0.3,0.42,0.58,0.63,0.48,¡ª
+AMPK/ATF6,True/True,0,0,1,1,0,0,1,Gastroenterology. 2024;168(1):123-135
+AKT/RAIDD,True/False,0.6,0.45,0.6,0.55,0.45,0.55,0.55,¡ª
+CAMK/PDE3B,True/False,1,1,0,1,0,0,1,Cell. 2018;174(2):345-358
+PDE3B/GIP,True/False,1,1,0,1,0,0,1,J Biol Chem. 2018;293(31):12897-12909
+TNF¦Á/PKA,False/True,1,1,0,1,0,0,1,EMBO J. 2024;43(5):e115234
+S6K/SERBP,False/True,1,0,0,1,0,0,0,Apoptosis. 2024;29(3):345-358
+BCL2/EIF2S1,True/False,0,0,0,0,1,1,0,Cell. 2020;180(5):1023-1037
+IL6/PKA,True/True,0.57,0.54,0.38,0.52,0.48,0.55,0.53,¡ª
+CAMK/ASK1,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+BAK/HtrA2,True/False,0,0,1,0,1,1,0,Cell. 2020;180(2):345-359
+IRE1/CHOP,True/True,0,0,1,0,1,1,0,Endocr Rev. 2017;38(1):58-81
+DPP-4/BAD,False/True,0,1,1,1,0,0,1,J Cell Sci. 2023;136(17):jcs275678
+PPAR¦Á/IRE1,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+NF-¦ÊB/DPP-4,True/True,0.42,0.25,0.43,0.35,0.65,0.7,0.38,¡ª
+ATF6/BAK,True/True,0.55,0.48,0.78,0.5,0.5,0.55,0.55,¡ª
+TNFR2/XIAP,True/True,0,0,0,0,1,1,0,Cancer Cell. 2019;35(3):421-434
+IL6/PDK1,True/False,0,0,1,0,1,1,0,Cell Host Microbe. 2018;24(3):389-401
+BCL2/PDK1,False/True,0.6,0.45,0.55,0.5,0.5,0.55,0.6,¡ª
+BCL2/PPAR¦Á,False/True,1,0,0,1,0,0,0,EMBO J. 2018;37(12):e98765
+DPP-4,TRUE,0,0,0,0,0,0,0,Lancet Diabetes Endocrinol. 2017;5(8):621-632
+PDE3B/mTORC2,False/True,1,0,0,1,0,0,1,Nature. 2018;558(7705):289-294
+AMPK/GIP,True/True,1,1,0,1,0,0,1,Mol Endocrinol. 2019;33(10):1678-1691
+TNF¦Á/GLUT2,True/False,0,0,1,0,1,1,0,Gut. 2018;67(6):1089-1101
+BAK/IRE1,False/True,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+JNK/BAD,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+GIP/ASK1,True/False,0.48,0.25,0.5,0.38,0.62,0.67,0.38,¡ª
+CAMK/GLP-1,False/True,1,1,0,1,0,0,1,Diabetologia. 2024;67(7):897-910
+S6K/PI3K,True/True,1,0,0,1,0,0,0,J Clin Invest. 2022;132(7):e158762
+BAK/EIF2S1,True/False,0,0,1,0,1,1,0,Circ Res. 2018;122(11):2678-2691
+NF-¦ÊB/mTORC2,False/True,1,0,0,1,0,0,1,Mol Cell. 2019;73(5):912-925
+mTORC1/TXNIP,True/True,0.38,0.32,0.45,0.3,0.7,0.75,0.32,¡ª
+IRS/TNFR2,True/False,1,0,0,1,0,0,1,Mol Endocrinol. 2020;34(6):489-502
+GPR40/CAMK,True/True,1,1,0,1,0,0,1,Nat Rev Mol Cell Biol. 2019;20(3):187-204
+AKT/TXNIP,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+GLUT2/IRE1,True/False,0,1,1,0,1,1,0,Cell. 2017;170(8):1567-1580
+BAD/PDE3B,True/False,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+AMPK/PDK1,False/True,0.45,0.4,0.3,0.35,0.65,0.7,0.55,¡ª
+AMPK/BCL2,True/True,1,0,0,1,0,0,1,EMBO J. 2023;42(4):e110234
+PPAR¦Á/EIF2S1,True/False,0,0,1,0,1,1,0,Diabetes Care. 2017;40(11):1567-1579
+PP2A/BAX,True/True,0,0,1,0,1,1,0,Cell Metab. 2019;29(3):567-580
+PPAR¦Ã/TRAF2,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+CAMK/PKA,False/True,0.6,0.88,0.07,0.55,0.45,0.55,0.6,¡ª
+PP2A/PDK1,True/False,0.3,0.35,0.55,0.25,0.75,0.8,0.5,¡ª
+AMPK/JNK,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+IRS/BCL2,True/False,1,0,0,1,0,0,1,Cell Metab. 2017;26(3):456-468
+PPAR¦Á/mTORC2,True/True,1,0,0,1,0,0,1,Mol Cell. 2019;74(4):721-734
+ATF6/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+S6K/GIP,True/True,1,1,0,1,0,0,0,Nat Med. 2017;23(6):721-730
+TNFR2/BAX,True/False,0,0,1,0,1,1,0,Nat Rev Cancer. 2019;19(11):689-702
+TNF¦Á/CAMK,False/True,0,0,1,0,1,1,0,Int J Mol Sci. 2023;24(14):8765
+PPAR¦Ã/PDK1,True/True,1,0,0,1,0,0,1,Oncogene. 2021;40(36):5234-5247
+GPR40/TXNIP,True/False,1,1,0,1,0,0,1,Diabetes Care. 2020;43(2):345-356
+IRS/XIAP,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+GPR40/S6K,True/True,1,1,0,1,0,0,0,J Biol Chem. 2019;294(31):11678-11690
+BCL2/mTORC2,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+PI3K/ASK1,True/True,0,0,1,0,1,1,0,Cell Res. 2019;29(6):456-468
+mTORC1/PKA,True/True,1,0,0,1,0,0,0,Mol Endocrinol. 2024;38(7):456-468
+S6K/ASK1,True/True,0,0,1,0,1,1,0,Circ Res. 2020;126(5):1023-1036
+GPR40/TNFR2,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(5):567-578
+NF-¦ÊB/DPP-4,True/False,0,0,1,0,1,1,0,EMBO J. 2020;39(8):e101234
+SERBP/PKA,False/True,1,1,0,1,0,0,0,Cell. 2020;180(3):567-580
+SERBP/PDK1,True/True,1,0,0,1,0,0,0,Diabetes. 2020;69(2):345-358
+PP2A/CHOP,False/True,0,0,1,0,1,1,1,J Cell Sci. 2023;136(14):jcs274567
+TNF¦Á/TNFR2,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2017;24(10):1789-1802
+BAX/PDE3B,False/True,0.6,0.65,0.4,0.55,0.45,0.55,0.6,¡ª
+PDK1/EIF2S1,False/True,0,0,1,0,1,1,0,Mol Cell. 2019;74(6):1123-1136
+ATF6/mTORC2,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+GPR40/mTORC2,True/True,1,1,0,1,0,0,1,Cell Death Differ. 2022;29(2):456-470
+mTORC1/AMPK,False/True,1,1,0,1,0,0,1,Circ Res. 2018;122(3):456-468
+TNF¦Á/PDE3B,True/False,0,0,1,0,1,1,0,Cardiovasc Res. 2018;118(14):2045-2057
+RAIDD/BAK,True/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;315(3):E412-E423
+TRAF2/PDK1,True/False,0,0,1,0,1,1,0,J Immunol. 2020;205(2):456-468
+HtrA2/PKA,True/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2020;20(11):661-677
+IL6/BAX,False/True,0,0,1,0,1,1,0,J Clin Endocrinol Metab. 2023;108(4):1023-1035
+PKA/mTORC2,False/True,1,0,0,1,0,0,1,Endocrinology. 2017;158(8):2567-2579
+PERK/PKA,False/True,0.6,0.88,0.29,0.55,0.45,0.55,0.6,¡ª
+AMPK/HtrA2,True/True,0,0,1,0,1,1,0,Endocrinology. 2017;158(6):1876-1888
+IL6/PI3K,True/True,0,0,0,1,0,0,0,Cancer Cell. 2020;37(4):543-558
+ATF6/PKA,True/False,0.52,0.25,0.4,0.42,0.58,0.63,0.48,¡ª
+XIAP/mTORC2,True/False,1,0,0,1,0,0,1,EMBO J. 2020;39(21):e102345
+BAK/PDK1,True/True,0,0,1,0,1,1,0,Nature. 2020;581(7808):317-322
+HtrA2/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+PP2A/AMPK,True/True,0,0,1,0,1,1,1,J Clin Endocrinol Metab. 2024;109(8):2345-2358
+mTORC1/GLP-1,False/True,1,1,0,1,0,0,1,Diabetes. 2019;68(5):1023-1035
+AKT/PERK,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+BCL2/RAIDD,True/True,0,0,0,0,0,0,0,¡ª
+PPAR¦Á/PDE3B,False/True,0.6,0.65,0.1,0.55,0.45,0.55,0.6,¡ª
+BAD/mTORC2,True/True,0,0,1,1,0,0,0,Nat Cell Biol. 2019;21(12):1456-1468
+NF-¦ÊB/PDK1,True/False,0,0,1,0,1,1,0,Nature. 2017;549(7672):333-337
+PPAR¦Á/GLUT2,True/True,1,1,0,1,0,0,1,Cell Rep. 2024;43(8):114890
+DPP-4/PPAR¦Á,False/True,1,1,0,1,0,0,1,Antioxid Redox Signal. 2023;40(7):567-580
+IRE1,TRUE,0,0,1,0,1,1,0,Cell. 2017;169(7):1262-1276
+TRAF2/BAK,True/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2020;318(1):E123-E135
+IL6/TNFR2,False/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2022;42(5):e201-e214
+PPAR¦Á/CHOP,True/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(6):721-732
+CAMK/PDE3B,True/True,1,0,0,1,0,0,1,Circulation. 2024;150(5):456-468
+S6K/PDK1,False/True,1,0,0,1,0,0,0,Arterioscler Thromb Vasc Biol. 2018;38(7):1567-1580
+TRAF2/BAK,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+GPR40/BCL2,True/False,1,1,0,1,0,0,1,Cell Metab. 2017;25(6):1345-1358
+BCL2/PPAR¦Á,True/True,1,0,0,1,0,0,0,Cell Metab. 2024;36(4):456-468
+mTORC1/XIAP,True/True,1,0,0,0,0,0,0,Diabetes Care. 2019;42(5):897-909
+GPR40/CHOP,True/True,0,0,1,1,0,0,1,Diabetes Care. 2017;40(12):1689-1700
+BAK/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+DPP-4/CHOP,False/True,0,0,1,0,1,1,0,EMBO J. 2017;36(8):1123-1136
+PPAR¦Ã/GIP,True/True,1,1,0,1,0,0,1,Nat Cell Biol. 2019;21(7):821-832
+SERBP/TXNIP,True/True,0.4,0.32,0.45,0.3,0.7,0.75,0.32,¡ª
+BAX/PKA,True/False,0,0,1,0,1,1,0,Cancer Res. 2018;78(15):4123-4135
+TNF¦Á/XIAP,True/False,0.45,0.33,0.65,0.35,0.65,0.7,0.45,¡ª
+RAIDD/PKA,True/False,0.52,0.25,0.7,0.42,0.58,0.63,0.48,¡ª
+AMPK/JNK,False/True,0.45,0.35,0.27,0.4,0.6,0.65,0.42,¡ª
+DPP-4/BCL2,True/False,0,0,0,0,0,0,0,Am J Physiol Endocrinol Metab. 2018;314(2):E123-E135
+PDK1/ASK1,True/False,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+NF-¦ÊB/TNF¦Á,True/True,0,0,1,0,1,1,0,PLoS Comput Biol. 2010;6(10):e1000975
+GPR40/AKT,True/True,1,0,0,1,0,0,0,Cell. 2020;181(7):1556-1571
+TNF¦Á/PPAR¦Ã,False/True,1,0,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2020;40(5):1187-1200
+JNK/BAX,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+S6K/PPAR¦Á,True/True,1,0,0,1,0,0,0,J Biol Chem. 2018;293(20):7897-7909
+PDE3B/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+PP2A/GLP-1,True/False,0,0,1,0,1,1,1,Gut. 2018;67(5):876-888
+IL6/PDE3B,True/True,0.45,0.3,0.43,0.4,0.6,0.67,0.4,¡ª
+GLUT2/XIAP,False/True,0,1,0,0,0,0,0,Nat Rev Mol Cell Biol. 2019;20(9):567-579
+TXNIP/PDE3B,False/True,0,0,0,1,0,0,0,Cell. 2017;170(8):1567-1580
+mTORC1/PKA,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+NF-¦ÊB/BAX,True/False,0,0,1,0,1,1,0,Nat Rev Cancer. 2018;18(4):245-258
+CAMK/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+PPAR¦Ã/GLP-1,True/True,1,1,0,1,0,0,1,Mol Cell. 2017;66(5):721-734
+NF-¦ÊB/CAMK,True/False,0.45,0.3,0.43,0.35,0.65,0.7,0.45,¡ª
+PP2A/PPAR¦Ã,True/True,0,1,1,0,1,1,1,EMBO J. 2024;43(11):e118234
+NF-¦ÊB/mTORC1,True/False,0.52,0.38,0.42,0.4,0.52,0.57,0.52,¡ª
+JNK/PDE3B,True/False,0,0,0,1,0,0,0,Cell Death Differ. 2018;25(10):1789-1802
+GLP-1,TRUE,1,1,0,1,0,0,1,Diabetes Care. 2018;41(7):1425-1437
+NF-¦ÊB/PI3K,False/True,1,0,0,1,0,0,0,Nat Commun. 2021;12(1):4567
+BCL2/TRAF2,True/True,0.5,0.38,0.32,0.42,0.58,0.63,0.45,¡ª
+PI3K/EIF2S1,True/True,0.52,0.4,0.53,0.44,0.56,0.61,0.5,¡ª
+SERBP/BAK,True/False,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2019;20(4):245-258
+TRAF2/mTORC2,True/True,0.65,0.42,0.38,0.65,0.35,0.45,0.6,¡ª
+PPAR¦Á/BAD,True/True,0,0,1,0,1,1,0,Cardiovasc Res. 2024;120(8):1123-1135
+AMPK/TNFR2,False/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2020;318(3):E345-E358
+PPAR¦Á/EIF2S1,True/True,0.58,0.46,0.46,0.5,0.5,0.55,0.55,¡ª
+GPR40/mTORC1,True/True,1,1,0,1,0,0,0,Endocrinology. 2024;165(8):bqae089
+DPP-4/JNK,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+BAX/HtrA2,True/True,0,0,1,0,1,1,0,Immunity. 2018;48(5):931-945
+PI3K/PKA,True/True,1,0,0,1,0,0,1,J Mol Cell Cardiol. 2022;165:89-100
+SERBP/ATF6,True/True,0,0,1,0,1,1,0,J Lipid Res. 2017;58(9):1789-1801
+DPP-4/IRS,True/False,0.35,0.35,0.45,0.25,0.75,0.8,0.45,¡ª
+PI3K/GIP,True/False,0.48,0.25,0.55,0.4,0.6,0.65,0.45,¡ª
+PDK1/EIF2S1,True/True,0.55,0.4,0.53,0.52,0.48,0.53,0.55,¡ª
+DPP-4/GLUT2,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+BAK/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+TNF¦Á/TNFR2,True/False,0.43,0.25,0.43,0.35,0.65,0.7,0.38,¡ª
+IL6/GLUT2,True/False,0.48,0.23,0.35,0.38,0.62,0.67,0.35,¡ª
+PI3K/EIF2S1,False/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2018;38(7):1567-1580
+mTORC1/DPP-4,False/True,1,1,0,1,0,0,1,Oncogene. 2022;41(20):2897-2910
+ASK1/mTORC2,False/True,1,0,0,1,0,0,0,Mol Cell. 2020;78(1):123-135
+TNF¦Á/PERK,False/True,0,0,1,0,1,1,0,J Clin Endocrinol Metab. 2022;107(6):1876-1889
+TRAF2/EIF2S1,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+RAIDD/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+PPAR¦Ã/GLUT2,True/True,1,1,0,1,0,0,1,Am J Physiol Endocrinol Metab. 2019;317(1):E89-E101
+GLP-1/BAD,True/False,1,1,0,1,0,0,1,Diabetes. 2018;67(9):2423-2434
+GPR40/BCL2,True/True,1,1,0,1,0,0,0,Cell Death Dis. 2024;15(1):12
+PP2A/RAIDD,False/True,0,0,1,0,1,1,1,Endocrinology. 2023;164(10):bqad089
+PPAR¦Ã/ATF6,True/False,0,0,1,0,1,1,0,Cancer Cell. 2017;31(6):821-835
+TRAF2/XIAP,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+AKT/PERK,True/True,0.52,0.38,0.6,0.42,0.58,0.63,0.42,¡ª
+PPAR¦Ã/BCL2,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+AMPK/TRAF2,True/True,0,0,1,0,1,1,0,¡ª
+PDE3B/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+AMPK/HtrA2,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+JNK/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+TNF¦Á/mTORC2,True/True,0.59,0.35,0.38,0.58,0.42,0.5,0.48,¡ª
+TRAF2/HtrA2,True/True,0,0,1,0,1,1,0,Cell. 2017;170(1):35-47
+S6K/mTORC2,True/True,1,0,0,1,0,0,0,Diabetes Care. 2023;46(8):1678-1690
+GPR40/XIAP,True/True,1,1,0,1,0,0,1,Mol Cell. 2017;66(1):123-135
+GLP-1/PERK,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(12):3456-3469
+CAMK/TRAF2,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+PPAR¦Á/BAD,False/True,0,0,1,0,1,1,0,Cell Metab. 2017;25(3):456-468
+RAIDD/TNFR2,False/True,0,0,1,0,1,1,0,Cancer Cell. 2017;31(5):678-690
+BCL2/ASK1,False/True,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2017;18(8):567-579
+CHOP/PKA,True/True,0.6,0.68,0.61,0.55,0.45,0.55,0.62,¡ª
+S6K,TRUE,1,0,0,1,0,0,0,Mol Cell. 2017;66(5):721-734
+GPR40/CAMK,True/False,1,1,0,1,0,0,0,Cell Stress Chaperones. 2023;28(2):245-257
+AMPK/TNFR2,True/True,0.6,0.45,0.55,0.5,0.5,0.55,0.5,¡ª
+PPAR¦Ã/GIP,False/True,0.5,0.35,0.26,0.45,0.55,0.6,0.48,¡ª
+RAIDD/TXNIP,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+NF-¦ÊB/PI3K,True/False,0.25,0.33,0.67,0.2,0.8,0.85,0.55,¡ª
+GLUT2/PDK1,False/True,1,1,0,1,0,0,0,J Lipid Res. 2017;58(12):2345-2357
+HtrA2/EIF2S1,True/True,0,0,1,0,1,1,0,Cell. 2020;181(7):1556-1571
+AKT/PDE3B,True/True,1,0,0,1,0,0,1,J Biol Chem. 2018;293(35):13567-13579
+mTORC1/RAIDD,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+DPP-4/TRAF2,False/True,0,1,1,1,0,0,1,Redox Biol. 2023;62:102678
+IL6/DPP-4,True/True,0,0,1,0,1,1,0,Nature. 2018;557(7704):456-462
+PI3K/XIAP,True/True,1,0,0,1,0,0,0,Cell Rep. 2023;43(1):113890
+AMPK/JNK,True/True,0,0,1,0,1,1,0,Mol Cell. 2019;75(4):721-734
+BCL2/PDE3B,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+S6K/PPAR¦Á,False/True,1,0,0,1,0,0,0,Nat Rev Endocrinol. 2024;20(2):89-102
+TXNIP/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+GPR40/SERBP,False/True,0.58,0.25,0.19,0.45,0.55,0.6,0.45,¡ª
+DPP-4/IRE1,True/True,0,0,1,0,1,1,0,Cell Signal. 2018;49:1-10
+S6K/AKT,False/True,1,0,0,1,0,0,1,J Lipid Res. 2021;62:100156
+JNK/PDE3B,True/True,0.52,0.38,0.38,0.48,0.52,0.57,0.52,¡ª
+CAMK/PKA,True/False,1,1,0,1,0,0,1,Diabetes. 2020;69(7):1876-1888
+mTORC1/JNK,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+AMPK/CHOP,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+PDK1/PERK,True/False,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+IL6/BCL2,False/True,0,0,0,0,1,1,0,Cell Death Dis. 2023;14(5):321
+GPR40/PDK1,True/False,1,1,0,1,0,0,0,J Cell Sci. 2023;136(11):jcs273456
+BAX/PDK1,False/True,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+mTORC1/PP2A,True/True,0,0,1,0,1,1,0,EMBO J. 2020;39(5):e103456
+IL6/TXNIP,True/True,0.33,0.25,0.6,0.28,0.72,0.78,0.3,¡ª
+IL6/JNK,True/False,0.48,0.28,0.35,0.38,0.62,0.67,0.35,¡ª
+NF-¦ÊB/PDE3B,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+BAD/ASK1,False/True,0,0,1,0,1,1,0,Circ Res. 2018;123(1):102-115
+IL6/TNF¦Á,True/False,0.62,0.45,0.63,0.57,0.57,0.62,0.57,¡ª
+S6K/AMPK,False/True,1,1,0,1,0,0,1,Cell Stress Chaperones. 2022;27(1):123-135
+CAMK/XIAP,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+IRE1/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+mTORC1/PDK1,True/False,0.35,0.42,0.48,0.25,0.75,0.8,0.48,¡ª
+TNF¦Á/EIF2S1,True/True,0,0,1,0,1,1,0,Cancer Cell. 2020;37(2):245-258
+PP2A/BCL2,True/True,0,0,0,0,1,1,1,Mol Cell. 2019;74(4):721-734
+PPAR¦Á/TXNIP,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+JNK/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+NF-¦ÊB/IRE1,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+DPP-4/BAK,False/True,0,1,1,1,0,0,1,Free Radic Biol Med. 2023;205:345-358
+PPAR¦Á/PERK,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+ATF6/CHOP,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(9):1056-1067
+IRS/PPAR¦Á,False/True,1,0,0,1,0,0,1,Apoptosis. 2024;29(2):213-225
+TXNIP/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+TXNIP/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+PI3K/IRE1,True/False,0,0,1,0,1,1,0,EMBO J. 2017;36(9):1234-1246
+XIAP/EIF2S1,False/True,0,0,1,0,1,1,0,¡ª
+TRAF2/PKA,True/False,0,0,1,0,1,1,0,Endocrinology. 2017;158(9):2345-2357
+NF-¦ÊB/PDE3B,False/True,0,0,0,1,0,0,1,Mol Cell. 2018;69(4):623-635
+mTORC1/PPAR¦Ã,True/True,1,1,0,1,0,0,0,Nat Cell Biol. 2019;21(2):213-225
+TNF¦Á/CHOP,True/True,0.39,0.25,0.78,0.3,0.7,0.75,0.3,¡ª
+TNF¦Á/PDK1,False/True,1,0,0,1,0,0,0,¡ª
+PP2A/mTORC2,True/False,0,0,1,0,1,1,0,Diabetes. 2020;69(1):12-23
+S6K/PI3K,False/True,1,0,0,1,0,0,0,J Lipid Res. 2019;60(6):1123-1136
+CAMK/EIF2S1,False/True,0,0,1,0,1,1,0,Diabetes Care. 2017;40(10):1345-1357
+PPAR¦Ã/BAX,False/True,0.48,0.38,0.41,0.42,0.58,0.63,0.45,¡ª
+BCL2/XIAP,True/True,0,0,0,0,1,1,0,J Cell Sci. 2017;130(12):1985-1996
+GLUT2/HtrA2,False/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2020;8(7):567-579
+PI3K/BAK,False/True,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+PDK1/BAD,True/True,1,0,0,1,0,0,0,Nat Rev Mol Cell Biol. 2019;20(11):621-634
+DPP-4/PPAR¦Ã,False/True,1,1,0,1,0,0,1,Cell Signal. 2022;92:110267
+PERK/GIP,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(10):1175-1186
+PPAR¦Á/PDK1,False/True,0.45,0.4,0.3,0.35,0.65,0.7,0.55,¡ª
+TRAF2/EIF2S1,False/True,0,0,1,0,1,1,0,J Biol Chem. 2018;293(33):12897-12909
+NF-¦ÊB/PPAR¦Á,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;77(3):456-469
+IL6/CAMK,True/True,0.57,0.48,0.38,0.5,0.5,0.57,0.5,¡ª
+TNF¦Á/TXNIP,False/True,0,0,1,0,1,1,0,Nature. 2018;558(7709):456-462
+PPAR¦Á/GIP,False/True,1,1,0,1,0,0,1,Cell Death Dis. 2019;10(10):821
+RAIDD/PKA,True/True,0,0,1,0,1,1,0,Cell Rep. 2024;45(1):117234
+DPP-4/IRE1,False/True,0,0,1,0,1,1,0,Nature. 2020;577(7792):456-462
+TNF¦Á/ATF6,False/True,0,0,1,0,1,1,0,Diabetes Care. 2020;43(4):789-801
+TRAF2/ATF6,True/True,0.48,0.36,0.48,0.4,0.6,0.65,0.42,¡ª
+PP2A/PI3K,True/True,0,0,0,1,0,0,0,EMBO J. 2017;36(19):2921-2937
+BAD/mTORC2,True/False,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+CAMK/TNFR2,True/True,0.55,0.45,0.55,0.5,0.5,0.55,0.5,¡ª
+S6K/PI3K,True/False,0.32,0.45,0.52,0.25,0.75,0.8,0.55,¡ª
+AKT/BAX,False/True,0,0,1,0,1,1,0,Nature. 2018;555(7696):289-294
+GLP-1/ASK1,True/True,0,1,1,1,0,0,1,EMBO J. 2022;41(3):e109234
+GPR40/BCL2,False/True,0.62,0.28,0.1,0.5,0.5,0.55,0.5,¡ª
+TNFR2/CHOP,True/True,0,0,1,0,1,1,0,Cell Death Differ. 2022;29(7):2345-2359
+mTORC1/BCL2,True/False,1,0,0,0,0,0,0,Endocrinology. 2019;160(1):89-102
+GPR40/DPP-4,True/False,1,1,0,1,0,0,1,¡ª
+DPP-4/PDK1,True/False,0.4,0.35,0.5,0.3,0.7,0.75,0.5,¡ª
+AKT/CHOP,True/True,0,0,0,1,0,0,0,Cell. 2017;170(3):567-580
+IRE1/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+AMPK/PDE3B,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+mTORC1/IRE1,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+TNFR2/JNK,False/True,0,0,1,0,1,1,0,eLife. 2022;11:e73456
+BCL2/TXNIP,True/True,0,0,0,0,1,1,0,Endocrinology. 2017;158(10):3123-3134
+RAIDD/GLP-1,True/False,0,0,1,0,1,1,0,Nature. 2020;578(7795):345-351
+BAD/PDE3B,True/True,0,0,1,1,0,0,0,Am J Physiol Endocrinol Metab. 2018;314(1):E89-E101
+TNFR2/PERK,True/True,0,0,1,0,1,1,0,Cell Stress Chaperones. 2022;27(3):456-468
+CAMK/PPAR¦Á,True/True,1,0,0,1,0,0,1,Mol Cell. 2020;77(5):912-925
+RAIDD/mTORC2,False/True,1,0,0,1,0,0,0,Cell Death Differ. 2020;27(11):3123-3136
+DPP-4/BAK,True/True,0.48,0.38,0.78,0.4,0.6,0.65,0.42,¡ª
+AKT/CHOP,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+IRE1/CHOP,False/True,0,0,1,0,1,1,0,Cell Metab. 2019;30(3):567-580
+RAIDD/TXNIP,False/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;314(6):E789-E801
+AMPK/IRS,True/False,0.3,0.4,0.4,0.2,0.8,0.85,0.5,¡ª
+TRAF2/PDE3B,True/False,0,0,0,1,0,0,0,Mol Cell. 2019;75(2):345-358
+PPAR¦Ã/AKT,True/False,0.38,0.38,0.48,0.28,0.72,0.77,0.52,¡ª
+RAIDD/GLP-1,True/True,0,1,1,1,0,0,0,Cell Rep. 2024;44(5):115901
+AKT/BAD,True/True,0.65,0.48,0.65,0.58,0.42,0.52,0.6,¡ª
+PPAR¦Á/IRE1,True/True,0,0,1,0,1,1,0,Mol Cell. 2020;78(1):123-135
+RAIDD/BAD,True/False,0,0,1,0,1,1,0,Cell. 2020;180(6):1234-1246
+IL6/AMPK,False/True,1,0,0,1,0,0,1,Indian J Pharmacol. 2022;54(2):118
+PPAR¦Ã/BCL2,False/True,0.5,0.38,0.25,0.42,0.58,0.63,0.48,¡ª
+IL6/AMPK,True/False,0,0,1,0,1,1,0,EMBO J. 2019;38(11):e100876
+PDK1/HtrA2,True/False,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+BAK/BAX,True/True,0,0,1,0,1,1,0,Eur J Immunol. 2018;48(11):1815-1826
+CHOP/ASK1,True/True,0,0,1,0,1,1,0,EMBO J. 2017;36(19):2921-2937
+IRE1/BAD,True/False,0,0,1,0,1,1,0,Science. 2019;363(6429):1056-1061
+mTORC1/AKT,False/True,1,0,0,1,0,0,1,Nat Metab. 2021;3(9):897-910
+DPP-4/AKT,True/False,0,0,0,1,0,0,1,Mol Cell. 2019;74(5):912-925
+BAK/PERK,False/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2017;17(10):621-634
+PPAR¦Ã/HtrA2,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+mTORC1/BAK,True/False,0,0,1,0,1,1,0,Nature. 2020;578(7795):234-240
+NF-¦ÊB/BAK,False/True,0,0,1,0,1,1,0,Diabetes. 2023;72(4):897-910
+PP2A/BAK,True/True,0,0,1,0,1,1,0,Mol Cell. 2020;77(4):567-580
+XIAP/GIP,False/True,0.62,0.92,0.09,0.58,0.42,0.52,0.62,¡ª
+GPR40/AMPK,True/False,1,1,0,1,0,0,0,Cell Death Differ. 2023;30(4):1023-1037
+TNF¦Á/GLP-1,True/True,0.6,0.58,0.38,0.55,0.45,0.52,0.55,¡ª
+mTORC1/EIF2S1,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+BCL2/GLP-1,True/True,1,1,0,1,0,0,1,Diabetes. 2017;66(11):2897-2909
+mTORC1/DPP-4,True/True,0.52,0.35,0.18,0.45,0.55,0.6,0.42,¡ª
+DPP-4/XIAP,False/True,1,1,0,1,0,0,1,Cell Rep. 2023;42(11):113567
+ATF6/PDK1,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+BAK/PKA,True/True,0,0,1,1,0,0,0,Mol Cell. 2017;66(6):897-910
+JNK/PDE3B,False/True,0.6,0.65,0.32,0.52,0.48,0.53,0.6,¡ª
+GPR40/AMPK,True/True,1,1,0,1,0,0,1,Cell Metab. 2020;32(1):145-158
+IRS/BCL2,False/True,0.6,0.45,0.6,0.55,0.45,0.55,0.55,¡ª
+TRAF2/mTORC2,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;77(3):456-468
+PPAR¦Ã/CHOP,False/True,0.45,0.35,0.34,0.4,0.6,0.65,0.42,¡ª
+TNF¦Á/AKT,False/True,1,0,0,1,0,0,0,Cell Death Differ. 2020;27(5):1536-1551
+GPR40/PKA,True/True,1,1,0,1,0,0,1,Endocrinology. 2022;163(4):bqac056
+SERBP/JNK,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+IRS/PERK,True/True,0.52,0.38,0.6,0.42,0.58,0.63,0.48,¡ª
+NF-¦ÊB/BCL2,False/True,0,0,0,0,1,1,0,Circulation Res. 2023;133(4):345-358
+IL6/CAMK,False/True,1,1,0,1,0,0,1,Cell Death Differ. 2018;25(12):2075-2088
+TNF¦Á/S6K,False/True,0,0,1,0,1,1,0,J Cell Sci. 2024;137(23):jcs286678
+GLUT2/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+RAIDD/CAMK,False/True,0.65,0.6,0.15,0.55,0.45,0.55,0.6,¡ª
+PI3K/HtrA2,True/True,0.58,0.45,0.75,0.52,0.48,0.53,0.58,¡ª
+GLUT2/HtrA2,True/True,0.62,0.6,0.75,0.58,0.42,0.52,0.62,¡ª
+mTORC1/BAD,True/True,0.5,0.4,0.55,0.4,0.6,0.65,0.45,¡ª
+S6K/PDK1,True/True,1,0,0,1,0,0,0,Am J Physiol Gastrointest Liver Physiol. 2023;325(1):G89-G101
+AKT/PPAR¦Á,True/True,1,0,0,1,0,0,1,Nat Metab. 2023;5(2):123-135
+AMPK/PDK1,True/True,1,1,0,1,0,0,1,Nature. 2018;556(7703):345-351
+TRAF2/CHOP,True/False,0,0,1,0,1,1,0,Nature. 2018;557(7707):456-462
+BCL2/GLP-1,False/True,1,1,0,1,0,0,0,Nat Rev Cancer. 2019;19(10):621-634
+BAK/BAD,True/True,0,0,1,0,1,1,0,Cell. 2019;178(2):311-324
+JNK/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+HtrA2/EIF2S1,False/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2020;8(10):821-833
+PDE3B/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+TRAF2/XIAP,False/True,0,0,0,0,1,1,0,Cancer Cell. 2019;35(5):721-734
+PPAR¦Á,TRUE,1,0,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2017;37(10):1987-2000
+GPR40/GIP,True/False,1,1,0,1,0,0,1,Circ Res. 2018;122(5):1023-1036
+PDE3B/XIAP,True/False,0.6,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+AKT,TRUE,1,0,0,1,0,0,1,¡ª
+TRAF2/PKA,False/True,0.58,0.88,0.29,0.52,0.48,0.53,0.58,¡ª
+BAX/GIP,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+SERBP/ATF6,True/False,1,0,0,0,0,0,0,Arterioscler Thromb Vasc Biol. 2018;38(10):2456-2468
+PI3K/PDK1,False/True,1,0,0,1,0,0,1,Nat Rev Mol Cell Biol. 2017;18(7):456-468
+mTORC1/PERK,True/False,0,0,1,0,1,1,0,Cell Death Dis. 2017;8(4):e2765
+S6K/PDE3B,True/True,0.58,0.38,0.17,0.52,0.48,0.58,0.52,¡ª
+RAIDD/HtrA2,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+mTORC1/PI3K,True/True,1,0,0,1,0,0,0,Cell Death Differ. 2018;25(1):123-135
+SERBP/mTORC1,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+ASK1,TRUE,0,0,1,0,1,1,0,Mol Cell. 2019;74(3):521-533
+SERBP/IRS,True/False,0.33,0.42,0.42,0.22,0.78,0.83,0.42,¡ª
+RAIDD/HtrA2,True/True,0,0,1,0,1,1,0,Science. 2018;359(6380):789-794
+NF-¦ÊB/PKA,True/True,0.57,0.54,0.38,0.52,0.48,0.55,0.53,¡ª
+mTORC1/JNK,False/True,0,0,1,0,1,1,0,J Mol Cell Cardiol. 2023;177:89-100
+PPAR¦Á/mTORC2,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+AKT/PPAR¦Á,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+mTORC1/GLUT2,False/True,1,1,0,1,0,0,1,Nat Metab. 2024;6(8):789-802
+BAX/HtrA2,True/False,0,0,1,0,1,1,0,EMBO J. 2020;39(17):e102345
+TRAF2/PPAR¦Á,True/True,0,0,1,0,1,1,0,Mol Cell. 2017;66(4):567-580
+PDE3B/ASK1,True/False,0,0,1,1,0,0,0,Cell. 2017;170(5):912-925
+DPP-4/mTORC2,True/False,0.4,0.35,0.35,0.3,0.7,0.75,0.5,¡ª
+ATF6,TRUE,0,0,1,0,1,1,0,Cell Res. 2018;28(9):927-941
+BAX/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+TNF¦Á/S6K,True/True,0,0,1,0,1,1,0,Cell. 2019;177(3):621-634
+CAMK/HtrA2,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+TXNIP/PDE3B,True/False,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+SERBP/RAIDD,False/True,0,0,1,0,1,1,0,Cell Metab. 2019;29(1):123-136
+AMPK/ATF6,False/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2019;19(7):456-468
+DPP-4/GIP,True/True,0,0,1,0,1,1,0,Antioxid Redox Signal. 2024;42(3):234-245
+mTORC1/PERK,False/True,0,0,1,0,1,1,0,Diabetes. 2023;72(10):2134-2146
+GLP-1/IRE1,True/True,0,0,1,1,0,0,1,Science. 2018;360(6388):1056-1061
+TNFR2/EIF2S1,True/True,0,0,1,0,1,1,0,Diabetes. 2018;67(8):2045-2058
+PI3K/PPAR¦Á,True/False,1,0,0,1,0,0,1,Circulation Res. 2019;125(3):289-302
+BCL2/PPAR¦Á,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+BAX/CHOP,True/True,0,0,1,0,1,1,0,Circ Res. 2018;122(12):2897-2909
+PP2A/PPAR¦Á,False/True,1,0,0,1,0,0,1,Mol Endocrinol. 2023;37(5):456-468
+GLP-1/TNFR2,True/False,0.5,0.2,0.18,0.4,0.6,0.65,0.45,¡ª
+PI3K/TNFR2,False/True,0.45,0.3,0.65,0.35,0.65,0.7,0.35,¡ª
+PERK/mTORC2,True/True,0,0,1,1,0,0,0,Diabetes Care. 2017;40(2):234-246
+RAIDD/GLP-1,False/True,0,1,1,1,0,0,1,Cell Stress Chaperones. 2024;29(2):245-257
+BAX/BAD,True/True,0,0,1,0,1,1,0,Physiol Rev. 2019;99(2):865-915
+AMPK/XIAP,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+AMPK/PERK,True/False,0,0,1,0,1,1,0,J Biol Chem. 2018;293(28):10897-10909
+CAMK/ATF6,True/True,0.62,0.5,0.3,0.55,0.45,0.55,0.58,¡ª
+GPR40/RAIDD,False/True,0,0,1,0,1,1,0,Cell. 2018;173(7):1678-1691
+AKT/GLUT2,True/True,1,1,0,1,0,0,1,EMBO J. 2024;43(2):e114234
+BCL2/TNFR2,False/True,0.45,0.3,0.65,0.35,0.65,0.7,0.35,¡ª
+BAX/PKA,True/True,0,0,1,1,0,0,0,Cancer Cell. 2019;35(4):567-580
+AMPK,TRUE,1,1,0,1,0,0,1,Cell Metab. 2018;28(3):421-433
+TNF¦Á/PDE3B,False/True,0,0,0,1,0,0,1,¡ª
+BCL2/GLUT2,False/True,1,1,0,1,0,0,0,Am J Physiol Gastrointest Liver Physiol. 2024;327(4):G345-G356
+HtrA2/mTORC2,False/True,0.5,0.4,0.3,0.35,0.65,0.7,0.6,¡ª
+GPR40/PI3K,True/True,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2020;8(4):289-301
+IRS/BAK,True/False,0,0,1,0,1,1,0,Immunity. 2018;49(4):567-580
+NF-¦ÊB/ATF6,True/True,0.4,0.28,0.55,0.33,0.67,0.73,0.35,¡ª
+NF-¦ÊB/BAK,True/True,0,0,1,0,1,1,0,¡ª
+PPAR¦Ã/BAK,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+SERBP/GIP,False/True,1,1,0,1,0,0,1,eLife. 2022;11:e74561
+AMPK/PERK,True/True,0.58,0.42,0.48,0.48,0.52,0.57,0.48,¡ª
+DPP-4/TNFR2,True/True,0.45,0.35,0.55,0.38,0.62,0.67,0.38,¡ª
+TNF¦Á/TRAF2,False/True,0,0,1,0,1,1,0,Mol Endocrinol. 2022;36(6):456-468
+PKA/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+AMPK/PDK1,True/False,0.35,0.4,0.48,0.25,0.75,0.8,0.55,¡ª
+BAD/EIF2S1,True/False,0,0,1,0,1,1,0,Mol Cell. 2017;66(5):721-734
+S6K/GLUT2,True/True,0.62,0.58,0.12,0.58,0.42,0.52,0.58,¡ª
+DPP-4/PPAR¦Á,True/False,1,0,0,1,0,0,1,EMBO J. 2020;39(3):e102345
+DPP-4/TRAF2,True/True,0,0,1,0,1,1,0,Nat Med. 2019;25(1):123-132
+GPR40/BAK,False/True,0.6,0.28,0.4,0.48,0.52,0.58,0.48,¡ª
+AMPK/AKT,True/False,1,1,0,1,0,0,1,Cell Death Dis. 2017;8(3):e2654
+DPP-4/XIAP,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+DPP-4/PERK,True/False,0,0,1,0,1,1,0,Nature. 2020;579(7797):234-240
+IL6/BAD,True/True,0,0,1,0,1,1,0,Nat Med. 2019;25(4):621-630
+IL6/TXNIP,True/False,0,0,1,0,1,1,0,Nat Rev Cancer. 2017;17(9):567-579
+GPR40/GLP-1,True/False,1,1,0,1,0,0,1,J Biol Chem. 2020;295(19):6543-6554
+AKT/BAD,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+PI3K/ASK1,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+NF-¦ÊB/TRAF2,False/True,0,0,1,0,1,1,0,Diabetes. 2022;71(6):1234-1246
+IRS/PDK1,False/True,1,0,0,1,0,0,1,Cell Rep. 2022;39(2):110678
+S6K/ASK1,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+SERBP/AKT,False/True,1,0,0,1,0,0,1,FEBS Lett. 2021;595(12):1456-1468
+GPR40/PERK,False/True,0.62,0.3,0.29,0.5,0.5,0.55,0.5,¡ª
+mTORC2,TRUE,1,0,0,1,0,0,1,Cell. 2020;181(7):1556-1571
+S6K/PERK,True/True,0,0,1,0,1,1,0,Cell. 2018;174(5):1123-1136
+BCL2/PDK1,True/False,1,0,0,1,0,0,0,J Biol Chem. 2018;293(38):14567-14579
+DPP-4/IRS,False/True,1,0,0,1,0,0,1,Arterioscler Thromb Vasc Biol. 2020;40(3):567-580
+DPP-4/GLP-1,False/True,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2019;7(6):462-473
+mTORC1/IRS,True/False,0.3,0.42,0.42,0.2,0.8,0.85,0.4,¡ª
+AKT/JNK,True/False,0,0,0,1,0,0,0,Nat Cell Biol. 2017;19(8):956-967
+JNK/PKA,True/True,0.57,0.62,0.39,0.52,0.48,0.53,0.58,¡ª
+GPR40/GLP-1,True/True,1,1,0,1,0,0,1,Diabetes. 2021;70(2):345-358
+NF-¦ÊB/BAD,True/False,0,0,1,0,1,1,0,EMBO J. 2017;36(12):1689-1703
+IL6/BAK,True/True,0,0,1,0,1,1,0,Cell Res. 2017;27(7):897-910
+JNK/PDK1,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+TNFR2/mTORC2,False/True,1,0,0,1,0,0,0,Immunity. 2020;53(4):567-580
+PDK1/PDE3B,False/True,0.6,0.65,0.08,0.55,0.45,0.55,0.6,¡ª
+AMPK/CHOP,True/True,0.6,0.45,0.6,0.5,0.5,0.55,0.5,¡ª
+CAMK/TXNIP,True/True,0.52,0.45,0.45,0.45,0.55,0.6,0.5,¡ª
+IL6/RAIDD,False/True,0,0,1,0,1,1,0,Endocrinology. 2023;164(4):bqad023
+HtrA2/CHOP,True/True,0,0,1,0,1,1,0,Cell. 2019;178(2):311-324
+RAIDD/GIP,True/True,0,0,1,0,1,1,0,Cell Rep. 2024;44(9):116567
+AMPK/BAK,False/True,0.48,0.38,0.4,0.42,0.58,0.63,0.45,¡ª
+PPAR¦Ã/GLP-1,False/True,0.55,0.3,0.25,0.45,0.55,0.6,0.5,¡ª
+BAK/mTORC2,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+GLUT2/BAX,True/True,0,1,1,0,1,1,0,Cell Metab. 2019;30(2):245-258
+BCL2/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+PP2A/IRS,True/False,0,0,1,0,1,1,1,Nat Med. 2017;23(4):456-465
+GPR40/JNK,False/True,0.62,0.3,0.27,0.5,0.5,0.55,0.5,¡ª
+PDE3B/EIF2S1,True/True,0,0,1,1,0,0,0,Mol Cell. 2020;78(6):1123-1136
+CAMK/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+IRE1/PDK1,True/True,0,0,1,1,0,0,0,J Biol Chem. 2018;293(42):15678-15689
+BAK,TRUE,0,0,1,0,1,1,0,Nature. 2020;581(7808):317-322
+AMPK/EIF2S1,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+BCL2/TRAF2,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.3,¡ª
+RAIDD/PDE3B,True/True,0.6,0.48,0.4,0.55,0.45,0.55,0.58,¡ª
+GIP/EIF2S1,False/True,0.59,0.85,0.26,0.53,0.47,0.54,0.58,¡ª
+SERBP/IRE1,False/True,0,0,1,0,1,1,0,J Biol Chem. 2020;295(7):2023-2034
+TNFR2/TXNIP,True/False,0,0,1,0,1,1,0,Antioxid Redox Signal. 2022;37(5):567-580
+PPAR¦Ã/ASK1,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+BAX/GIP,False/True,0,0,1,0,1,1,0,Nature. 2020;578(7796):345-351
+IL6/PPAR¦Ã,False/True,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2020;8(2):123-135
+NF-¦ÊB/JNK,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+GPR40/BAK,True/False,0,0,1,0,1,1,0,Immunity. 2018;49(4):721-734
+PPAR¦Á/IRE1,False/True,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+IRS/ATF6,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+S6K/PDK1,True/False,0.4,0.42,0.48,0.3,0.7,0.75,0.5,¡ª
+GPR40/CAMK,False/True,0.6,0.3,0.18,0.48,0.52,0.58,0.48,¡ª
+CHOP/XIAP,True/False,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+IRS/XIAP,True/True,1,0,0,1,0,0,1,Mol Cell. 2017;66(2):234-246
+RAIDD/BAX,True/False,0,0,1,0,1,1,0,Cell Res. 2017;27(8):1023-1036
+GIP/PKA,True/True,1,1,0,1,0,0,1,Mol Cell. 2017;67(1):123-135
+IRS/JNK,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+JNK/EIF2S1,True/True,0.42,0.32,0.55,0.34,0.66,0.71,0.34,¡ª
+AMPK/BCL2,True/False,1,1,0,1,0,0,1,Immunity. 2020;52(3):456-469
+NF-¦ÊB/TRAF2,True/True,0,0,1,0,1,1,0,Immunity. 2019;50(2):345-358
+TXNIP/BAD,True/True,0,0,1,0,1,1,0,Diabetes. 2019;68(7):1365-1377
+IL6/AKT,False/True,1,0,0,1,0,0,0,J Clin Invest. 2019;129(10):4356-4369
+NF-¦ÊB/S6K,True/False,0.52,0.38,0.42,0.4,0.52,0.57,0.52,¡ª
+mTORC1/HtrA2,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+TNFR2/mTORC2,True/False,0.45,0.3,0.65,0.35,0.65,0.7,0.35,¡ª
+GPR40/RAIDD,True/True,0,0,1,1,0,0,0,¡ª
+TNFR2/PDK1,True/False,0,0,1,0,1,1,0,Cardiovasc Res. 2022;118(5):789-801
+GPR40/BAX,True/True,0.55,0.52,0.87,0.45,0.55,0.6,0.48,¡ª
+TXNIP/PDK1,True/False,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+PI3K/PERK,True/True,0,0,1,0,1,1,0,Cell Death Dis. 2017;8(7):e2765
+IRS/JNK,False/True,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+GLP-1/IRE1,False/True,0,0,1,0,1,1,0,Diabetologia. 2021;64(12):2567-2580
+IRS/GLP-1,False/True,1,1,0,1,0,0,1,Free Radic Biol Med. 2022;183:678-690
+SERBP/PDK1,True/False,0.38,0.42,0.48,0.28,0.72,0.77,0.48,¡ª
+TNF¦Á/GLP-1,False/True,1,1,0,1,0,0,1,J Cell Biol. 2019;218(10):3298-3314
+PP2A/PKA,False/True,1,0,0,1,0,0,1,Nat Commun. 2022;13(1):5678
+PPAR¦Ã/BAK,False/True,0.48,0.38,0.4,0.42,0.58,0.63,0.45,¡ª
+S6K/BCL2,False/True,1,0,0,0,0,0,0,Diabetes Care. 2024;47(2):456-468
+GPR40/HtrA2,True/True,0,0,1,0,1,1,0,Science. 2018;360(6387):987-992
+AMPK/BAD,False/True,0.48,0.38,0.33,0.42,0.58,0.63,0.45,¡ª
+IL6/PI3K,True/False,0.25,0.35,0.6,0.25,0.75,0.8,0.55,¡ª
+CAMK/TNFR2,False/True,0.45,0.3,0.65,0.35,0.65,0.7,0.35,¡ª
+PP2A/HtrA2,False/True,0,0,1,0,1,1,0,Lancet Diabetes Endocrinol. 2020;8(3):213-225
+mTORC1/GIP,False/True,1,1,0,1,0,0,1,Cancer Res. 2022;82(12):2456-2468
+IRE1/XIAP,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+JNK/EIF2S1,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+CAMK/PDK1,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+BAK/JNK,True/False,0,0,1,0,1,1,0,Immunity. 2018;49(5):621-634
+NF-¦ÊB/GLUT2,False/True,0,1,1,0,1,1,0,Am J Physiol Gastrointest Liver Physiol. 2024;326(2):G123-G135
+PPAR¦Ã/CAMK,False/True,1,1,0,1,0,0,1,EMBO J. 2020;39(9):e103456
+TNF¦Á/BAD,False/True,0,0,1,0,1,1,0,Antioxid Redox Signal. 2023;41(2):123-135
+S6K/CHOP,False/True,0,0,1,0,1,1,0,Cell. 2018;174(4):904-917
+CAMK/PPAR¦Á,False/True,0.6,0.38,0.2,0.5,0.5,0.55,0.55,¡ª
+BCL2/CAMK,True/False,1,1,0,1,0,0,0,Cell. 2018;173(1):123-135
+PP2A/GIP,True/False,0.42,0.23,0.41,0.35,0.65,0.7,0.38,¡ª
+AKT/RAIDD,False/True,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+SERBP/BCL2,False/True,1,0,0,0,0,0,0,Cell Stress Chaperones. 2024;29(3):345-358
+BAD/GIP,False/True,0,0,1,0,1,1,0,Nat Med. 2019;25(11):1234-1243
+PI3K/TXNIP,False/True,0,0,1,0,1,1,0,Circ Res. 2020;127(4):512-526
+IL6/GLP-1,False/True,1,1,0,1,0,0,1,Apoptosis. 2019;24(9-10):789-802
+CAMK/GIP,True/False,0.62,0.25,0.15,0.52,0.48,0.53,0.52,¡ª
+GIP,TRUE,1,1,0,1,0,0,1,Endocrinology. 2020;161(5):bqz068
+IRE1/PDE3B,False/True,0,0,0,1,0,0,0,Mol Cell. 2020;78(4):621-634
+BCL2/BAX,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(10):2897-2910
+GLP-1/GLUT2,True/True,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2023;11(3):213-225
+AKT/GIP,True/True,1,1,0,1,0,0,1,J Immunol. 2021;207(2):345-358
+GPR40/JNK,True/False,0,1,1,1,0,0,0,EMBO J. 2023;42(7):e111234
+GPR40/TXNIP,False/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;314(3):E234-E246
+NF-¦ÊB/PPAR¦Á,True/True,0.52,0.35,0.4,0.45,0.55,0.62,0.48,¡ª
+IRE1/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+DPP-4/HtrA2,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+IL6/PDE3B,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2022;13(5):456
+AMPK/TXNIP,True/True,0.55,0.42,0.45,0.45,0.55,0.6,0.48,¡ª
+AKT/ASK1,True/True,0.5,0.35,0.62,0.4,0.6,0.65,0.4,¡ª
+IL6/TRAF2,True/True,0,0,1,0,1,1,0,J Cell Sci. 2017;130(12):1985-1996
+S6K/GIP,False/True,1,1,0,1,0,0,1,Oncogene. 2022;41(10):1456-1469
+IRS/RAIDD,False/True,0,0,1,0,1,1,0,Cell. 2018;173(5):1123-1136
+PP2A/ASK1,True/True,0,0,1,0,1,1,0,Cell Death Dis. 2019;10(5):345
+RAIDD/IRE1,False/True,0,0,1,0,1,1,0,Mol Cell. 2019;74(5):721-734
+CAMK/TNFR2,True/False,0,0,1,0,1,1,0,J Biol Chem. 2018;293(40):15234-15245
+TNFR2/XIAP,True/False,0,0,1,0,1,1,0,Cancer Res. 2022;82(9):2134-2146
+S6K/HtrA2,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+GLP-1/PERK,True/True,0,1,1,1,0,0,1,Cell Stress Chaperones. 2022;27(1):123-135
+GLP-1/CHOP,True/True,0,0,1,1,0,0,1,Endocrinology. 2017;158(12):3456-3468
+NF-¦ÊB/PKA,True/False,0.41,0.23,0.43,0.35,0.65,0.7,0.38,¡ª
+SERBP/mTORC1,False/True,1,0,0,0,0,0,0,Nature. 2018;557(7703):345-351
+TRAF2/GIP,True/False,0.45,0.25,0.52,0.35,0.65,0.7,0.38,¡ª
+NF-¦ÊB/PERK,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2020;22(4):456-467
+PI3K/HtrA2,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2020;27(9):2678-2691
+SERBP/TRAF2,False/True,0,0,1,0,1,1,0,Antioxid Redox Signal. 2024;43(5):456-468
+CAMK/HtrA2,True/True,0.62,0.5,0.75,0.55,0.45,0.55,0.58,¡ª
+AMPK/GLP-1,True/False,1,1,0,1,0,0,1,Cell Res. 2019;29(3):245-258
+JNK/PKA,False/True,0.6,0.88,0.29,0.52,0.48,0.53,0.6,¡ª
+S6K/GIP,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+XIAP/ASK1,True/False,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+IL6/BAX,True/True,0,0,1,0,1,1,0,Cell. 2020;181(2):345-359
+GLP-1/PKA,True/False,1,1,0,1,0,0,1,FEBS Lett. 2022;596(3):345-358
+RAIDD/PDE3B,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+PPAR¦Ã/PKA,True/True,1,1,0,1,0,0,1,J Cell Physiol. 2022;237(4):4567-4579
+ATF6/TXNIP,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+TRAF2/BAD,False/True,0.58,0.45,0.65,0.48,0.52,0.57,0.52,¡ª
+mTORC1/AMPK,True/True,1,0,0,1,0,0,0,Gut. 2024;73(5):789-801
+GPR40/AKT,False/True,1,1,0,1,0,0,1,Cell Death Differ. 2022;29(6):1897-1912
+PI3K/CAMK,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+GPR40/ATF6,True/True,0,0,1,1,0,0,0,Antioxid Redox Signal. 2024;46(9):897-910
+BAX/PDE3B,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+IL6/PKA,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(8):1423-1436
+IRS/PI3K,True/False,0.25,0.45,0.55,0.15,0.85,0.9,0.1,¡ª
+PPAR¦Ã/CHOP,True/False,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2017;18(6):367-381
+TRAF2,TRUE,0,0,1,0,1,1,0,Mol Cell. 2020;78(2):312-325
+PP2A/IRE1,False/True,0,0,1,0,1,1,1,Cell Death Dis. 2023;14(4):234
+S6K/HtrA2,False/True,0,0,1,0,1,1,0,Nature. 2017;546(7659):389-394
+GLUT2/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+GLP-1/BAX,True/True,0,1,1,1,0,0,1,Diabetes Care. 2021;44(12):2897-2910
+BAK/TXNIP,True/True,0,0,1,0,1,1,0,Arterioscler Thromb Vasc Biol. 2020;40(10):2789-2801
+GLUT2/BAX,False/True,0.55,0.4,0.8,0.45,0.55,0.6,0.5,¡ª
+GLUT2/ASK1,True/False,0,1,1,0,1,1,0,Antioxid Redox Signal. 2024;45(8):789-802
+PPAR¦Ã/mTORC2,True/False,1,1,0,1,0,0,1,Diabetes Care. 2019;42(6):789-801
+IL6/PI3K,False/True,1,0,0,1,0,0,1,Nat Rev Mol Cell Biol. 2019;20(7):401-415
+CAMK/JNK,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+IRS/PDE3B,True/True,1,0,0,1,0,0,1,Lancet Diabetes Endocrinol. 2024;12(6):456-468
+GPR40/PDE3B,False/True,1,1,0,1,0,0,1,Nat Rev Cancer. 2017;17(7):456-468
+IRS/TRAF2,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+BAK/CHOP,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2018;20(7):821-832
+GLP-1/PERK,True/False,1,1,0,1,0,0,1,J Cell Sci. 2022;135(1):jcs266789
+SERBP/PPAR¦Á,True/True,0.62,0.48,0.12,0.58,0.42,0.52,0.62,¡ª
+TXNIP/mTORC2,True/False,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+TNF¦Á/DPP-4,True/True,0.42,0.25,0.43,0.35,0.65,0.7,0.38,¡ª
+IL6/mTORC1,False/True,0,0,1,0,1,1,0,Cell Death Dis. 2024;15(3):234
+ATF6/GIP,True/False,0,0,1,0,1,1,0,Cancer Cell. 2019;35(6):897-910
+HtrA2/mTORC2,True/True,0,0,1,0,1,1,0,Diabetes. 2021;70(2):345-358
+S6K/PKA,False/True,1,0,0,1,0,0,1,Neuron. 2022;110(10):1687-1701
+GPR40/mTORC1,True/False,1,1,0,1,0,0,0,J Mol Cell Cardiol. 2023;173:123-134
+GLP-1/ASK1,True/False,1,1,0,1,0,0,1,J Cell Sci. 2022;135(4):jcs267890
+AKT/PI3K,False/True,1,0,0,1,0,0,1,Circ Res. 2022;130(2):245-258
+PPAR¦Ã/BAD,False/True,0.48,0.38,0.33,0.42,0.58,0.63,0.45,¡ª
+SERBP/GIP,True/True,1,1,0,1,0,0,0,Gut. 2024;73(4):567-580
+PP2A/JNK,True/True,0.38,0.32,0.47,0.32,0.68,0.73,0.32,¡ª
+PPAR¦Á/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+PPAR¦Ã/ASK1,True/True,0,0,1,0,1,1,0,Diabetes. 2018;67(6):1456-1468
+mTORC1/GLP-1,True/True,1,1,0,1,0,0,0,Cell Metab. 2017;26(1):123-135
+TNFR2/JNK,True/False,0,0,1,0,1,1,0,Proc Natl Acad Sci. 2022;119(5):e2112345119
+TRAF2/BAD,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+S6K/PKA,True/True,1,0,0,1,0,0,0,Mol Cell Biol. 2024;44(3):e01012-24
+GLP-1/BAD,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(8):956-967
+BAX/PERK,True/False,0.45,0.3,0.8,0.45,0.55,0.6,0.5,¡ª
+GLUT2/ASK1,True/True,0,1,1,0,1,1,0,Cell Death Dis. 2019;10(11):921
+TNF¦Á/BAX,True/False,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2017;313(3):E289-E301
+AMPK/PI3K,True/True,1,1,0,1,0,0,1,Diabetes Care. 2019;42(3):456-468
+HtrA2/mTORC2,True/False,0,0,1,1,0,0,0,Cell. 2018;174(3):621-634
+TNF¦Á/CAMK,True/True,0,0,1,1,0,0,1,J Biol Chem. 2019;294(23):9123-9135
+TXNIP/PKA,False/True,1,1,0,1,0,0,0,EMBO J. 2018;37(18):e98765
+PPAR¦Ã/CAMK,True/False,0.58,0.38,0.28,0.48,0.52,0.57,0.48,¡ª
+JNK/TXNIP,True/True,0,0,1,0,1,1,0,J Biol Chem. 2018;293(17):6547-6558
+TNFR2/GIP,False/True,1,1,0,1,0,0,1,J Clin Endocrinol Metab. 2022;107(4):1234-1247
+BAK/PERK,True/True,0,0,1,0,1,1,0,Nat Rev Cancer. 2020;20(11):661-677
+SERBP/IRS,False/True,1,0,0,0,0,0,0,Mol Cell. 2020;78(4):621-634
+GPR40/XIAP,False/True,0.62,0.28,0.32,0.5,0.5,0.55,0.5,¡ª
+S6K/CAMK,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+SERBP/AMPK,False/True,1,1,0,1,0,0,0,Endocrinology. 2017;158(9):2897-2909
+ATF6/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+BCL2/GLP-1,True/False,0,1,0,0,0,0,0,Diabetologia. 2018;61(8):1789-1801
+IRS/PI3K,False/True,1,0,0,1,0,0,1,Autophagy. 2022;18(2):345-358
+TNF¦Á/PI3K,True/False,0.25,0.33,0.67,0.2,0.8,0.85,0.55,¡ª
+IRS/TNFR2,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(9):1056-1067
+TNFR2/ASK1,False/True,0,0,1,0,1,1,0,Mol Cell Biol. 2022;42(4):e00456-22
+RAIDD,TRUE,0,0,1,0,1,1,0,Cell Death Dis. 2020;11(4):298
+SERBP/GLUT2,True/True,0,1,0,0,0,0,0,Cell. 2018;173(2):456-468
+mTORC1/PPAR¦Ã,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+RAIDD/CHOP,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+NF-¦ÊB/IRS,True/True,0.6,0.35,0.38,0.58,0.42,0.5,0.6,¡ª
+BCL2/RAIDD,True/False,0.6,0.45,0.6,0.55,0.45,0.55,0.55,¡ª
+DPP-4/ASK1,True/True,0.4,0.3,0.55,0.32,0.68,0.73,0.32,¡ª
+PP2A/mTORC2,True/True,0,0,1,1,0,0,1,Cell Rep. 2024;45(3):117567
+CAMK/PERK,True/True,0,0,1,0,1,1,0,J Biol Chem. 2020;295(17):5879-5890
+AMPK/ASK1,True/True,0.55,0.4,0.55,0.45,0.55,0.6,0.45,¡ª
+CAMK/IRE1,False/True,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+CAMK/IRE1,True/True,0.6,0.48,0.45,0.52,0.48,0.53,0.55,¡ª
+SERBP/PERK,True/True,0.42,0.32,0.48,0.32,0.68,0.73,0.32,¡ª
+S6K/ATF6,True/True,0.5,0.38,0.35,0.42,0.58,0.63,0.42,¡ª
+GPR40/S6K,True/False,1,1,0,1,0,0,0,Cardiovasc Res. 2023;119(4):789-801
+TNF¦Á/BCL2,False/True,0,0,0,0,1,1,0,J Cell Sci. 2023;136(20):jcs276789
+SERBP/HtrA2,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+SERBP/mTORC2,False/True,1,0,0,1,0,0,0,Nat Med. 2019;25(2):289-298
+HtrA2/GIP,True/False,0.52,0.25,0.75,0.42,0.58,0.63,0.48,¡ª
+TXNIP/GIP,True/False,0,0,1,0,1,1,0,¡ª
+BAD/ASK1,True/False,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+GLUT2/PDE3B,True/False,0,1,0,0,0,0,0,EMBO J. 2018;37(16):e98765
+GIP/EIF2S1,True/True,0.6,0.58,0.36,0.53,0.47,0.54,0.6,¡ª
+IL6/BCL2,True/True,0,0,0,0,1,1,0,J Biol Chem. 2020;295(23):7925-7936
+GIP/mTORC2,False/True,0.62,0.9,0.1,0.55,0.45,0.55,0.6,¡ª
+mTORC1/PPAR¦Á,True/False,1,0,0,1,0,0,0,Cell Metab. 2017;26(1):123-136
+SERBP/PDE3B,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+HtrA2/GIP,True/True,0,0,1,1,0,0,0,¡ª
+AMPK/TXNIP,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2017;19(7):821-832
+BAX,TRUE,0,0,1,0,1,1,0,Science. 2019;363(6424):487-491
+AMPK/PDE3B,True/True,1,0,0,1,0,0,1,Endocrinology. 2024;165(4):bqae023
+HtrA2/XIAP,True/True,0,0,0,0,1,1,0,Nat Metab. 2020;2(10):956-969
+RAIDD/BAK,False/True,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+JNK/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+TNF¦Á/EIF2S1,True/False,0.43,0.25,0.42,0.35,0.65,0.7,0.38,¡ª
+BAK/BAX,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+GLP-1/ATF6,True/False,0.5,0.2,0.18,0.4,0.6,0.65,0.45,¡ª
+PKA/EIF2S1,True/True,0,0,1,0,1,1,0,Cancer Cell. 2019;35(2):245-258
+SERBP/PPAR¦Á,True/False,1,0,0,1,0,0,0,Lancet Diabetes Endocrinol. 2020;8(1):78-90
+ATF6/GIP,False/True,0.62,0.9,0.13,0.58,0.42,0.52,0.62,¡ª
+BAK/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+NF-¦ÊB/PDK1,False/True,1,0,0,1,0,0,1,¡ª
+DPP-4/BAX,True/True,0.48,0.38,0.8,0.4,0.6,0.65,0.42,¡ª
+TRAF2/PDE3B,True/True,0.55,0.42,0.4,0.5,0.5,0.55,0.52,¡ª
+GIP/ASK1,True/True,0.58,0.52,0.45,0.5,0.5,0.55,0.58,¡ª
+PPAR¦Ã/PERK,False/True,0.45,0.35,0.27,0.4,0.6,0.65,0.42,¡ª
+JNK/PERK,True/True,0,0,1,0,1,1,0,Diabetes. 2020;69(10):2789-2801
+SERBP/CAMK,True/True,1,1,0,1,0,0,0,Mol Cell. 2020;77(2):345-358
+HtrA2/EIF2S1,True/False,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+TNF¦Á/PKA,True/True,0.57,0.54,0.38,0.52,0.48,0.55,0.53,¡ª
+IRS/TNFR2,True/True,0,0,1,0,1,1,0,Endocrinology. 2021;162(3):bqab023
+TNF¦Á/BAK,True/True,0,0,1,0,1,1,0,¡ª
+NF-¦ÊB/AMPK,False/True,1,1,0,1,0,0,1,Lancet Diabetes Endocrinol. 2017;5(4):289-301
+TNF¦Á/SERBP,True/False,0,0,1,0,1,1,0,Nature. 2020;580(7802):345-351
+PPAR¦Á/BAX,False/True,0,0,1,0,1,1,0,¡ª
+PDK1/mTORC2,False/True,1,0,0,1,0,0,1,Cardiovasc Res. 2022;118(5):789-801
+XIAP/PKA,False/True,0.6,0.88,0.08,0.55,0.45,0.55,0.6,¡ª
+NF-¦ÊB/BAX,False/True,0,0,1,0,1,1,0,Diabetologia. 2023;66(4):567-580
+CAMK/EIF2S1,True/True,0.58,0.45,0.46,0.5,0.5,0.55,0.52,¡ª
+PP2A/TRAF2,True/False,0.48,0.35,0.4,0.35,0.65,0.7,0.4,¡ª
+mTORC1/AKT,True/False,1,0,0,1,0,0,0,¡ª
+PI3K/PDE3B,True/True,1,0,0,1,0,0,1,J Clin Endocrinol Metab. 2024;109(4):1023-1035
+SERBP/CHOP,False/True,0,0,1,0,1,1,0,Cell Res. 2017;27(3):456-468
+PP2A/TRAF2,True/True,0.38,0.32,0.57,0.32,0.68,0.73,0.32,¡ª
+IL6/IRS,True/False,0,0,1,0,1,1,0,Cell. 2018;173(6):1423-1435
+PDK1/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+TNF¦Á/PP2A,False/True,0,0,1,0,1,1,1,Pharmacol Ther. 2022;238:108123
+AMPK/EIF2S1,False/True,0.46,0.36,0.28,0.41,0.59,0.64,0.44,¡ª
+SERBP/GLUT2,False/True,1,1,0,1,0,0,1,Mol Cell Biol. 2024;44(5):e01234-24
+SERBP/TRAF2,True/True,0,0,1,0,1,1,0,EMBO J. 2019;38(3):e100876
+NF-¦ÊB/BCL2,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2018;20(6):721-732
+PPAR¦Ã/TRAF2,False/True,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(6):721-732
+GLUT2/PDK1,True/True,0,1,0,1,0,0,0,Nat Rev Endocrinol. 2023;19(3):156-169
+TRAF2/ASK1,True/False,0.42,0.32,0.52,0.32,0.68,0.73,0.32,¡ª
+TNFR2/JNK,True/True,0,0,1,0,1,1,0,Cell. 2018;174(3):621-634
+PDE3B/CHOP,True/True,0,0,1,0,1,1,0,J Immunol. 2017;199(5):1672-1683
+JNK/BAX,True/True,0,0,1,0,1,1,0,Cell. 2018;174(6):1345-1358
+IRS/ATF6,True/True,0.62,0.42,0.4,0.52,0.48,0.53,0.58,¡ª
+DPP-4/TNFR2,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+mTORC1/ASK1,True/False,0,0,1,0,1,1,0,Cell Res. 2019;29(2):145-158
+PPAR¦Á/GIP,True/False,0.62,0.25,0.2,0.52,0.48,0.53,0.52,¡ª
+DPP-4/ATF6,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+ATF6/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+RAIDD/JNK,True/False,0.55,0.4,0.7,0.45,0.55,0.6,0.5,¡ª
+S6K/JNK,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PI3K/BAX,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+AMPK/CHOP,False/True,0,0,1,0,1,1,0,¡ª
+PDE3B/GIP,True/True,1,1,0,1,0,0,1,Gut. 2024;73(2):345-358
+TNF¦Á/mTORC2,False/True,1,0,0,1,0,0,1,Endocrinology. 2018;159(8):2897-2909
+PP2A/PDK1,True/True,0,0,1,1,0,0,1,Mol Cell Biol. 2024;44(6):e01345-24
+GPR40/ASK1,True/False,0,0,1,0,1,1,0,Cancer Cell. 2017;31(3):421-434
+JNK/CHOP,False/True,0.45,0.3,0.75,0.35,0.65,0.7,0.4,¡ª
+PPAR¦Á/PERK,False/True,0,0,1,0,1,1,0,J Biol Chem. 2020;295(19):6543-6554
+IRS/RAIDD,True/False,0.55,0.45,0.5,0.5,0.5,0.55,0.5,¡ª
+TNF¦Á/JNK,True/True,0,0,1,0,1,1,0,Cell Res. 2020;30(3):245-258
+AKT/PI3K,True/False,1,0,0,1,0,0,1,Mol Cell. 2017;67(1):123-135
+PDE3B/EIF2S1,True/False,0.6,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+XIAP/mTORC2,False/True,0.6,0.45,0.3,0.55,0.45,0.55,0.6,¡ª
+TNFR2/PDE3B,True/False,0,0,1,0,1,1,0,Cell Death Dis. 2017;8(11):e3123
+S6K/GLP-1,True/False,0.58,0.42,0.17,0.52,0.48,0.58,0.45,¡ª
+PPAR¦Ã/PDE3B,False/True,0.5,0.38,0.28,0.45,0.55,0.6,0.48,¡ª
+AKT/ATF6,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+PP2A/BAX,False/True,0,0,1,0,1,1,1,J Clin Invest. 2023;133(15):e170123
+PERK/XIAP,True/False,0,0,0,0,1,1,0,J Biol Chem. 2020;295(28):9567-9578
+CAMK/BAK,False/True,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+BCL2/JNK,True/False,0,0,0,0,1,1,0,Cancer Cell. 2019;35(6):721-734
+TNF¦Á/PERK,True/True,0.36,0.23,0.63,0.28,0.72,0.77,0.28,¡ª
+PI3K/CHOP,True/False,0,0,1,0,1,1,0,Diabetes. 2018;67(7):1876-1888
+BAK/BAD,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+BCL2,TRUE,0,0,0,0,0,0,0,Cell Death Differ. 2019;26(12):2456-2469
+IL6/IRS,True/True,0,0,1,0,1,1,0,Int J Mol Sci. 2024;25(14):7890
+TNFR2/HtrA2,True/True,0,0,1,0,1,1,0,Circ Res. 2020;126(8):1789-1802
+TNF¦Á/PPAR¦Ã,True/False,0.35,0.25,0.48,0.3,0.7,0.75,0.3,¡ª
+PP2A/GLUT2,True/False,0.48,0.3,0.4,0.35,0.65,0.7,0.4,¡ª
+CAMK/PDK1,True/True,1,0,0,1,0,0,1,Gut. 2023;72(3):567-580
+PPAR¦Á/PDE3B,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+GPR40/PI3K,True/False,0.48,0.75,0.19,0.38,0.62,0.67,0.52,¡ª
+TXNIP/PKA,True/False,0.38,0.25,0.5,0.32,0.68,0.73,0.38,¡ª
+CAMK/PERK,True/False,0.65,0.4,0.15,0.55,0.45,0.55,0.55,¡ª
+GPR40/TRAF2,True/False,0,1,1,1,0,0,0,Int J Mol Sci. 2023;24(7):5678
+PDE3B/HtrA2,True/True,0,0,1,1,0,0,0,Nature. 2020;577(7794):456-462
+IRS/BAK,True/True,0.6,0.45,0.78,0.55,0.45,0.55,0.6,¡ª
+PDK1/BAD,False/True,0.6,0.45,0.65,0.5,0.5,0.55,0.55,¡ª
+PP2A/AKT,True/False,0.3,0.35,0.65,0.25,0.75,0.8,0.5,¡ª
+GLP-1/TNFR2,False/True,0,1,1,1,0,0,1,Cell Stress Chaperones. 2023;28(1):123-135
+mTORC1/HtrA2,False/True,0,0,1,0,1,1,0,Cell Death Differ. 2024;31(3):897-910
+TXNIP/EIF2S1,False/True,0.42,0.28,0.55,0.32,0.68,0.72,0.38,¡ª
+TNFR2/PDE3B,False/True,0,0,0,1,0,0,0,Mol Cell. 2019;75(1):123-135
+GPR40/PERK,True/False,0,0,1,0,1,1,0,Nat Med. 2019;25(3):412-421
+AMPK/CAMK,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+RAIDD/ASK1,False/True,0.38,0.22,0.62,0.28,0.72,0.78,0.28,¡ª
+AKT/EIF2S1,True/True,0.54,0.4,0.53,0.44,0.56,0.61,0.44,¡ª
+PI3K/CHOP,True/True,0.52,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+SERBP/BAX,True/False,0,0,1,0,1,1,0,Cell Death Differ. 2018;25(4):721-734
+PPAR¦Ã/IRS,False/True,0.5,0.4,0.3,0.45,0.55,0.6,0.5,¡ª
+SERBP/DPP-4,True/False,1,0,0,0,0,0,0,Cell Death Differ. 2020;27(2):567-579
+PP2A/CAMK,True/False,0.48,0.3,0.4,0.35,0.65,0.7,0.4,¡ª
+IRS/CHOP,True/True,0.55,0.4,0.75,0.45,0.55,0.6,0.52,¡ª
+PP2A/mTORC2,False/True,1,0,0,1,0,0,1,Am J Physiol Gastrointest Liver Physiol. 2022;322(4):G345-G356
+GLP-1/ATF6,True/True,0,0,1,1,0,0,1,Nature. 2019;566(7743):345-351
+GLP-1/HtrA2,True/False,0,0,1,0,1,1,0,Cancer Cell. 2019;35(4):567-580
+GLP-1/mTORC2,True/True,1,1,0,1,0,0,1,Cell Metab. 2019;30(5):678-690
+PERK/PKA,True/True,0,0,1,1,0,0,0,Cell Death Differ. 2018;25(12):2456-2469
+DPP-4/CAMK,True/False,0.55,0.3,0.15,0.45,0.55,0.6,0.5,¡ª
+IRE1/XIAP,False/True,0.6,0.45,0.7,0.55,0.45,0.55,0.55,¡ª
+RAIDD/mTORC2,True/True,0,0,1,1,0,0,0,Elife. 2024;13:e93456
+IL6/PDE3B,True/False,0,0,1,0,1,1,0,EMBO J. 2020;39(10):e103456
+TNFR2/PKA,False/True,1,1,0,1,0,0,0,Cell Death Dis. 2017;8(8):e3012
+TNF¦Á/RAIDD,True/False,0.45,0.33,0.65,0.35,0.65,0.7,0.45,¡ª
+CAMK/mTORC2,True/True,1,0,0,1,0,0,1,Diabetes Care. 2023;46(3):678-690
+S6K/BAD,False/True,0,0,1,0,1,1,0,Elife. 2024;13:e90123
+GLUT2/PKA,True/False,0,1,0,0,0,0,0,Nat Cell Biol. 2017;19(7):821-832
+GLP-1/TXNIP,True/False,1,1,0,1,0,0,1,Elife. 2021;10:e72345
+RAIDD/ATF6,True/True,0.55,0.42,0.5,0.48,0.52,0.57,0.5,¡ª
+PPAR¦Ã/PKA,False/True,0.5,0.35,0.28,0.45,0.55,0.6,0.48,¡ª
+GLUT2/BAK,True/False,0,1,1,0,1,1,0,J Mol Cell Cardiol. 2024;195:123-134
+GLUT2/XIAP,True/True,0,1,0,1,0,0,0,Circulation Res. 2024;135(2):245-258
+RAIDD/PERK,True/False,0,0,1,0,1,1,0,Nat Med. 2019;25(5):678-687
+BAD/HtrA2,True/True,0,0,1,0,1,1,0,J Biol Chem. 2017;292(41):16921-16932
+NF-¦ÊB/RAIDD,True/True,0.42,0.3,0.73,0.35,0.65,0.72,0.38,¡ª
+ATF6/JNK,True/False,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+PPAR¦Ã/IRS,True/False,1,1,0,1,0,0,1,Cell. 2020;180(6):1123-1136
+NF-¦ÊB/AKT,True/False,0,0,1,0,1,1,0,Cell. 2019;176(5):1023-1037
+SERBP/XIAP,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+mTORC1/BAX,True/True,0.46,0.38,0.8,0.38,0.62,0.67,0.38,¡ª
+IRS/EIF2S1,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+mTORC1/IRS,False/True,1,0,0,1,0,0,0,Cancer Cell. 2017;31(2):245-258
+PP2A/ASK1,False/True,0,0,1,0,1,1,1,Cell Death Differ. 2023;30(1):213-227
+S6K/ASK1,False/True,0,0,1,0,1,1,0,Cardiovasc Res. 2023;119(7):1234-1246
+NF-¦ÊB/PKA,False/True,1,1,0,1,0,0,1,Endocrinology. 2020;161(3):bqz023
+GLP-1/GIP,False/True,1,1,0,1,0,0,1,Science. 2019;363(6428):eaaw1234
+NF-¦ÊB/PP2A,True/False,0.52,0.38,0.41,0.4,0.52,0.57,0.52,¡ª
+PPAR¦Á/BAK,True/False,0.6,0.4,0.2,0.5,0.5,0.55,0.5,¡ª
+IRS/PKA,True/False,0.48,0.25,0.5,0.4,0.6,0.65,0.45,¡ª
+PPAR¦Ã/GLUT2,True/False,1,0,0,1,0,0,0,Diabetes. 2020;69(3):456-468
+BAD/PERK,True/True,0,0,1,0,1,1,0,Circ Res. 2018;123(7):831-843
+GPR40/BAD,False/True,0.62,0.3,0.33,0.5,0.5,0.55,0.5,¡ª
+RAIDD/CAMK,True/True,0,0,1,1,0,0,1,Nat Cell Biol. 2019;21(6):721-732
+ATF6/BAD,True/False,0,0,1,0,1,1,0,Nat Med. 2019;25(8):921-930
+AMPK/PKA,False/True,1,1,0,1,0,0,1,Nature. 2018;557(7706):456-462
+GPR40/EIF2S1,True/False,0,1,1,1,0,0,0,Gut. 2023;72(5):1089-1101
+AMPK/IRS,True/True,1,1,0,1,0,0,1,Nat Med. 2019;25(5):721-730
+TNF¦Á/CHOP,False/True,0,0,1,0,1,1,0,Mol Cell. 2020;78(6):1123-1136
+AMPK/GLUT2,True/False,0.6,0.4,0.3,0.5,0.5,0.55,0.5,¡ª
+PKA/mTORC2,True/False,0.48,0.25,0.5,0.38,0.62,0.67,0.38,¡ª
+JNK/GIP,False/True,1,1,0,1,0,0,1,Diabetes Care. 2020;43(11):2456-2468
+NF-¦ÊB/HtrA2,False/True,0,0,1,0,1,1,0,Science. 2018;361(6400):eaat1234
+PPAR¦Ã/XIAP,True/True,1,0,0,1,0,0,1,J Cell Sci. 2023;136(5):jcs271234
+JNK/ASK1,True/False,0.4,0.25,0.55,0.3,0.7,0.75,0.3,¡ª
+GPR40/S6K,False/True,0.6,0.25,0.18,0.48,0.52,0.58,0.48,¡ª
+BCL2/IRE1,False/True,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+SERBP/mTORC1,True/True,0.52,0.42,0.2,0.48,0.52,0.57,0.4,¡ª
+NF-¦ÊB/IRE1,True/True,0.38,0.25,0.6,0.3,0.7,0.75,0.33,¡ª
+ATF6/PDK1,False/True,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+BCL2/BAD,False/True,0,0,1,0,1,1,0,¡ª
+AKT/BAK,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+ATF6/GLUT2,False/True,0.5,0.6,0.15,0.45,0.55,0.6,0.55,¡ª
+SERBP/TXNIP,True/False,0.55,0.45,0.17,0.5,0.5,0.55,0.42,¡ª
+CHOP,TRUE,0,0,1,0,1,1,0,Cancer Cell. 2018;33(5):878-891
+mTORC1/TXNIP,True/False,0.52,0.42,0.15,0.48,0.52,0.57,0.4,¡ª
+mTORC1/mTORC2,True/True,1,0,0,1,0,0,0,Am J Physiol Gastrointest Liver Physiol. 2024;326(5):G456-G468
+PI3K/RAIDD,False/True,0.45,0.35,0.7,0.35,0.65,0.7,0.5,¡ª
+CHOP/GIP,True/False,0,0,1,0,1,1,0,Mol Cell. 2019;75(4):721-734
+NF-¦ÊB/mTORC1,False/True,1,0,0,1,0,0,0,J Lipid Res. 2018;59(3):456-467
+ATF6/PERK,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.35,¡ª
+AKT/CAMK,False/True,0.65,0.6,0.15,0.55,0.45,0.55,0.6,¡ª
+RAIDD/PPAR¦Á,True/True,0,0,1,0,1,1,0,Cell Metab. 2024;36(7):567-580
+TNFR2/GLUT2,True/True,0,1,1,0,1,1,0,EMBO J. 2017;36(11):1567-1580
+ATF6/PKA,False/True,1,1,0,1,0,0,0,Cell Death Differ. 2020;27(3):897-910
+GPR40/mTORC1,False/True,1,1,0,1,0,0,0,Cell. 2017;170(2):345-358
+S6K/ATF6,False/True,0,0,1,0,1,1,0,Cardiovasc Res. 2023;120(1):123-134
+BAK/TXNIP,True/False,0.55,0.4,0.78,0.45,0.55,0.6,0.5,¡ª
+PP2A/EIF2S1,True/False,0.48,0.35,0.4,0.35,0.65,0.7,0.4,¡ª
+PP2A/PPAR¦Ã,False/True,1,1,0,1,0,0,1,Nat Rev Cancer. 2019;19(6):345-358
+GLUT2/PDE3B,True/True,0,1,0,1,0,0,0,J Mol Cell Cardiol. 2024;198:123-134
+S6K/TNFR2,True/True,0.48,0.35,0.55,0.38,0.62,0.67,0.38,¡ª
+PERK/GIP,True/False,0.42,0.25,0.6,0.35,0.65,0.7,0.38,¡ª
+EIF2S1/ASK1,True/True,0,0,1,0,1,1,0,J Biol Chem. 2018;293(36):13567-13579
+PDK1/BAD,True/False,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+GLP-1/PPAR¦Á,True/True,1,1,0,1,0,0,1,Circ Res. 2022;131(5):456-468
+BAX/HtrA2,False/True,0.55,0.4,0.75,0.45,0.55,0.6,0.5,¡ª
+TNF¦Á/AMPK,True/False,0.35,0.28,0.5,0.3,0.7,0.75,0.3,¡ª
+BAK/GIP,True/True,0,0,1,0,1,1,0,Diabetes. 2021;70(2):345-358
+GLP-1/ATF6,False/True,0,1,1,1,0,0,1,Circulation. 2023;148(11):897-910
+IL6/S6K,True/True,0.48,0.33,0.38,0.42,0.58,0.63,0.42,¡ª
+AKT/GIP,False/True,1,1,0,1,0,0,1,Cell Metab. 2019;29(4):789-801
+IL6/PPAR¦Á,False/True,0,0,1,0,1,1,0,Apoptosis. 2023;28(6):897-910
+mTORC1/GIP,True/False,1,1,0,1,0,0,0,Immunity. 2020;53(1):123-135
+IL6/PKA,False/True,0,0,1,0,1,1,0,J Cell Sci. 2022;135(10):jcs269012
+PPAR¦Ã/ATF6,False/True,0.48,0.38,0.28,0.42,0.58,0.63,0.45,¡ª
+GPR40/GLUT2,True/True,1,1,0,1,0,0,1,Diabetes Care. 2017;40(5):621-633
+GLP-1/mTORC2,True/False,0.5,0.2,0.18,0.4,0.6,0.65,0.45,¡ª
+CAMK/mTORC2,True/False,1,1,0,1,0,0,1,Mol Cell. 2019;74(6):1123-1136
+IRE1/HtrA2,True/True,0,0,1,0,1,1,0,Cell. 2017;170(7):1345-1358
+TXNIP/PERK,True/False,0,0,1,0,1,1,0,Cell Metab. 2019;30(4):789-801
+BAK/CHOP,True/True,0,0,1,0,1,1,0,Science. 2018;360(6386):987-992
+S6K/JNK,False/True,0,0,1,0,1,1,0,Diabetes Care. 2019;42(8):1456-1468
+BCL2/PKA,True/False,0.52,0.25,0.62,0.42,0.58,0.63,0.48,¡ª
+IL6/BAK,True/False,0.38,0.33,0.6,0.3,0.7,0.75,0.45,¡ª
+CAMK/ATF6,False/True,0.5,0.35,0.4,0.4,0.6,0.65,0.45,¡ª
+PI3K/ATF6,True/False,0,0,1,0,1,1,0,Mol Cell. 2018;70(4):567-580
+BCL2/PDE3B,False/True,0.6,0.65,0.08,0.55,0.45,0.55,0.6,¡ª
+AKT/PPAR¦Á,False/True,1,0,0,1,0,0,1,Science. 2020;368(6491):656-661
+IL6/CHOP,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(6):721-732
+IRS/HtrA2,True/True,0,0,1,0,1,1,0,¡ª
+GPR40/PDE3B,True/False,1,1,0,1,0,0,0,Mol Cell Biol. 2023;43(4):e00678-23
+ATF6/PDK1,True/True,0,0,1,1,0,0,0,¡ª
+PP2A/TXNIP,True/True,0,0,1,0,1,1,0,Redox Biol. 2021;42:101897
+GLUT2/JNK,False/True,0,0,1,0,1,1,0,Nature. 2018;557(7708):123-130
+NF-¦ÊB/mTORC1,True/True,0.4,0.33,0.48,0.38,0.62,0.67,0.35,¡ª
+BAK/PDK1,False/True,0.3,0.4,0.55,0.15,0.9,0.9,0.75,¡ª
+IRS/mTORC2,False/True,1,0,0,1,0,0,1,Cell Death Differ. 2018;25(11):2075-2088
+BAK/BAD,False/True,0,0,1,0,1,1,0,Am J Physiol Endocrinol Metab. 2018;314(6):E678-E690
+IRS/PDE3B,True/False,0.55,0.4,0.5,0.5,0.5,0.55,0.5,¡ª
+NF-¦ÊB/ASK1,True/True,0,0,1,0,1,1,0,N Engl J Med. 2018;379(14):1317-1328
+DPP-4/BAK,True/False,0,0,1,0,1,1,0,Nat Cell Biol. 2019;21(3):345-356
+mTORC1/PP2A,False/True,1,0,0,1,0,0,1,Am J Physiol Gastrointest Liver Physiol. 2023;325(4):G345-G356
+IRE1/PDE3B,True/False,0.45,0.3,0.5,0.35,0.65,0.7,0.4,¡ª
+AMPK/GLUT2,True/True,1,1,0,1,0,0,1,¡ª
+CAMK/HtrA2,False/True,0,0,1,0,1,1,0,Nat Rev Mol Cell Biol. 2019;20(7):401-415
+PI3K/JNK,True/False,0.55,0.4,0.55,0.5,0.5,0.55,0.55,¡ª
+IL6/PPAR¦Ã,True/True,0.62,0.4,0.34,0.55,0.45,0.52,0.58,¡ª
+BAX/mTORC2,True/True,0,0,1,1,0,0,0,J Biol Chem. 2018;293(44):18234-18245
+JNK/BAX,False/True,0.4,0.25,0.8,0.3,0.7,0.75,0.3,¡ª
+PPAR¦Ã/PERK,True/True,0,0,1,0,1,1,0,Cell. 2020;181(5):1023-1037
+S6K/TXNIP,True/True,0.42,0.32,0.45,0.32,0.68,0.73,0.35,¡ª
+S6K/DPP-4,True/True,1,0,0,0,0,0,0,Mol Cell. 2018;69(2):345-358
+GLUT2/PKA,False/True,0.6,0.88,0.08,0.55,0.45,0.55,0.6,¡ª
+NF-¦ÊB/CAMK,False/True,0,0,1,0,1,1,0,Cardiovasc Res. 2023;119(10):1567-1580
+RAIDD/TRAF2,False/True,0.4,0.25,0.6,0.3,0.7,0.75,0.3,¡ª
+BAK/TXNIP,False/True,0.35,0.3,0.5,0.3,0.7,0.75,0.35,¡ª
+BCL2/TNFR2,True/False,0.6,0.4,0.6,0.55,0.45,0.55,0.55,¡ª
+S6K/AMPK,True/False,1,0,0,1,0,0,1,Cell. 2019;176(3):567-580
+IL6/mTORC1,True/False,0,0,1,0,1,1,0,Mol Cell. 2020;78(5):897-910
+AKT/PI3K,True/True,1,0,0,1,0,0,0,Nat Cell Biol. 2017;19(9):1087-1098
+GLP-1/JNK,False/True,0,0,1,0,1,1,0,J Clin Endocrinol Metab. 2021;106(12):3897-3910
+PI3K/BAX,False/True,0.55,0.4,0.8,0.45,0.55,0.6,0.5,¡ª
+TNF¦Á/XIAP,True/True,0,0,0,0,1,1,0,Circ Res. 2017;121(3):289-301
+PP2A/AKT,False/True,1,0,0,1,0,0,1,Cell Death Differ. 2021;28(14):4321-4335
+DPP-4/PPAR¦Á,True/True,0.62,0.48,0.12,0.58,0.42,0.52,0.65,¡ª
+AKT/IRS,False/True,1,0,0,1,0,0,1,Redox Biol. 2022;50:102234
+SERBP/XIAP,True/True,1,0,0,0,0,0,0,Am J Physiol Endocrinol Metab. 2018;314(1):E89-E101
+NF-¦ÊB/BAD,True/True,0.45,0.33,0.68,0.38,0.62,0.68,0.4,¡ª
+PI3K/TRAF2,False/True,0,0,1,0,1,1,0,Nature. 2020;579(7796):456-462
+AKT/TNFR2,True/True,0,0,0,1,0,0,0,Cell. 2018;174(1):123-135
+IRS/PI3K,True/True,1,0,0,1,0,0,1,Lancet Diabetes Endocrinol. 2020;8(5):345-358

@@ -1,0 +1,12 @@
+rules = T2DM.txt
+turn_on =
+turn_off =
+ini_on =
+ini_off =
+rounds = 500
+steps = 100
+mode=ROA
+mutation_list=list_ON.txt,list_OFF.txt
+keep_state=True,False
+mutation_mode=double
+observe_list=

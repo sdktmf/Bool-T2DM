@@ -1,36 +1,13 @@
 # Bool-T2DM
 Simulation of a Boolean Network for Type 2 Diabetes
 
-Bool-T2DM is a python package for simulation and analysis of dynamic Boolean network models.
+Bool-T2DM is a Python package for the simulation and analysis of dynamic Boolean network models.
 
-This software package was inspired by the pioneering work of István Albert and Réka Albert in biological Boolean networks .
-SimpleBool is similar to their python package [Booleannet](http://code.google.com/p/booleannet/) but does not require coding experience. We used a pre-calculated truth table to update the state of each node and simplified the Boolean model representation. Therefore SimpleBool runs relatively faster than Booleannet. However, for advanced users, Booleannet may be recommended since it is more flexible and contains more complex updating methods such as piece wise differential method. 
+This package is developed as a fine-tuned variant of the open-source [SimpleBool](https://github.com/lujunyan118/SimpleBool) toolkit. The original SimpleBool framework was inspired by the pioneering work of István Albert and Réka Albert on biological Boolean networks. Similar to their foundational Python package [Booleannet](http://code.google.com/p/booleannet/), Bool-T2DM updates each node state using a pre-computed truth table and employs a streamlined Boolean model representation. It requires no prior coding experience for standard use, and delivers faster runtime performance compared with Booleannet. That said, for advanced users seeking greater flexibility and support for sophisticated updating algorithms (e.g., the piecewise differential method), Booleannet remains the recommended option.
 
-## Features
-
-1. Automatically running simulations of a Boolean network model and plotting results. 
-2. Using model input file (containing Boolean rules) and parameter input file as inputs. No coding experience is required.
-3. Easily performing systematic node perturbations studies. Both single and multiple perturbations are supported.
-4. Constructing the state transition graph of a Boolean network model from all initial states or randomly chosen initial states.
-5. Automatically identifying attractors and basins of attraction of a Boolean network model. 
 
 ## Requirements
 Bool-T2DM works on Python 2.7 (Python 3.0 or higher is not supported). 
-
-Matplotlib(http://matplotlib.org/) is required for BoolSimu.py to plot simulation results.
-
-Numpy(http://www.numpy.org/) and networkX(http://networkx.github.io/) are required for BoolAttractor.py to construct state transition graph and identify attractors.
-
-Enthought Python distribution or Enthought Canopy (https://www.enthought.com/) is highly recommended since they contain all the packages that SimpleBool needed.
-
-## Installation
-
-No particular installation steps are needed.
-
-For Windows, just copy these scripts to your working directory where your model input file and simulation parameter file exits and execute the scripts.
-
-For Linux, you can change the permission of the scripts to executable using 'chmod +X' and copy them to some directory that in your PATH environment variable.
-Or you can also put them in your working directory containing the model input file and parameter input file and typing 'python [scrip name]' to execute the script.
 
 ## Quick Reference
 

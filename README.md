@@ -16,10 +16,10 @@ For using BoolSimu.py to perform dynamic simulations on a Boolean network model 
 The "simu.in" file looks like:
 ```
 rules = T2DM.txt
-turn_on = DC
+turn_on = 
 turn_off =
 ini_on = GPR40,GLP-1
-ini_off = Proliferation,Apoptosis
+ini_off = 
 mode = Sync
 rounds = 500
 steps = 30
@@ -57,7 +57,7 @@ The "mutation.in" file looks like:
 rules = T2DM.txt
 turn_on = GIP
 turn_off =
-ini_on = OS,ER
+ini_on = 
 ini_off = TNFalfa, JNK
 rounds = 500
 steps = 100

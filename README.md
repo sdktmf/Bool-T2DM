@@ -5,29 +5,8 @@ Bool-T2DM is a Python package for the simulation and analysis of dynamic Boolean
 
 This package is developed as a fine-tuned variant of the open-source [SimpleBool](https://github.com/lujunyan118/SimpleBool) toolkit. The original SimpleBool framework was inspired by the pioneering work of István Albert and Réka Albert on biological Boolean networks. Similar to their foundational Python package [Booleannet](http://code.google.com/p/booleannet/), Bool-T2DM updates each node state using a pre-computed truth table and employs a streamlined Boolean model representation. It requires no prior coding experience for standard use, and delivers faster runtime performance compared with Booleannet. That said, for advanced users seeking greater flexibility and support for sophisticated updating algorithms (e.g., the piecewise differential method), Booleannet remains the recommended option.
 
-
 ## Requirements
 Bool-T2DM works on Python 2.7 (Python 3.0 or higher is not supported). 
-
-## Quick Reference
-
-### Model input file
-A model input file is a text file that contains the Boolean rules for each node in the network. A model input file can be considered as the definition of a Boolean network model.
-
-A simple model input file for a 4-node Boolean network model may look like:
-
-```
-A* = B or C
-B* = A and D
-C* = (A or B) and not D
-D* = not B
-```
-
-'A','B','C','D' are the nodes' names in a Boolean network. In a particular biological network, a nodes can be a protein, a gene or a small molecule.
-
-'and', 'or' and 'not' are logical operators that define the regulatory relationships between target node and its regulators. Parentheses can be used to denote the priority of the regulatory relationships. 
-
-'A* = B or C' means the new value of A are determined by the old value of B and C.
 
 A sample model input file of a Boolean network model describing the development of Type 2 Diabetes: [T2DM.txt]
 

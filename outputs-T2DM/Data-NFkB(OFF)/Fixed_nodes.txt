@@ -1,0 +1,4 @@
+TXNIP	0
+XIAP	0
+NFkB	0
+BCL2	0

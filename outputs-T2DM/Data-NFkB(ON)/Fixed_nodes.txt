@@ -1,0 +1,4 @@
+Apoptosis	1
+XIAP	1
+NFkB	1
+CASP9	1

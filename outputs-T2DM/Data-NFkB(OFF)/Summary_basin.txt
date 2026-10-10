@@ -1,0 +1,24 @@
+Summary of basin states information for each attractor
+Attractor: (4,5,6,7)
+Number of basins: 131072
+Summary for basin states of each attractor:
+AKT	0.50
+AMPK	0.50
+ASK1	0.50
+Apoptosis	0.50
+CASP9	0.50
+FOXO1	0.50
+GLUT4	0.50
+GSK3beta	0.50
+INS	0.50
+IRS	0.50
+JNK	0.50
+PKA	0.50
+PP2A	0.50
+PPARgamma	0.50
+S6K	0.50
+XBP1	0.50
+mTORC1	0.50
+
+
+Summary of initial state intersection for each attractors

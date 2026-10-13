@@ -44,8 +44,6 @@ Run the script by typing "python BoolSimu.py simu.in".
 
 **missing**: this parameter specified the states of those nodes whose initial states are not determined from 'turn_on','turn_off','ini_on' and 'ini_off'. Values can be 'random', 'True', or 'False'.
 
-* The parameter file, model input file should be in the same folder. 
-
 
 ### Performing node perturbation studies using BoolMutation.py
 

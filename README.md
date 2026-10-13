@@ -3,8 +3,7 @@ Simulation of a Boolean Network for Type 2 Diabetes
 
 Bool-T2DM is a Python package for the simulation and analysis of dynamic Boolean network models.
 
-This package is developed as a fine-tuned variant of the open-source [SimpleBool](https://github.com/lujunyan118/SimpleBool) toolkit. The original SimpleBool framework was inspired by the pioneering work of István Albert and Réka Albert on biological Boolean networks. Similar to their foundational Python package [Booleannet](http://code.google.com/p/booleannet/), Bool-T2DM updates each node state using a pre-computed truth table and employs a streamlined Boolean model representation. It requires no prior coding experience for standard use, and delivers faster runtime performance compared with Booleannet. That said, for advanced users seeking greater flexibility and support for sophisticated updating algorithms (e.g., the piecewise differential method), Booleannet remains the recommended option.
-
+This package is developed as a fine-tuned variant of the open-source [SimpleBool](https://github.com/lujunyan118/SimpleBool) toolkit. The original SimpleBool framework was inspired by the pioneering work of István Albert and Réka Albert on biological Boolean networks. Similar to their foundational Python package [Booleannet](http://code.google.com/p/booleannet/), Bool-T2DM updates each node state using a pre-computed truth table and employs a streamlined Boolean model representation.
 ## Requirements
 Bool-T2DM works on Python 2.7 (Python 3.0 or higher is not supported). 
 
